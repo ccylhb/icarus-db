@@ -1,0 +1,2678 @@
+[
+ {
+  "title": "Black Wolf Knife",
+  "slug": "black-wolf-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Black Wolf Knife.png",
+   "ITEM_Black_Wolf_Knife.png",
+   "T_ITEM_Black_Wolf_Knife.png",
+   "CRE_Black_Wolf_Knife.png",
+   "T_Bestiary_Black_Wolf_Knife.png"
+  ],
+  "intro": "The is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Black Wolf Knives cannot be thrown. For the thrown variant of the , view Black Wolf Throwing Knife. The recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination. }}",
+  "itemable_name": "Black_Wolf_Knife",
+  "flavor": "Sharp as ever.",
+  "description": "A knife made from the teeth of an intimidating predator.",
+  "tags": [
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T2"
+  ],
+  "durability": 2.0,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "1 Black Wolf Tooth",
+  "stats": {
+   "melee_dmg": "49-55",
+   "attributes": "+25% change to cause Minor Hemorrhage on Hit with attacks Inflicts the 'Hemorrhage' modifier for 10 seconds: A nasty gash, taking damage, worse while moving. Heal with Suture Kit.",
+   "category": "Knives",
+   "tech": "Tier 2",
+   "durability": "2,500",
+   "repair": "1 Black Wolf Tooth",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/black-wolf-knife.png"
+ },
+ {
+  "title": "Black Wolf Throwing Knife",
+  "slug": "black-wolf-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Black Wolf Throwing Knife.png",
+   "ITEM_ThrowingKnife_BlackWolf.png",
+   "ITEM_Black_Wolf_Throwing_Knife.png",
+   "T_ITEM_Black_Wolf_Throwing_Knife.png",
+   "CRE_Black_Wolf_Throwing_Knife.png",
+   "T_Bestiary_Black_Wolf_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Black Wolf Knife that can be thrown. Unlike the Black Wolf Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination. }}",
+  "itemable_name": "Black_Wolf_Throwing_Knife",
+  "flavor": "Sharp as ever.",
+  "description": "A knife made from the teeth of an intimidating predator.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "50% Projectile Break Chance +25% chance to cause Minor Hemorrhage on Hit with Attacks Inflicts the 'Hemorrhage' modifier for 10 seconds: A nasty gash, taking damage, worse while moving. Heal with Suture Kit.",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/black-wolf-throwing-knife.png"
+ },
+ {
+  "title": "Bone Javelin",
+  "slug": "bone-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Bone Javelin.png",
+   "ITEM_Javelin_Bone.png",
+   "ITEM_Bone_Throwing_Spear.png",
+   "T_ITEM_Bone_Throwing_Spear.png",
+   "CRE_Bone_Throwing_Spear.png",
+   "T_Bestiary_Bone_Throwing_Spear.png",
+   "ITEM_Bone_Javelin.png",
+   "T_ITEM_Bone_Javelin.png",
+   "CRE_Bone_Javelin.png",
+   "T_Bestiary_Bone_Javelin.png"
+  ],
+  "intro": "The is a variant of the Bone Spear that can only be thrown and is an upgrade to the Wood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Bone_Throwing_Spear",
+  "flavor": "As most new arrivals on Icarus realise at some stage, there is a certain elegance to hunting an animal for its bones, in order to craft a more effective weapon to hunt further animals.",
+  "description": "A bone blade improves ranged damage.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+10% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 1",
+   "bench": ""
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/bone-javelin.png"
+ },
+ {
+  "title": "Bone Knife",
+  "slug": "bone-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Bone Knife.png",
+   "ITEM_Bone_Knife.png",
+   "T_ITEM_Bone_Knife.png",
+   "CRE_Bone_Knife.png",
+   "T_Bestiary_Bone_Knife.png"
+  ],
+  "intro": "The is an upgrade in damage and durability from the Stone Knife, the can be used as either a melee weapon or tool. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Bone Knives cannot be thrown. For the thrown variant of the , view Bone Throwing Knife. }}",
+  "itemable_name": "Bone_Knife",
+  "flavor": "Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons?",
+  "description": "Stronger, lighter and sharper than its stone cousin.",
+  "tags": [
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 1.0,
+  "weight": "0.5 kg",
+  "bench": "",
+  "repair": "1 Bone",
+  "stats": {
+   "melee_dmg": "49 - 55",
+   "category": "Knives",
+   "tech": "Tier 1",
+   "xp": "920",
+   "durability": "1,500",
+   "repair": "1 Bone",
+   "bench": ""
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/bone-knife.png"
+ },
+ {
+  "title": "Bone Spear",
+  "slug": "bone-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Bone Spear.png",
+   "ITEM_Bone_Spear.png",
+   "T_ITEM_Bone_Spear.png",
+   "CRE_Bone_Spear.png",
+   "T_Bestiary_Bone_Spear.png"
+  ],
+  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The has twice as much health than the Wood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike the Bone Javelin, the cannot be thrown. }}",
+  "itemable_name": "Bone_Spear",
+  "flavor": "As most new arrivals on Icarus realise at some stage, there is a certain elegance to hunting an animal for its bones, in order to craft a more effective weapon to hunt further animals.",
+  "description": "A bone blade improves melee damage.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 2.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "49 - 55",
+   "crit_damage": "+10% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 1",
+   "durability": "2,000",
+   "bench": ""
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/bone-spear.png"
+ },
+ {
+  "title": "Bone Throwing Knife",
+  "slug": "bone-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Bone Throwing Knife.png",
+   "ITEM_ThrowingKnife__Bone.png",
+   "ITEM_Bone_Throwing_Knife.png",
+   "T_ITEM_Bone_Throwing_Knife.png",
+   "CRE_Bone_Throwing_Knife.png",
+   "T_Bestiary_Bone_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Bone Knife that can be thrown. Unlike the Bone Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Bone Knife in the Tier 1 Tech Tree. }}",
+  "itemable_name": "Bone_Throwing_Knife",
+  "flavor": "Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons?",
+  "description": "Stronger, lighter and sharper than its stone cousin.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "20% Projectile Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 1",
+   "bench": ""
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/bone-throwing-knife.png"
+ },
+ {
+  "title": "Carbon Javelin",
+  "slug": "carbon-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Carbon Javelin.png",
+   "ITEM_Javelin_Carbon.png",
+   "ITEM_Carbon_Throwing_Spear.png",
+   "T_ITEM_Carbon_Throwing_Spear.png",
+   "CRE_Carbon_Throwing_Spear.png",
+   "T_Bestiary_Carbon_Throwing_Spear.png",
+   "ITEM_Carbon_Javelin.png",
+   "T_ITEM_Carbon_Javelin.png",
+   "CRE_Carbon_Javelin.png",
+   "T_Bestiary_Carbon_Javelin.png"
+  ],
+  "intro": "The is a variant of the Carbon Spear that can only be thrown and is a cheaper upgrade to the Platinum Javelin that deals more damage and has a lower break chance. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Carbon_Throwing_Spear",
+  "flavor": "Kills faster, flies further.",
+  "description": "A light, resilient spear made of layered carbon fiber.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 3",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/carbon-javelin.png"
+ },
+ {
+  "title": "Carbon Spear",
+  "slug": "carbon-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Carbon Spear.png",
+   "ITEM_CarbonSpear.png",
+   "ITEM_Carbon_Spear.png",
+   "T_ITEM_Carbon_Spear.png",
+   "CRE_Carbon_Spear.png",
+   "T_Bestiary_Carbon_Spear.png"
+  ],
+  "intro": "The is an upgrade to the Platinum Spear that deals more damage and is cheaper to craft. Unlike the Carbon Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Carbon_Spear",
+  "flavor": "Kills faster, lasts longer.",
+  "description": "A light, resilient spear made of layered carbon fiber.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 30.0,
+  "weight": "1.0 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "67 - 75",
+   "crit_damage": "+25% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 3",
+   "durability": "30,000",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/carbon-spear.png"
+ },
+ {
+  "title": "Caveworm Javelin",
+  "slug": "caveworm-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Caveworm Javelin.png",
+   "ITEM_Javelin_Caveworm.png",
+   "ITEM_Caveworm_Throwing_Spear.png",
+   "T_ITEM_Caveworm_Throwing_Spear.png",
+   "CRE_Caveworm_Throwing_Spear.png",
+   "T_Bestiary_Caveworm_Throwing_Spear.png",
+   "ITEM_Caveworm_Javelin.png",
+   "T_ITEM_Caveworm_Javelin.png",
+   "CRE_Caveworm_Javelin.png",
+   "T_Bestiary_Caveworm_Javelin.png"
+  ],
+  "intro": "The is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "itemable_name": "Caveworm_Throwing_Spear",
+  "flavor": "Many factions continue to research these worms, suspecting that subterranean evolution could hold clues to the bioeffects of exotics.",
+  "description": "A spear crafted from ancient organism's armor.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Crafting Bench",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+10% Critical Damage",
+   "attributes": "10% Projectile Break Chance +100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
+   "category": "Javelins",
+   "techlvl": "Tier 2",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/caveworm-javelin.png"
+ },
+ {
+  "title": "Caveworm Knife",
+  "slug": "caveworm-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Caveworm Knife.png",
+   "ITEM_Caveworm_Knife.png",
+   "T_ITEM_Caveworm_Knife.png",
+   "CRE_Caveworm_Knife.png",
+   "T_Bestiary_Caveworm_Knife.png"
+  ],
+  "intro": "The is made with resources obtained from Caveworms. Though the can be used as a melee weapon or tool to skin fauna, the has very little durability, which can prove problematic while on the go as it can only be repaired at a Crafting Bench. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipes will need to re-do Unearthed: Research. }}",
+  "itemable_name": "Caveworm_Knife",
+  "flavor": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
+  "description": "A rare, highly durable blade.",
+  "tags": [
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T2"
+  ],
+  "durability": 2.0,
+  "weight": "0.5 kg",
+  "bench": "Crafting Bench",
+  "repair": "1 Worm Scale",
+  "stats": {
+   "melee_dmg": "49 - 55",
+   "attributes": "+100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
+   "category": "Knives",
+   "tech": "Tier 2",
+   "durability": "2,500",
+   "repair": "1 Worm Scale",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/caveworm-knife.png"
+ },
+ {
+  "title": "Caveworm Spear",
+  "slug": "caveworm-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Caveworm Spear.png",
+   "ITEM_Caveworm_Spear.png",
+   "T_ITEM_Caveworm_Spear.png",
+   "CRE_Caveworm_Spear.png",
+   "T_Bestiary_Caveworm_Spear.png"
+  ],
+  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin, the cannot be thrown. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "itemable_name": "Caveworm_Spear",
+  "flavor": "Many factions continue to research these worms, suspecting that subterranean evolution could hold clues to the bioeffects of exotics.",
+  "description": "A spear crafted from an ancient organism's armor.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 5.0,
+  "weight": "1.0 kg",
+  "bench": "Crafting Bench",
+  "repair": "",
+  "stats": {
+   "melee_damage": "49 - 55",
+   "crit_damage": "+10% Critical Damage with Spears",
+   "attributes": "+100% chance to Poison on hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
+   "category": "Spears",
+   "techlvl": "Tier 2",
+   "durability": "5,000",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/caveworm-spear.png"
+ },
+ {
+  "title": "Caveworm Throwing Knife",
+  "slug": "caveworm-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Caveworm Throwing Knife.png",
+   "ITEM_ThrowingKnife_Caveworm.png",
+   "ITEM_Caveworm_Throwing_Knife.png",
+   "T_ITEM_Caveworm_Throwing_Knife.png",
+   "CRE_Caveworm_Throwing_Knife.png",
+   "T_Bestiary_Caveworm_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Caveworm Knife that can be thrown. Unlike the Caveworm Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "itemable_name": "Caveworm_Throwing_Knife",
+  "flavor": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
+  "description": "A rare, highly durable blade.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Crafting Bench",
+  "repair": "",
+  "stats": {
+   "attributes": "10% Projectile Break Chance +100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/caveworm-throwing-knife.png"
+ },
+ {
+  "title": "Cold Steel Javelin",
+  "slug": "cold-steel-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Cold Steel Javelin.png",
+   "T_ITEM_Cold_Steel_Throwing_Spear.png",
+   "ITEM_Cold_Steel_Throwing_Spear.png",
+   "CRE_Cold_Steel_Throwing_Spear.png",
+   "T_Bestiary_Cold_Steel_Throwing_Spear.png",
+   "ITEM_Cold_Steel_Javelin.png",
+   "T_ITEM_Cold_Steel_Javelin.png",
+   "CRE_Cold_Steel_Javelin.png",
+   "T_Bestiary_Cold_Steel_Javelin.png"
+  ],
+  "intro": "The is a variant of the Cold Steel Spear that can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 100 frost damage on hit. 17-22 damage per second if the modifier procs *No weakness to frost: 200 frost damage on hit. 35-45 damage per second if t",
+  "itemable_name": "Cold_Steel_Throwing_Spear",
+  "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
+  "description": "An aerodynamic spear created using Cold Steel, unique to Icarus.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 3",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/cold-steel-javelin.png"
+ },
+ {
+  "title": "Cold Steel Spear",
+  "slug": "cold-steel-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Cold Steel Spear.png",
+   "T_ITEM_Cold_Steel_Sickle.png",
+   "ITEM_Cold_Steel_Sickle.png",
+   "CRE_Cold_Steel_Sickle.png",
+   "T_Bestiary_Cold_Steel_Sickle.png",
+   "ITEM_Cold_Steel_Spear.png",
+   "T_ITEM_Cold_Steel_Spear.png",
+   "CRE_Cold_Steel_Spear.png",
+   "T_Bestiary_Cold_Steel_Spear.png"
+  ],
+  "intro": "The is a variant of the Platinum Spear that has ridiculously high durability and deals frost damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to frost, dealing more damage than the Platinum Spear. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 17",
+  "itemable_name": "Cold_Steel_Sickle",
+  "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
+  "description": "A sturdy spear crafted using Cold Steel, unique to Icarus.",
+  "tags": [
+   "Item.Tool.Sickle"
+  ],
+  "durability": 150.0,
+  "weight": "0.5 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "33 - 35",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage",
+   "category": "Spears",
+   "techlvl": "Tier 3",
+   "durability": "150,000",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/cold-steel-spear.png"
+ },
+ {
+  "title": "Cold Steel Throwing Knife",
+  "slug": "cold-steel-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Cold Steel Throwing Knife.png",
+   "T_ITEM_Cold_Steel_Throwing_Knife.png",
+   "ITEM_Cold_Steel_Throwing_Knife.png",
+   "CRE_Cold_Steel_Throwing_Knife.png",
+   "T_Bestiary_Cold_Steel_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Cold Steel Knife that can only be thrown and is unlocked upon researching the Cold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 15 fro",
+  "itemable_name": "Cold_Steel_Throwing_Knife",
+  "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
+  "description": "A sturdy Throwing Knife crafted using Cold Steel, unique to Icarus.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "+15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 3",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/cold-steel-throwing-knife.png"
+ },
+ {
+  "title": "Combat Knife",
+  "slug": "combat-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Combat Knife.png",
+   "ITEM_Combat_Knife.png",
+   "T_ITEM_Combat_Knife.png",
+   "CRE_Combat_Knife.png",
+   "T_Bestiary_Combat_Knife.png"
+  ],
+  "intro": "While not particularly good for skinning a carcass, this knife excels in close quarters combat. Cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Combat_Knife",
+  "flavor": "Stay sharp.",
+  "description": "A hardened sheepsfoot blade for the swiftest killing and skinning.",
+  "tags": [
+   "Item.Tool.Knife.T2",
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 24.0,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "Steel Ingot",
+  "stats": {
+   "melee_dmg": "58 - 65",
+   "attributes": "Alteration Slot Available",
+   "category": "Knives",
+   "tech": "Tier 4",
+   "xp": "2,840",
+   "durability": "24,000",
+   "repair": "Steel Ingot",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/combat-knife.png"
+ },
+ {
+  "title": "Composite Javelin",
+  "slug": "composite-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Composite Javelin.png",
+   "ITEM_Javelin_Composite.png",
+   "ITEM_Composite_Throwing_Spear.png",
+   "T_ITEM_Composite_Throwing_Spear.png",
+   "CRE_Composite_Throwing_Spear.png",
+   "T_Bestiary_Composite_Throwing_Spear.png",
+   "ITEM_Composite_Javelin.png",
+   "T_ITEM_Composite_Javelin.png",
+   "CRE_Composite_Javelin.png",
+   "T_Bestiary_Composite_Javelin.png"
+  ],
+  "intro": "The is a variant of the Composite Spear that can only be thrown and is the highest damage dealing Javelin currently available. Despite the heavy tech investment to reach Composites, s are far cheaper to craft than the Titanium Javelin and are worth the investment for the increased damage and low projectile break chance. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Composite_Throwing_Spear",
+  "flavor": "Bringing two thousand years of materials technology to a sharp stick, the composite spear is lethal at long range or close quarters.",
+  "description": "Low weight, high strength, extreme damage.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "1.0 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 4",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/composite-javelin.png"
+ },
+ {
+  "title": "Composite Spear",
+  "slug": "composite-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Composite Spear.png",
+   "ITEM_Composite_Spear.png",
+   "T_ITEM_Composite_Spear.png",
+   "CRE_Composite_Spear.png",
+   "T_Bestiary_Composite_Spear.png"
+  ],
+  "intro": "The is an upgrade to the Titanium Spear that deals more damage and is cheaper to craft once Composites can be crafted. Despite Composites being a hefty tech investment, the has the highest damage output and durability outside of Prometheus exclusive Spears. Unlike the Composite Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Composite_Spear",
+  "flavor": "Bringing two thousand years of materials technology to a sharp stick, the composite spear is lethal at long range or close quarters.",
+  "description": "Low weight, high strength, extreme damage.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "1.0 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "72 - 80",
+   "crit_damage": "+25% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 4",
+   "durability": "50,000",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/composite-spear.png"
+ },
+ {
+  "title": "Frag Grenade",
+  "slug": "frag-grenade",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Frag Grenade.png",
+   "ITEM_Genade_Frag.png",
+   "ITEM_Frag_Grenade.png",
+   "T_ITEM_Frag_Grenade.png",
+   "CRE_Frag_Grenade.png",
+   "T_Bestiary_Frag_Grenade.png"
+  ],
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Stacks up to 5. WARNING: The will deal 1,000 damage to the area around it in a large radius and will drop off to 700 damage at 5 meters. }}",
+  "itemable_name": "Frag_Grenade",
+  "flavor": "Homemade explosives are the best kind.",
+  "description": "A basic fragmentation grenade design.",
+  "tags": [
+   "Item.Weapon.Grenade.Frag"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "1000 - 1000 Explosive Damage +1,500 Explosive Damage Radius",
+   "category": "Weapons",
+   "techlvl": "Tier 3"
+  },
+  "weapon_type": "Weapons",
+  "icon": "/icons/frag-grenade.png"
+ },
+ {
+  "title": "Hammerhead Grenade",
+  "slug": "hammerhead-grenade",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "T_ITEM_Slug_Grenade.png",
+   "ITEM_Slug_Grenade.png",
+   "CRE_Slug_Grenade.png",
+   "T_Bestiary_Slug_Grenade.png",
+   "ITEM_Hammerhead_Grenade.png",
+   "T_ITEM_Hammerhead_Grenade.png",
+   "CRE_Hammerhead_Grenade.png",
+   "T_Bestiary_Hammerhead_Grenade.png"
+  ],
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Sticks to whatever the grenade impacts before detonating. Stacks up to 5. Item was introduced in the Great Hunts Campaigns expansion. }}",
+  "itemable_name": "Slug_Grenade",
+  "flavor": "A grenade crafted from the spoils of victory against a Hammerhead.",
+  "description": "A sticky grenade that will attach to whatever it lands on and then explode shortly after, leaving behind a pool of slime obtained from a Hammerhead slug.",
+  "tags": [
+   "Item.Weapon.Grenade.Slug"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "150 - 150 Explosive Damage +750 Explosive Damage Radius",
+   "category": "Weapons",
+   "techlvl": "Tier 3"
+  },
+  "weapon_type": "Weapons",
+  "icon": "/icons/hammerhead-grenade.png"
+ },
+ {
+  "title": "Impact Grenade",
+  "slug": "impact-grenade",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Impact Grenade.png",
+   "T_ITEM_Grenade_Frag_Impact.png",
+   "ITEM_Frag_Grenade_Impact.png",
+   "T_ITEM_Frag_Grenade_Impact.png",
+   "CRE_Frag_Grenade_Impact.png",
+   "T_Bestiary_Frag_Grenade_Impact.png",
+   "ITEM_Impact_Grenade.png",
+   "T_ITEM_Impact_Grenade.png",
+   "CRE_Impact_Grenade.png",
+   "T_Bestiary_Impact_Grenade.png"
+  ],
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade detonates on impact with any object, be that the ground, a wall, or a creature. Stacks up to 5. WARNING: The will deal 750 damage on impact with additional damage of 1250 to the area around it in a large radius. }}",
+  "itemable_name": "Frag_Grenade_Impact",
+  "flavor": "Don't drop it.",
+  "description": "A fragmentation grenade that will explode on impact.",
+  "tags": [
+   "Item.Weapon.Grenade.Frag"
+  ],
+  "durability": null,
+  "weight": "0.5 Kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "750 - 750 Explosive Damage +1,250 Explosive Damage Radius",
+   "category": "Grenades",
+   "techlvl": "Tier 3"
+  },
+  "weapon_type": "Grenades",
+  "icon": "/icons/impact-grenade.png"
+ },
+ {
+  "title": "Inaris \"Agua\" Spear",
+  "slug": "inaris-agua-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Inaris \"Agua\" Spear.png",
+   "ITEM_Meta_Spear_Inaris_Bravo.png",
+   "T_ITEM_Meta_Spear_Inaris_Bravo.png",
+   "CRE_Meta_Spear_Inaris_Bravo.png",
+   "T_Bestiary_Meta_Spear_Inaris_Bravo.png",
+   "ITEM_Inaris_\"Agua\"_Spear.png",
+   "T_ITEM_Inaris_\"Agua\"_Spear.png",
+   "CRE_Inaris_\"Agua\"_Spear.png",
+   "T_Bestiary_Inaris_\"Agua\"_Spear.png"
+  ],
+  "intro": "The is a Workshop variant of the Miasmic Spear that deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 25 poison damage on hit. 17-22 damage per second if the modifier procs *No weakne",
+  "itemable_name": "Meta_Spear_Inaris_Bravo",
+  "flavor": "Try not to lose it",
+  "description": "A sturdily built spear with excellent grip",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 60.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "39 - 42",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Miasma on Hit with Attacks Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "60,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/inaris-agua-spear.png"
+ },
+ {
+  "title": "Inaris \"Cobalt\" Spear",
+  "slug": "inaris-cobalt-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Inaris \"Cobalt\" Spear.png",
+   "ITEM_Meta_Spear_Inaris_Delta.png",
+   "ITEM_Meta_Spear_Inaris_Charlie.png",
+   "T_ITEM_Meta_Spear_Inaris_Charlie.png",
+   "CRE_Meta_Spear_Inaris_Charlie.png",
+   "T_Bestiary_Meta_Spear_Inaris_Charlie.png",
+   "ITEM_Inaris_\"Cobalt\"_Spear.png",
+   "T_ITEM_Inaris_\"Cobalt\"_Spear.png",
+   "CRE_Inaris_\"Cobalt\"_Spear.png",
+   "T_Bestiary_Inaris_\"Cobalt\"_Spear.png"
+  ],
+  "intro": "The is a Workshop variant of the Cold Steel Spear that deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 25 Frost damage on hit. 17-22 damage per second if the modifier procs *No weakness t",
+  "itemable_name": "Meta_Spear_Inaris_Charlie",
+  "flavor": "Inaris are central players in the off-world mining industry",
+  "description": "A well-made spear that's also lightweight",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 60.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "39 - 42",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Freeze on Hit with Attacks Inflicts the 'Freeze' modifier for 10 seconds: -25% Movement Speed -25% Melee Damage",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "60,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/inaris-cobalt-spear.png"
+ },
+ {
+  "title": "Inaris \"Dusk\" Spear",
+  "slug": "inaris-dusk-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Inaris \"Dusk\" Spear.png",
+   "ITEM_Meta_Spear_Inaris_Charlie.png",
+   "ITEM_Meta_Spear_Inaris_Delta.png",
+   "T_ITEM_Meta_Spear_Inaris_Delta.png",
+   "CRE_Meta_Spear_Inaris_Delta.png",
+   "T_Bestiary_Meta_Spear_Inaris_Delta.png",
+   "ITEM_Inaris_\"Dusk\"_Spear.png",
+   "T_ITEM_Inaris_\"Dusk\"_Spear.png",
+   "CRE_Inaris_\"Dusk\"_Spear.png",
+   "T_Bestiary_Inaris_\"Dusk\"_Spear.png"
+  ],
+  "intro": "The is a Workshop variant of the Obsidian Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the excels when used against Fauna that have a weakness to fire. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 25 Fire damage on hit. 17-22 damage per second if modifier procs *No weakness to fire: 50 Fire ",
+  "itemable_name": "Meta_Spear_Inaris_Delta",
+  "flavor": "Keep your weapons by your side, you'll never know when you'll need them",
+  "description": "A reliable addition to your arsenal",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 60.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "39 - 42",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Burn on Hit with Attacks Inflicts the 'Burning' modifier for 10 seconds: -50% Health Regeneration -25% Maximum Health",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "60,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/inaris-dusk-spear.png"
+ },
+ {
+  "title": "Inaris \"Gris\" Spear",
+  "slug": "inaris-gris-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Inaris \"Gris\" Spear.png",
+   "ITEM_Meta_Spear_Inaris_Alpha.png",
+   "T_ITEM_Meta_Spear_Inaris_Alpha.png",
+   "CRE_Meta_Spear_Inaris_Alpha.png",
+   "T_Bestiary_Meta_Spear_Inaris_Alpha.png",
+   "ITEM_Inaris_\"Gris\"_Spear.png",
+   "T_ITEM_Inaris_\"Gris\"_Spear.png",
+   "CRE_Inaris_\"Gris\"_Spear.png",
+   "T_Bestiary_Inaris_\"Gris\"_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Inaris_Alpha",
+  "flavor": "Hint: Use the pointy end",
+  "description": "Slow your foes with this hunting spear.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 60.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "61 - 65 Melee Damage",
+   "attributes": "50% chance to Slow on Hit 10% chance to Immobilize on Hit Inflicts the 'Pinned' modifier for 3 seconds: -100% Movement Speed",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "60,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/inaris-gris-spear.png"
+ },
+ {
+  "title": "Iron Axe",
+  "slug": "iron-axe",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Iron_Axe.png",
+   "ITEM_Metal_Axe.png",
+   "T_ITEM_Metal_Axe.png",
+   "CRE_Metal_Axe.png",
+   "T_Bestiary_Metal_Axe.png",
+   "T_ITEM_Iron_Axe.png",
+   "CRE_Iron_Axe.png",
+   "T_Bestiary_Iron_Axe.png"
+  ],
+  "intro": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench. }}",
+  "itemable_name": "Metal_Axe",
+  "flavor": "'Technological progress is like an axe in the hands of a pathological criminal.' -- Albert Einstein",
+  "description": "An iron axe, for swifter felling and hewing.",
+  "tags": [
+   "Item.Tool.Axe"
+  ],
+  "durability": 40.0,
+  "weight": "500 grams",
+  "bench": "Anvil Bench",
+  "repair": "1 Iron Ingot",
+  "stats": {
+   "melee_dmg": "36 - 40",
+   "category": "Tools",
+   "tech": "Tier 2",
+   "xp": "740",
+   "durability": "40,000",
+   "repair": "1 Iron Ingot",
+   "bench": "Anvil Bench"
+  },
+  "weapon_type": "Tools",
+  "icon": "/icons/iron-axe.png"
+ },
+ {
+  "title": "Iron Javelin",
+  "slug": "iron-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Iron Javelin.png",
+   "ITEM_Javelin_Metal.png",
+   "ITEM_Metal_Throwing_Spear.png",
+   "T_ITEM_Metal_Throwing_Spear.png",
+   "CRE_Metal_Throwing_Spear.png",
+   "T_Bestiary_Metal_Throwing_Spear.png",
+   "ITEM_Iron_Javelin.png",
+   "T_ITEM_Iron_Javelin.png",
+   "CRE_Iron_Javelin.png",
+   "T_Bestiary_Iron_Javelin.png"
+  ],
+  "intro": "The is a variant of the Iron Spear that can only be thrown and is an upgrade over the Tier 1 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Metal_Throwing_Spear",
+  "flavor": "'I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.' -- Ingmar Bergman",
+  "description": "An iron spearhead, improving defensive power and range.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+20% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/iron-javelin.png"
+ },
+ {
+  "title": "Iron Knife",
+  "slug": "iron-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Iron Knife.png",
+   "ITEM_Metal_Knife.png",
+   "T_ITEM_Metal_Knife.png",
+   "CRE_Metal_Knife.png",
+   "T_Bestiary_Metal_Knife.png",
+   "ITEM_Iron_Knife.png",
+   "T_ITEM_Iron_Knife.png",
+   "CRE_Iron_Knife.png",
+   "T_Bestiary_Iron_Knife.png"
+  ],
+  "intro": "The is an upgrade in damage and durability from the Bone Knife, the can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as the Grizzly Bear and Buffalo. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Iron Knives cannot be thrown. For the thrown variant of the , view Iron Throwing Knife. }}",
+  "itemable_name": "Metal_Knife",
+  "flavor": "'A mind all logic is like a knife all blade. It makes the hand bleed that uses it.' -- Rabindranath Tagore",
+  "description": "A short, clip-point blade for better defense and swifter skinning.",
+  "tags": [
+   "Item.Tool.Knife.T2",
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 8.0,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "1 Iron Ingot",
+  "stats": {
+   "melee_dmg": "54 - 60",
+   "attributes": "Attachment Slot Available",
+   "category": "Knives",
+   "tech": "Tier 2",
+   "xp": "740",
+   "durability": "8,000",
+   "repair": "1 Iron Ingot",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/iron-knife.png"
+ },
+ {
+  "title": "Iron Spear",
+  "slug": "iron-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Iron Spear.png",
+   "ITEM_Metal_Spear.png",
+   "T_ITEM_Metal_Spear.png",
+   "CRE_Metal_Spear.png",
+   "T_Bestiary_Metal_Spear.png",
+   "ITEM_Iron_Spear.png",
+   "T_ITEM_Iron_Spear.png",
+   "CRE_Iron_Spear.png",
+   "T_Bestiary_Iron_Spear.png"
+  ],
+  "intro": "The is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Metal_Spear",
+  "flavor": "'I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.' -- Ingmar Bergman",
+  "description": "An iron spearhead, improving defensive power and range.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 10.0,
+  "weight": "1.0 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "54 - 60",
+   "crit_damage": "+20% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 2",
+   "durability": "10,000",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/iron-spear.png"
+ },
+ {
+  "title": "Iron Throwing Knife",
+  "slug": "iron-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Iron Throwing Knife.png",
+   "ITEM_ThrowingKnife_Metal.png",
+   "ITEM_Metal_Throwing_Knife.png",
+   "T_ITEM_Metal_Throwing_Knife.png",
+   "CRE_Metal_Throwing_Knife.png",
+   "T_Bestiary_Metal_Throwing_Knife.png",
+   "ITEM_Iron_Throwing_Knife.png",
+   "T_ITEM_Iron_Throwing_Knife.png",
+   "CRE_Iron_Throwing_Knife.png",
+   "T_Bestiary_Iron_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Iron Knife that can be thrown. Unlike the Iron Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Iron Knife in the Tier 2 Tech Tree. }}",
+  "itemable_name": "Metal_Throwing_Knife",
+  "flavor": "'A mind all logic is like a knife all blade. It makes the hand bleed that uses it.' -- Rabindranath Tagore",
+  "description": "A short, clip-point blade for better defense.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "20% Projectile Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/iron-throwing-knife.png"
+ },
+ {
+  "title": "Larkwell Martinez Spear",
+  "slug": "larkwell-martinez-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Larkwell Martinez Spear.png",
+   "ITEM_Meta_Spear_Larkwell.png",
+   "T_ITEM_Meta_Spear_Larkwell.png",
+   "CRE_Meta_Spear_Larkwell.png",
+   "T_Bestiary_Meta_Spear_Larkwell.png",
+   "ITEM_Larkwell_Martinez_Spear.png",
+   "T_ITEM_Larkwell_Martinez_Spear.png",
+   "CRE_Larkwell_Martinez_Spear.png",
+   "T_Bestiary_Larkwell_Martinez_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Larkwell",
+  "flavor": "The LM brand has a very enthusiastic user base for its products.",
+  "description": "A tough and deadly multi-purpose weapon.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 40.0,
+  "weight": "2.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "80 - 85 Melee Damage",
+   "swing_rate": "+10% Attack Speed with Spears",
+   "attributes": "-15% Stamina Consumed by Spear Actions",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "40,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/larkwell-martinez-spear.png"
+ },
+ {
+  "title": "Miasmic Javelin",
+  "slug": "miasmic-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Miasmic Javelin.png",
+   "T_ITEM_Iron_Wood_Throwing_Spear.png",
+   "ITEM_Iron_Wood_Throwing_Spear.png",
+   "CRE_Iron_Wood_Throwing_Spear.png",
+   "T_Bestiary_Iron_Wood_Throwing_Spear.png",
+   "ITEM_Miasmic_Javelin.png",
+   "T_ITEM_Miasmic_Javelin.png",
+   "CRE_Miasmic_Javelin.png",
+   "T_Bestiary_Miasmic_Javelin.png"
+  ],
+  "intro": "The is a variant of the Miasmic Spear that can only be thrown. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 125 poison damage on hit. 17-22 damage per second if the modifier procs *No weakness to poison: 250 poison damage on hit. 35-45 damage per secon",
+  "itemable_name": "Iron_Wood_Throwing_Spear",
+  "flavor": "The miasma coating this tool emits an almost unbearable stench.",
+  "description": "A toxin-coated Throwing Spear, carefully crafted using Miasma harvested from Icarus wildlife.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Miasma on Hit with Attacks Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance",
+   "category": "Javelins",
+   "techlvl": "Tier 4",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/miasmic-javelin.png"
+ },
+ {
+  "title": "Miasmic Spear",
+  "slug": "miasmic-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Miasmic Spear.png",
+   "T_ITEM_Iron_Wood_Spear.png",
+   "ITEM_Iron_Wood_Spear.png",
+   "CRE_Iron_Wood_Spear.png",
+   "T_Bestiary_Iron_Wood_Spear.png",
+   "ITEM_Miasmic_Spear.png",
+   "T_ITEM_Miasmic_Spear.png",
+   "CRE_Miasmic_Spear.png",
+   "T_Bestiary_Miasmic_Spear.png"
+  ],
+  "intro": "The is a variant of the Titanium Spear that has ridiculously high durability and deals poison damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to poison, dealing more damage than the Titanium Spear. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to pois",
+  "itemable_name": "Iron_Wood_Spear",
+  "flavor": "The miasma coating this tool emits an almost unbearable stench.",
+  "description": "A toxin-coated spear, carefully crafted using Miasma harvested from Icarus wildlife.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 120.0,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "35 - 37",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Miasma on Hit with Attacks Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance",
+   "category": "Spears",
+   "techlvl": "Tier 4",
+   "durability": "120,000",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/miasmic-spear.png"
+ },
+ {
+  "title": "Miasmic Throwing Knife",
+  "slug": "miasmic-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Miasmic Throwing Knife.png",
+   "T_ITEM_Iron_Wood_Throwing_Knife.png",
+   "ITEM_Iron_Wood_Throwing_Knife.png",
+   "CRE_Iron_Wood_Throwing_Knife.png",
+   "T_Bestiary_Iron_Wood_Throwing_Knife.png",
+   "ITEM_Miasmic_Throwing_Knife.png",
+   "T_ITEM_Miasmic_Throwing_Knife.png",
+   "CRE_Miasmic_Throwing_Knife.png",
+   "T_Bestiary_Miasmic_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Miasmic Knife that can only be thrown and is unlocked upon researching the Miasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 17 poi",
+  "itemable_name": "Iron_Wood_Throwing_Knife",
+  "flavor": "The miasma coating this tool emits an almost unbearable stench.",
+  "description": "A toxin-coated Throwing Knife, carefully crafted using Miasma harvested from Icarus wildlife.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "+15% chance to cause Miasma on Hit with Attacks Inflicts the 'Miasma' modifier for 10 seconds: -25 Physical Resistance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 4",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/miasmic-throwing-knife.png"
+ },
+ {
+  "title": "MXC Spear",
+  "slug": "mxc-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_MXC Spear.png",
+   "ITEM_Meta_Spear_Printed.png",
+   "T_ITEM_Meta_Spear_Printed.png",
+   "CRE_Meta_Spear_Printed.png",
+   "T_Bestiary_Meta_Spear_Printed.png",
+   "ITEM_MXC_Spear.png",
+   "T_ITEM_MXC_Spear.png",
+   "CRE_MXC_Spear.png",
+   "T_Bestiary_MXC_Spear.png"
+  ],
+  "intro": "The is the first Spear that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Printed",
+  "flavor": "Using techniques pioneered in the early 21st century, additive manufacturing has rendered metal the new plastic.",
+  "description": "A low quality, but perfectly serviceable spear 3D printed spear.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 30.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "52 - 55 Melee Damage",
+   "crit_damage": "+15% Critical Damage with Spears",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "30,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/mxc-spear.png"
+ },
+ {
+  "title": "Obsidian Javelin",
+  "slug": "obsidian-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Obsidian Javelin.png",
+   "T_ITEM_Obsidian_Throwing_Spear.png",
+   "ITEM_Obsidian_Throwing_Spear.png",
+   "CRE_Obsidian_Throwing_Spear.png",
+   "T_Bestiary_Obsidian_Throwing_Spear.png",
+   "ITEM_Obsidian_Javelin.png",
+   "T_ITEM_Obsidian_Javelin.png",
+   "CRE_Obsidian_Javelin.png",
+   "T_Bestiary_Obsidian_Javelin.png"
+  ],
+  "intro": "The is a variant of the Obsidian Spear that can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 85 fire damage on hit. 17-22 damage per second if the modifier procs *No weakness to fire: 170 fire damage on hit. 35-45 damage per second if the modifier pro",
+  "itemable_name": "Obsidian_Throwing_Spear",
+  "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
+  "description": "An aerodynamic spear created with a sharpened point of Obsidian.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+20% Critical Damage",
+   "attributes": "+15% chance to cause Burn on Hit with Attacks Inflicts the 'Burning' modifier for 10 seconds: -50% Health Regeneration -25% Maximum Health",
+   "category": "Javelins",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/obsidian-javelin.png"
+ },
+ {
+  "title": "Obsidian Spear",
+  "slug": "obsidian-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Obsidian Spear.png",
+   "T_ITEM_Obsidian_Spear.png",
+   "ITEM_Obsidian_Spear.png",
+   "CRE_Obsidian_Spear.png",
+   "T_Bestiary_Obsidian_Spear.png"
+  ],
+  "intro": "The is a variant of the Iron Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the excels when used against Fauna that have a weakness to fire, dealing more damage than the Iron Spear. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 15 Fire damage on hit. 17-22 damage per second if modifier procs *N",
+  "itemable_name": "Obsidian_Spear",
+  "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
+  "description": "A lightweight spear created with a sharpened point of obsidian.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 60.0,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "27 - 30",
+   "crit_damage": "+20% Critical Damage",
+   "attributes": "+15% chance to cause Burn on Hit with Attacks Inflicts the 'Burning' modifier for 10 seconds: -50% Health Regeneration -25% Health Regeneration",
+   "category": "Spears",
+   "techlvl": "Tier 2",
+   "durability": "60,000",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/obsidian-spear.png"
+ },
+ {
+  "title": "Obsidian Throwing Knife",
+  "slug": "obsidian-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Obsidian Throwing Knife.png",
+   "T_ITEM_Obsidian_Throwing_Knife.png",
+   "ITEM_Obsidian_Throwing_Knife.png",
+   "CRE_Obsidian_Throwing_Knife.png",
+   "T_Bestiary_Obsidian_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Obsidian Knife that can only be thrown and is unlocked upon researching the Obsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 16 fire damage on hit. 1",
+  "itemable_name": "Obsidian_Throwing_Knife",
+  "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
+  "description": "A lightweight throwing knife created with a sharpened blade of Obsidian.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "+15% chance to cause Burn on Hit with Attacks Inflicts the 'Burning' modifier for 10 seconds: -50% Health Regeneration -25% Maximum Health",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/obsidian-throwing-knife.png"
+ },
+ {
+  "title": "Platinum Crossbow",
+  "slug": "platinum-crossbow",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Platinum Crossbow.png",
+   "ITEM_Platinum_Crossbow.png",
+   "T_ITEM_Platinum_Crossbow.png",
+   "CRE_Platinum_Crossbow.png",
+   "T_Bestiary_Platinum_Crossbow.png"
+  ],
+  "intro": "The is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate than Bows. The shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "itemable_name": "Platinum_Crossbow",
+  "flavor": "It's time for some serious damage.",
+  "description": "A crossbow that automatically reloads for rapid fire.",
+  "tags": [
+   "Item.Weapon.Bow",
+   "Item.Weapon.Crossbow"
+  ],
+  "durability": 15.0,
+  "weight": "1.0 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "fire_rate": "+50 Rate of Fire per Minute",
+   "reload_speed": "0.8 seconds to Reload",
+   "attributes": "25% chance to Slow on Hit with Attacks 100% Hardened Point Penetration Inflicts the 'Slowed' modifier for 5 seconds: -50% Movement Speed",
+   "category": "Crossbows",
+   "techlvl": "Tier 3",
+   "durability": "15,000",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Crossbows",
+  "icon": "/icons/platinum-crossbow.png"
+ },
+ {
+  "title": "Platinum Javelin",
+  "slug": "platinum-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Platinum Javelin.png",
+   "ITEM_Javelin_Platinum.png",
+   "ITEM_Platinum_Throwing_Spear.png",
+   "T_ITEM_Platinum_Throwing_Spear.png",
+   "CRE_Platinum_Throwing_Spear.png",
+   "T_Bestiary_Platinum_Throwing_Spear.png",
+   "ITEM_Platinum_Javelin.png",
+   "T_ITEM_Platinum_Javelin.png",
+   "CRE_Platinum_Javelin.png",
+   "T_Bestiary_Platinum_Javelin.png"
+  ],
+  "intro": "The is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Platinum_Throwing_Spear",
+  "flavor": "A midweight, short-shafted ahlspeiss spear that, composition aside, would not have looked out of place in 16th century Prussia.",
+  "description": "Priceless on Earth. A projectile on Icarus.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 3",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/platinum-javelin.png"
+ },
+ {
+  "title": "Platinum Knife",
+  "slug": "platinum-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Platinum Knife.png",
+   "ITEM_Platinum_Knife.png",
+   "T_ITEM_Platinum_Knife.png",
+   "CRE_Platinum_Knife.png",
+   "T_Bestiary_Platinum_Knife.png"
+  ],
+  "intro": "The is an upgrade in damage and durability from the Steel Knife, the can be used as either a melee weapon or tool. Unlike the Platinum Throwing Knife, the cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Platinum_Knife",
+  "flavor": "Platinum's durablity gives an incredibly accurate, lethal cutting edge.",
+  "description": "A precision blade, stronger than steel.",
+  "tags": [
+   "Item.Tool.Knife.T2",
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 24.0,
+  "weight": "0.5 kg",
+  "bench": "Forge Foundry",
+  "repair": "Platinum Ingot",
+  "stats": {
+   "melee_dmg": "66 - 70",
+   "attributes": "Attachement Slot Available",
+   "category": "Knives",
+   "tech": "Tier 3",
+   "xp": "4,520",
+   "durability": "24,000",
+   "repair": "Platinum Ingot",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/platinum-knife.png"
+ },
+ {
+  "title": "Platinum Spear",
+  "slug": "platinum-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Platinum Spear.png",
+   "ITEM_Platinum_Spear.png",
+   "T_ITEM_Platinum_Spear.png",
+   "CRE_Platinum_Spear.png",
+   "T_Bestiary_Platinum_Spear.png"
+  ],
+  "intro": "The is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Platinum_Spear",
+  "flavor": "A midweight, short-shafted ahlspeiss spear that, composition aside, would not have looked out of place in 16th century Prussia.",
+  "description": "Priceless on Earth. An advanced survival tool on Icarus.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 30.0,
+  "weight": "1.0 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "66 - 70",
+   "crit_damage": "+25% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 3",
+   "durability": "30,000",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/platinum-spear.png"
+ },
+ {
+  "title": "Platinum Throwing Knife",
+  "slug": "platinum-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Platinum Throwing Knife.png",
+   "ITEM_ThrowingKnife_Platinum.png",
+   "ITEM_Platinum_Throwing_Knife.png",
+   "T_ITEM_Platinum_Throwing_Knife.png",
+   "CRE_Platinum_Throwing_Knife.png",
+   "T_Bestiary_Platinum_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Platinum Knife that can be thrown. Unlike the Platinum Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Platinum Knife in the Tier 3 Tech Tree. }}",
+  "itemable_name": "Platinum_Throwing_Knife",
+  "flavor": "Platinum's durablity gives an incredibly accurate, lethal cutting edge.",
+  "description": "A precision blade, stronger than steel.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "5% Projectile Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 3",
+   "bench": "Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/platinum-throwing-knife.png"
+ },
+ {
+  "title": "Quarrite Grenade",
+  "slug": "quarrite-grenade",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Quarrite Grenade.png",
+   "T_ITEM_Rock_Golem_Grenade.png",
+   "ITEM_Rock_Golem_Grenade.png",
+   "CRE_Rock_Golem_Grenade.png",
+   "T_Bestiary_Rock_Golem_Grenade.png",
+   "ITEM_Quarrite_Grenade.png",
+   "T_ITEM_Quarrite_Grenade.png",
+   "CRE_Quarrite_Grenade.png",
+   "T_Bestiary_Quarrite_Grenade.png"
+  ],
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Item was introduced in the Great Hunts Campaigns expansion. }}",
+  "itemable_name": "Rock_Golem_Grenade",
+  "flavor": "Like those little colored toy building blocks, but much much older.",
+  "description": "Explodes into many sharp objects that damage and slow.",
+  "tags": [
+   "Item.Weapon.Grenade.RockGolem"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "200 - 200 Explosive Damage +1000 Explosive Damage Radius",
+   "category": "Weapons",
+   "techlvl": "Tier 3"
+  },
+  "weapon_type": "Weapons",
+  "icon": "/icons/quarrite-grenade.png"
+ },
+ {
+  "title": "Rusty Shotgun",
+  "slug": "rusty-shotgun",
+  "category": "Weapons",
+  "infobox": "ItemData/Firearms",
+  "images": [
+   "ITEM_Farmers_Shotgun.png",
+   "T_ITEM_Farmers_Shotgun.png",
+   "CRE_Farmers_Shotgun.png",
+   "T_Bestiary_Farmers_Shotgun.png",
+   "ITEM_Rusty_Shotgun.png",
+   "T_ITEM_Rusty_Shotgun.png",
+   "CRE_Rusty_Shotgun.png",
+   "T_Bestiary_Rusty_Shotgun.png"
+  ],
+  "intro": "A crude version of the Shotgun that uses 00 Buckshot Shells for ammunition. Despite it being relatively cheap to craft, it is not worth the talent point due to its subpar statistics. The requires the Talent, and can be crafted at the Machining Bench }}",
+  "itemable_name": "Farmers_Shotgun",
+  "flavor": "A basic addition to your arsenal",
+  "description": "A crude shotgun hastily pulled together",
+  "tags": [
+   "Item.Weapon.Firearm.Shotgun"
+  ],
+  "durability": 6000.0,
+  "weight": "3000",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "roundsperminute": "55",
+   "reloadtime": "0.75",
+   "launchforce": "600",
+   "hipaccuracyx": "0.6000000238418579",
+   "hipaccuracyy": "0.6000000238418579",
+   "aimaccuracyx": "0.10000000149011612",
+   "aimaccuracyy": "0.10000000149011612"
+  },
+  "weapon_type": "Shotguns",
+  "icon": "/icons/rusty-shotgun.png"
+ },
+ {
+  "title": "Sandworm Javelin",
+  "slug": "sandworm-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Sandworm Javelin.png",
+   "ITEM_Javelin_Sandworm.png",
+   "ITEM_Sandworm_Throwing_Spear.png",
+   "T_ITEM_Sandworm_Throwing_Spear.png",
+   "CRE_Sandworm_Throwing_Spear.png",
+   "T_Bestiary_Sandworm_Throwing_Spear.png",
+   "ITEM_Sandworm_Javelin.png",
+   "T_ITEM_Sandworm_Javelin.png",
+   "CRE_Sandworm_Javelin.png",
+   "T_Bestiary_Sandworm_Javelin.png"
+  ],
+  "intro": "The is a variant of the Sandworm Spear that can only be thrown. Considering the deals the same amount of damage as a Bone Javelin, the is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "itemable_name": "Sandworm_Throwing_Spear",
+  "flavor": "Group 15 continues to research sandworms, suspecting its subterranean evolution could hold clues to the bioeffects of exotics.",
+  "description": "A spear crafted from ancient organism's armor.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Crafting Bench",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+10% Critical Damage",
+   "attributes": "10% Projectile Break Chance 100% chance to Wound on Hit with Attacks Inflicts the 'Wound' modifier until cured: -80% Health Regeneration Currently Wounded",
+   "category": "Javelins",
+   "techlvl": "Tier 2",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/sandworm-javelin.png"
+ },
+ {
+  "title": "Sandworm Knife",
+  "slug": "sandworm-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Sandworm Knife.png",
+   "ITEM_Worm_Knife.png",
+   "ITEM_Sandworm_Knife.png",
+   "T_ITEM_Sandworm_Knife.png",
+   "CRE_Sandworm_Knife.png",
+   "T_Bestiary_Sandworm_Knife.png"
+  ],
+  "intro": "The is made with scales obtained from Sandworms. Considering the deals the same amount of damage as a Steel Knife, the is overshadowed by higher-tier knives and is not worth the effort. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "itemable_name": "Sandworm_Knife",
+  "flavor": "Evolved to resist prolonged sand abrasion, the sandworm's chitin-analogue scales holds an excellent edge.",
+  "description": "A rare, highly durable blade.",
+  "tags": [
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T2"
+  ],
+  "durability": 5.0,
+  "weight": "0.5 kg",
+  "bench": "Crafting Bench",
+  "repair": "1 Sandworm Scale",
+  "stats": {
+   "melee_dmg": "58 - 65",
+   "attributes": "+100% chance to Wound on Hit with Attacks Inflicts the 'Wound' modifier until cured: -80% Health Regeneration Currently Wounded",
+   "category": "Knives",
+   "tech": "Tier 2",
+   "durability": "5,000",
+   "repair": "1 Sandworm Scale",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/sandworm-knife.png"
+ },
+ {
+  "title": "Sandworm Spear",
+  "slug": "sandworm-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Sandworm Spear.png",
+   "ITEM_Worm_Spear.png",
+   "ITEM_Sandworm_Spear.png",
+   "T_ITEM_Sandworm_Spear.png",
+   "CRE_Sandworm_Spear.png",
+   "T_Bestiary_Sandworm_Spear.png"
+  ],
+  "intro": "The is made with scales from Sandworms and can be used for melee combat with reach. Considering the deals the same amount of damage as a Bone Spear, the is overshadowed by higher-tier spears and is not worth the effort. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "itemable_name": "Sandworm_Spear",
+  "flavor": "Group 15 continues to research sandworms, suspecting its subterranean evolution could hold clues to the bioeffects of exotics.",
+  "description": "A spear crafted from an ancient organism's armor.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 15.0,
+  "weight": "1.0 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "54 - 60",
+   "crit_damage": "+10% Critical Damage with Spears",
+   "attributes": "100% chance to Wound on Hit with Spears Inflicts the 'Wound' modifier until cured: -80% Health Regeneration Currently Wounded",
+   "category": "Spears",
+   "techlvl": "Tier 2",
+   "durability": "15,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/sandworm-spear.png"
+ },
+ {
+  "title": "Sandworm Throwing Knife",
+  "slug": "sandworm-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Sandworm Throwing Knife.png",
+   "ITEM_ThrowingKnife_Sandworm.png",
+   "ITEM_Sandworm_Throwing_Knife.png",
+   "T_ITEM_Sandworm_Throwing_Knife.png",
+   "CRE_Sandworm_Throwing_Knife.png",
+   "T_Bestiary_Sandworm_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Sandworm Knife that can be thrown. Unlike the Sandworm Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "itemable_name": "Sandworm_Throwing_Knife",
+  "flavor": "Evolved to resist prolonged sand abrasion, the sandworm's chitin-analogue scales holds an excellent edge.",
+  "description": "A rare, highly durably blade.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Crafting Bench",
+  "repair": "",
+  "stats": {
+   "attributes": "10% Projectile Break Chance 100% chance to Wound on Hit with Attacks Inflicts the 'Wound' modifier until cured: -80% Health Regeneration Currently Wounded",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Crafting Bench"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/sandworm-throwing-knife.png"
+ },
+ {
+  "title": "Shengong \"Dida\" Spear",
+  "slug": "shengong-dida-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Dida\" Spear.png",
+   "ITEM_Meta_Spear_Shengong_Charlie.png",
+   "T_ITEM_Meta_Spear_Shengong_Charlie.png",
+   "CRE_Meta_Spear_Shengong_Charlie.png",
+   "T_Bestiary_Meta_Spear_Shengong_Charlie.png",
+   "ITEM_Shengong_\"Dida\"_Spear.png",
+   "T_ITEM_Shengong_\"Dida\"_Spear.png",
+   "CRE_Shengong_\"Dida\"_Spear.png",
+   "T_Bestiary_Shengong_\"Dida\"_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Shengong_Charlie",
+  "flavor": "Shengong is a subsidary of Asia's space administration, Sinotai. Its operation may be highly beauracratic, but its products are legendary for their efficiency.",
+  "description": "A decent spear that knows exactly what it is.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "57 - 60 Melee Damage",
+   "swing_rate": "+15% Attack Speed with Spears",
+   "crit_damage": "+20% Critical Damage with Spears",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/shengong-dida-spear.png"
+ },
+ {
+  "title": "Shengong \"Gong Bu\" Spear",
+  "slug": "shengong-gong-bu-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Gong Bu\" Spear.png",
+   "ITEM_Meta_Spear_Shengong_Beta.png",
+   "T_ITEM_Meta_Spear_Shengong_Beta.png",
+   "CRE_Meta_Spear_Shengong_Beta.png",
+   "T_Bestiary_Meta_Spear_Shengong_Beta.png",
+   "ITEM_Shengong_\"Gong_Bu\"_Spear.png",
+   "T_ITEM_Shengong_\"Gong_Bu\"_Spear.png",
+   "CRE_Shengong_\"Gong_Bu\"_Spear.png",
+   "T_Bestiary_Shengong_\"Gong_Bu\"_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Shengong_Beta",
+  "flavor": "Shengong's designs excel in no particular areas, but as a result have produced many classics of design economy.",
+  "description": "Doesn't need to last a lifetime, to save one.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "57 - 60 Melee Damage",
+   "swing_rate": "+10% Attack Speed with Spears",
+   "crit_damage": "+20% Critical Damage with Spears",
+   "attributes": "+20% Stamina Consumed by Tool Actions",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/shengong-gong-bu-spear.png"
+ },
+ {
+  "title": "Shengong \"Ji\" Bow",
+  "slug": "shengong-ji-bow",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Ji\" Bow.png",
+   "ITEM_Meta_Bow_Shengong.png",
+   "ITEM_Meta_Bow_Shengong_Beta.png",
+   "T_ITEM_Meta_Bow_Shengong_Beta.png",
+   "CRE_Meta_Bow_Shengong_Beta.png",
+   "T_Bestiary_Meta_Bow_Shengong_Beta.png",
+   "ITEM_Shengong_\"Ji\"_Bow.png",
+   "T_ITEM_Shengong_\"Ji\"_Bow.png",
+   "CRE_Shengong_\"Ji\"_Bow.png",
+   "T_Bestiary_Shengong_\"Ji\"_Bow.png"
+  ],
+  "intro": "The is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
+  "itemable_name": "Meta_Bow_Shengong_Beta",
+  "flavor": "Silent, deadly, affordable.",
+  "description": "A powerful, if not especially durable recurve design.",
+  "tags": [
+   "Item.Weapon.Bow",
+   "Item.Meta"
+  ],
+  "durability": 50.0,
+  "weight": "0.1kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "fire_rate": "+300 Rate of Fire per Minute",
+   "reload_speed": "0.7 seconds to Reload",
+   "ammo_capacity": "+1",
+   "attributes": "-15% Movement Speed -15% Charge Speed of Bows",
+   "category": "Bows",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Bows",
+  "icon": "/icons/shengong-ji-bow.png"
+ },
+ {
+  "title": "Shengong \"Jijing\" Bow",
+  "slug": "shengong-jijing-bow",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Jijing\" Bow.png",
+   "ITEM_Meta_Bow_Shengong.png",
+   "ITEM_Meta_Bow_Shengong_Alpha.png",
+   "T_ITEM_Meta_Bow_Shengong_Alpha.png",
+   "CRE_Meta_Bow_Shengong_Alpha.png",
+   "T_Bestiary_Meta_Bow_Shengong_Alpha.png",
+   "ITEM_Shengong_\"Jijing\"_Bow.png",
+   "T_ITEM_Shengong_\"Jijing\"_Bow.png",
+   "CRE_Shengong_\"Jijing\"_Bow.png",
+   "T_Bestiary_Shengong_\"Jijing\"_Bow.png"
+  ],
+  "intro": "The is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
+  "itemable_name": "Meta_Bow_Shengong_Alpha",
+  "flavor": "Shengong designs are not designed to last, but rather, for ease of repair, being defined by the high degree of interchangeability of parts between their products.",
+  "description": "An affordable, reliable and efficient bow with acceptable performance.",
+  "tags": [
+   "Item.Weapon.Bow",
+   "Item.Meta"
+  ],
+  "durability": 50.0,
+  "weight": "0.1kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "fire_rate": "+300 Rate of Fire per Minute",
+   "reload_speed": "+0.7 seconds to Reload",
+   "ammo_capacity": "+1",
+   "crit_damage": "-5% Critical Damage with Bows/Crossbows",
+   "attributes": "+15% Arrow Speed",
+   "category": "Bows",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Bows",
+  "icon": "/icons/shengong-jijing-bow.png"
+ },
+ {
+  "title": "Shengong \"Jiju\" Spear",
+  "slug": "shengong-jiju-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Jiju\" Spear.png",
+   "ITEM_Meta_Spear_Shengong_Charlie.png",
+   "ITEM_Meta_Spear_Shengong_Delta.png",
+   "T_ITEM_Meta_Spear_Shengong_Delta.png",
+   "CRE_Meta_Spear_Shengong_Delta.png",
+   "T_Bestiary_Meta_Spear_Shengong_Delta.png",
+   "ITEM_Shengong_\"Jiju\"_Spear.png",
+   "T_ITEM_Shengong_\"Jiju\"_Spear.png",
+   "CRE_Shengong_\"Jiju\"_Spear.png",
+   "T_Bestiary_Shengong_\"Jiju\"_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Shengong_Delta",
+  "flavor": "There's a beauty to economy.",
+  "description": "A minor miracle of low cost production.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "57 - 60 Melee Damage",
+   "crit_damage": "+20% Critical Damage with Spears",
+   "attributes": "+10% Movement Speed -10% Stamina Consumed by Sprinting",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/shengong-jiju-spear.png"
+ },
+ {
+  "title": "Shengong \"Xingxing\" Spear",
+  "slug": "shengong-xingxing-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong \"Xingxing\" Spear.png",
+   "ITEM_Meta_Spear_Shengong_Alpha.png",
+   "T_ITEM_Meta_Spear_Shengong_Alpha.png",
+   "CRE_Meta_Spear_Shengong_Alpha.png",
+   "T_Bestiary_Meta_Spear_Shengong_Alpha.png",
+   "ITEM_Shengong_\"Xingxing\"_Spear.png",
+   "T_ITEM_Shengong_\"Xingxing\"_Spear.png",
+   "CRE_Shengong_\"Xingxing\"_Spear.png",
+   "T_Bestiary_Shengong_\"Xingxing\"_Spear.png"
+  ],
+  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "itemable_name": "Meta_Spear_Shengong_Alpha",
+  "flavor": "No weapons are more widespread in human space than Shengong's.",
+  "description": "The XingXing many not excel in any area, but represents unalloyed adequacy.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "57 - 60 Melee Damage",
+   "crit_damage": "+20% Critical Damage with Spears",
+   "attributes": "-5% Melee Resistance +10% Movement Speed",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/shengong-xingxing-spear.png"
+ },
+ {
+  "title": "Shengong PF1 Spear",
+  "slug": "shengong-pf1-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shengong PF1 Spear.png",
+   "T_ITEM_Meta_Spear_Shengong_Echo.png",
+   "ITEM_Meta_Spear_Shengong_Echo.png",
+   "CRE_Meta_Spear_Shengong_Echo.png",
+   "T_Bestiary_Meta_Spear_Shengong_Echo.png",
+   "ITEM_Shengong_PF1_Spear.png",
+   "T_ITEM_Shengong_PF1_Spear.png",
+   "CRE_Shengong_PF1_Spear.png",
+   "T_Bestiary_Shengong_PF1_Spear.png"
+  ],
+  "intro": "The is a Workshop that deals electric damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic electric damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to electric. A list of Fauna that are weak to electric can be viewed here. When the Electroshock modifier does proc, periodic electric damage is dealt to the target over the span of 4 seconds. Fauna with: *A resistance to electric: 25 electric damage on hit. 15-22 damage per second if the modifier procs *No weakness to elec",
+  "itemable_name": "Meta_Spear_Shengong_Echo",
+  "flavor": "Brought to you by Shengong - the Brand of the People.",
+  "description": "A brand new take on the classic Prospector's Spear. The next generation of tools on Icarus.",
+  "tags": [
+   "Item.Meta",
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 50.0,
+  "weight": "0.1 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "melee_damage": "39 - 42",
+   "crit_damage": "+25% Critical Damage",
+   "attributes": "+15% chance to cause Electroshock on Hit with Attacks Inflicts the 'Electroshock' modifier for 4 seconds: -90% Movement Speed -25% Projectile Damage -25% Melee Damage",
+   "category": "Spears",
+   "techlvl": "Orbital Tech",
+   "durability": "50,000"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/shengong-pf1-spear.png"
+ },
+ {
+  "title": "Shotgun",
+  "slug": "shotgun",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Shotgun.png",
+   "T_ITEM_Shotgun.png",
+   "CRE_Shotgun.png",
+   "T_Bestiary_Shotgun.png"
+  ],
+  "intro": "The is one of the first Firearms available to prospectors. Using 00 Buckshot Shell for ammunition, the is more powerful than the Bolt Action Rifle at close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with the Creatures of Icarus. The can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Machining Bench for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "itemable_name": "Shotgun",
+  "flavor": "Ruin something's day, every day.",
+  "description": "The reliable and timeless pump-action, savage at short range.",
+  "tags": [
+   "Item.Weapon.Firearm.Shotgun"
+  ],
+  "durability": 10.0,
+  "weight": "1.0 kg",
+  "bench": "Machining Bench",
+  "repair": "",
+  "stats": {
+   "fire_rate": "+70 Rate of Fire per Minute",
+   "reload_speed": "0.75 seconds to Reload",
+   "ammo_capacity": "+6 Ammo Capacity",
+   "category": "Firearms",
+   "techlvl": "Tier 3",
+   "durability": "10,000",
+   "bench": "Machining Bench"
+  },
+  "weapon_type": "Firearms",
+  "icon": "/icons/shotgun.png"
+ },
+ {
+  "title": "Smoke Grenade",
+  "slug": "smoke-grenade",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Smoke Grenade.png",
+   "ITEM_Genade_Smoke.png",
+   "ITEM_Smoke_Grenade.png",
+   "T_ITEM_Smoke_Grenade.png",
+   "CRE_Smoke_Grenade.png",
+   "T_Bestiary_Smoke_Grenade.png"
+  ],
+  "intro": "A smoke grenade is a canister-type grenade used as a signaling device, target or landing zone marking device, or as a screening device for unit movements. Upon detonation, the will cover the area in smoke and will obstruct the vision of creatures within the smoke. However, it will not stop creatures that are already aggressively pursuing Prospectors, creatures spawned by Thumpers, Radars, or other mission items that have been placed or activated. Stacks up to 5. }} Note: A Biofuel Can or MXC Fuel Canister containing at least 0.5 L of fuel is required to be in the Machining Bench to craft a sin",
+  "itemable_name": "Smoke_Grenade",
+  "flavor": "",
+  "description": "A canister grenade, used for drawing attention or concealing.",
+  "tags": [
+   "Item.Weapon.Grenade"
+  ],
+  "durability": null,
+  "weight": "0.5 kg",
+  "bench": "Machining Bench",
+  "repair": "",
+  "stats": {
+   "category": "Weapons",
+   "techlvl": "Tier 3",
+   "bench": "Machining Bench"
+  },
+  "weapon_type": "Weapons",
+  "icon": "/icons/smoke-grenade.png"
+ },
+ {
+  "title": "Steel Axe",
+  "slug": "steel-axe",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Steel_Axe.png",
+   "T_ITEM_Steel_Axe.png",
+   "CRE_Steel_Axe.png",
+   "T_Bestiary_Steel_Axe.png"
+  ],
+  "intro": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree, after reaching Level 20. }}",
+  "itemable_name": "Steel_Axe",
+  "flavor": "Steel of this quality would be an embarrassment to any industry on Earth, but on Icarus remains a minor miracle.",
+  "description": "A Steel Axe, for swifter felling and hewing.",
+  "tags": [
+   "Item.Tool.Axe"
+  ],
+  "durability": 80.0,
+  "weight": "500 grams",
+  "bench": "Anvil Bench",
+  "repair": "1 Steel Ingot",
+  "stats": {
+   "melee_dmg": "40 - 45",
+   "category": "Axes",
+   "tech": "Tier 3",
+   "xp": "1,220",
+   "durability": "80,000",
+   "repair": "1 Steel Ingot",
+   "bench": "Anvil Bench"
+  },
+  "weapon_type": "Axes",
+  "icon": "/icons/steel-axe.png"
+ },
+ {
+  "title": "Steel Javelin",
+  "slug": "steel-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Steel Javelin.png",
+   "ITEM_Javelin_Steel.png",
+   "ITEM_Steel_Throwing_Spear.png",
+   "T_ITEM_Steel_Throwing_Spear.png",
+   "CRE_Steel_Throwing_Spear.png",
+   "T_Bestiary_Steel_Throwing_Spear.png",
+   "ITEM_Steel_Javelin.png",
+   "T_ITEM_Steel_Javelin.png",
+   "CRE_Steel_Javelin.png",
+   "T_Bestiary_Steel_Javelin.png"
+  ],
+  "intro": "The is a variant of the Steel Spear that can only be thrown. A cheap upgrade to the Iron Javelin that increases projectile damage with a lower break chance, but is locked until prospectors reach level 20. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Steel_Throwing_Spear",
+  "flavor": "The word 'spear' has descended to us through the ages largely unchanged.",
+  "description": "A light, strong traditional spear design that holds its edge.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/steel-javelin.png"
+ },
+ {
+  "title": "Steel Knife",
+  "slug": "steel-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Steel Knife.png",
+   "T_ITEM_Steel_Knife.png",
+   "ITEM_Steel_Knife.png",
+   "CRE_Steel_Knife.png",
+   "T_Bestiary_Steel_Knife.png"
+  ],
+  "intro": "The is an upgrade in damage and durability from the Iron Knife, the can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Steel Knives cannot be thrown. For the thrown variant of the , view Steel Throwing Knife. }}",
+  "itemable_name": "Steel_Knife",
+  "flavor": "Finely balanced knives like this can be thrown accurately with a little practice.",
+  "description": "A tempered needlepoint hunting blade.",
+  "tags": [
+   "Item.Tool.Knife.T2",
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 16.0,
+  "weight": "0.5 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "1 Steel Ingot",
+  "stats": {
+   "melee_dmg": "58 - 65",
+   "attributes": "Attachment Slot Available",
+   "category": "Knives",
+   "tech": "Tier 2",
+   "xp": "1,220",
+   "durability": "16,000",
+   "repair": "1 Steel Ingot",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/steel-knife.png"
+ },
+ {
+  "title": "Steel Spear",
+  "slug": "steel-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Steel Spear.png",
+   "ITEM_Steel_Spear.png",
+   "T_ITEM_Steel_Spear.png",
+   "CRE_Steel_Spear.png",
+   "T_Bestiary_Steel_Spear.png"
+  ],
+  "intro": "The is an upgrade to the Iron Spear that deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Steel_Spear",
+  "flavor": "The word 'spear' has descended to us through the ages largely unchanged.",
+  "description": "A light, strong traditional spear design that holds its edge.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 20.0,
+  "weight": "1.0 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "58 - 65",
+   "crit_damage": "+25% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 2",
+   "durability": "20,000",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/steel-spear.png"
+ },
+ {
+  "title": "Steel Throwing Knife",
+  "slug": "steel-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Steel Throwing Knife.png",
+   "ITEM_ThrowingKnife_Steel.png",
+   "ITEM_Steel_Throwing_Knife.png",
+   "T_ITEM_Steel_Throwing_Knife.png",
+   "CRE_Steel_Throwing_Knife.png",
+   "T_Bestiary_Steel_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Steel Knife that can be thrown. Unlike the Steel Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Steel Knife in the Tier 2 Tech Tree. }}",
+  "itemable_name": "Steel_Throwing_Knife",
+  "flavor": "Finely balanced knives like this can be thrown accurately with a little practice.",
+  "description": "A tempered needlepoint hunting blade.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Anvil Bench Forge Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "10% Projectile Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 2",
+   "bench": "Anvil Bench Forge Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/steel-throwing-knife.png"
+ },
+ {
+  "title": "Stone Throwing Knife",
+  "slug": "stone-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Stone Throwing Knife.png",
+   "ITEM_ThrowingKnife_Stone.png",
+   "ITEM_Stone_Throwing_Knife.png",
+   "T_ITEM_Stone_Throwing_Knife.png",
+   "CRE_Stone_Throwing_Knife.png",
+   "T_Bestiary_Stone_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Stone Knife that can be thrown. Unlike the Stone Knife, the cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Stone Knife in the Tier 1 Tech Tree. }}",
+  "itemable_name": "Stone_Throwing_Knife",
+  "flavor": "Icarus's unusually active tectonics provide a ready source of sedimentary rocks, making for easily knapped, sharp, but weak blades.",
+  "description": "A basic, balanced blade for taking down foes at medium distances.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "attributes": "40% Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 1",
+   "bench": ""
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/stone-throwing-knife.png"
+ },
+ {
+  "title": "Titanium Axe",
+  "slug": "titanium-axe",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Titanium Axe.png",
+   "ITEM_Titanium_Axe.png",
+   "T_ITEM_Titanium_Axe.png",
+   "CRE_Titanium_Axe.png",
+   "T_Bestiary_Titanium_Axe.png"
+  ],
+  "intro": "The is the highest tiered Axe that can be crafted while on the surface of Icarus. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
+  "itemable_name": "Titanium_Axe",
+  "flavor": "",
+  "description": "A savagely sharp, extremely durable hand axe.",
+  "tags": [
+   "Item.Tool.Axe"
+  ],
+  "durability": 120.0,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "1 Titanium Ingot",
+  "stats": {
+   "melee_dmg": "49 - 55",
+   "attributes": "Attachment Slot Available",
+   "category": "Axes",
+   "tech": "Tier 4",
+   "durability": "120,000",
+   "repair": "1 Titanium Ingot",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Axes",
+  "icon": "/icons/titanium-axe.png"
+ },
+ {
+  "title": "Titanium Crossbow",
+  "slug": "titanium-crossbow",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Titanium Crossbow.png",
+   "ITEM_Titanium_Crossbow.png",
+   "T_ITEM_Titanium_Crossbow.png",
+   "CRE_Titanium_Crossbow.png",
+   "T_Bestiary_Titanium_Crossbow.png"
+  ],
+  "intro": "The is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows. The shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "itemable_name": "Titanium_Crossbow",
+  "flavor": "Classier than a gun, more exciting than a bow.",
+  "description": "A powerful weapon to help you tackle whatever Icarus throws at you.",
+  "tags": [
+   "Item.Weapon.Bow",
+   "Item.Weapon.Crossbow"
+  ],
+  "durability": 20.0,
+  "weight": "1.0 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "fire_rate": "+40 Rate of Fire per Minute",
+   "reload_speed": "1 second to Reload",
+   "ammo_capacity": "+6 Ammo Capacity",
+   "attributes": "100% Hardened Point Penetration 25% chance to Slow on Hit with Attacks Inflicts the 'Slowed' modifier for 5 seconds: -50% Movement Speed",
+   "category": "Crossbows",
+   "techlvl": "Tier 4",
+   "durability": "20,000",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Crossbows",
+  "icon": "/icons/titanium-crossbow.png"
+ },
+ {
+  "title": "Titanium Javelin",
+  "slug": "titanium-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Titanium Javelin.png",
+   "ITEM_Javelin_Titanium.png",
+   "ITEM_Titanium_Throwing_Spear.png",
+   "T_ITEM_Titanium_Throwing_Spear.png",
+   "CRE_Titanium_Throwing_Spear.png",
+   "T_Bestiary_Titanium_Throwing_Spear.png",
+   "ITEM_Titanium_Javelin.png",
+   "T_ITEM_Titanium_Javelin.png",
+   "CRE_Titanium_Javelin.png",
+   "T_Bestiary_Titanium_Javelin.png"
+  ],
+  "intro": "The is a variant of the Titanium Spear that can only be thrown and is a costly upgrade to Tier 3 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Titanium_Throwing_Spear",
+  "flavor": "Extremely strong and lightweight, the titanium spear is a devastating hunting and protective tool in well-trained hands.",
+  "description": "A powerful, precise projectile weapon.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+25% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 4",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/titanium-javelin.png"
+ },
+ {
+  "title": "Titanium Knife",
+  "slug": "titanium-knife",
+  "category": "Weapons",
+  "infobox": "Tool",
+  "images": [
+   "ITEM_Titanium Knife.png",
+   "ITEM_Titanium_Knife.png",
+   "T_ITEM_Titanium_Knife.png",
+   "CRE_Titanium_Knife.png",
+   "T_Bestiary_Titanium_Knife.png"
+  ],
+  "intro": "The is an upgrade in damage and durability from the Platinum Knife, the can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife, the cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Titanium_Knife",
+  "flavor": "Named for the Greek Titans, titanium is harder than steel, corrosion resistant and extremely light. Its only flaw is brittleness, meaning it falls short of its indestructible reputation.",
+  "description": "A blade as hard and lightweight as life itself.",
+  "tags": [
+   "Item.Tool.Knife.T2",
+   "Item.Tool.Knife.T1"
+  ],
+  "durability": 30.0,
+  "weight": "0.5 kg",
+  "bench": "Foundry",
+  "repair": "Titanium Ingot",
+  "stats": {
+   "melee_dmg": "71 - 75 Damage",
+   "attributes": "Attachment Slot Available",
+   "category": "Knives",
+   "tech": "Tier 4",
+   "durability": "30,000",
+   "repair": "Titanium Ingot",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Knives",
+  "icon": "/icons/titanium-knife.png"
+ },
+ {
+  "title": "Titanium Spear",
+  "slug": "titanium-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Titanium Spear.png",
+   "ITEM_TitaniumSpear.png",
+   "ITEM_Titanium_Spear.png",
+   "T_ITEM_Titanium_Spear.png",
+   "CRE_Titanium_Spear.png",
+   "T_Bestiary_Titanium_Spear.png"
+  ],
+  "intro": "The is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "itemable_name": "Titanium_Spear",
+  "flavor": "Extremely strong and lightweight, the titanium spear is a devastating hunting and protective tool in well-trained hands.",
+  "description": "A powerful, precise combat weapon.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 30.0,
+  "weight": "1.0 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "melee_damage": "71 - 75",
+   "crit_damage": "+25% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 4",
+   "durability": "30,000",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/titanium-spear.png"
+ },
+ {
+  "title": "Titanium Throwing Knife",
+  "slug": "titanium-throwing-knife",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Titanium Throwing Knife.png",
+   "ITEM_ThrowingKnife_Titanium.png",
+   "ITEM_Titanium_Throwing_Knife.png",
+   "T_ITEM_Titanium_Throwing_Knife.png",
+   "CRE_Titanium_Throwing_Knife.png",
+   "T_Bestiary_Titanium_Throwing_Knife.png"
+  ],
+  "intro": "The is a variant of the Titanium Knife that can be thrown. Unlike the Titanium Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Titanium Knife in the Tier 4 Tech Tree. }}",
+  "itemable_name": "Titanium_Throwing_Knife",
+  "flavor": "Named for the Greek Titans, titanium is harder than steel, corrosion resistant and extremely light. Its only flaw is brittleness, meaning it falls short of its indestructible reputation.",
+  "description": "A blade as hard and lightweight as life itself.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Tool.Knife.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.2 kg",
+  "bench": "Foundry",
+  "repair": "",
+  "stats": {
+   "attributes": "5% Projectile Break Chance",
+   "category": "Throwing Knives",
+   "techlvl": "Tier 4",
+   "bench": "Foundry"
+  },
+  "weapon_type": "Throwing Knives",
+  "icon": "/icons/titanium-throwing-knife.png"
+ },
+ {
+  "title": "Trench Shotgun",
+  "slug": "trench-shotgun",
+  "category": "Weapons",
+  "infobox": "ItemData/Firearms",
+  "images": [
+   "ITEM_Shotgun_T4.png",
+   "T_ITEM_Shotgun_T4.png",
+   "CRE_Shotgun_T4.png",
+   "T_Bestiary_Shotgun_T4.png",
+   "ITEM_Trench_Shotgun.png",
+   "T_ITEM_Trench_Shotgun.png",
+   "CRE_Trench_Shotgun.png",
+   "T_Bestiary_Trench_Shotgun.png"
+  ],
+  "intro": "The is a Tier 4 variant of the Shotgun that packs a punch and currently is the highest damage dealing close-range weapon available; uses 00 Buckshot Shell for ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the is a go-to for the Shotgun enthusiast in the group. The can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Fabricator for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench. Devasta",
+  "itemable_name": "Shotgun_T4",
+  "flavor": "Get off my lawn.",
+  "description": "An advanced weapon that packs a real punch.",
+  "tags": [
+   "Item.Weapon.Firearm.Shotgun"
+  ],
+  "durability": 15000.0,
+  "weight": "4500",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "roundsperminute": "80",
+   "reloadtime": "0.6499999761581421",
+   "launchforce": "600",
+   "hipaccuracyx": "0.4000000059604645",
+   "hipaccuracyy": "0.4000000059604645",
+   "aimaccuracyx": "0.10000000149011612",
+   "aimaccuracyy": "0.10000000149011612"
+  },
+  "weapon_type": "Shotguns",
+  "icon": "/icons/trench-shotgun.png"
+ },
+ {
+  "title": "Wood Javelin",
+  "slug": "wood-javelin",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Wood Javelin.png",
+   "ITEM_Javelin_Wood.png",
+   "ITEM_Wood_Throwing_Spear.png",
+   "T_ITEM_Wood_Throwing_Spear.png",
+   "CRE_Wood_Throwing_Spear.png",
+   "T_Bestiary_Wood_Throwing_Spear.png",
+   "ITEM_Wood_Javelin.png",
+   "T_ITEM_Wood_Javelin.png",
+   "CRE_Wood_Javelin.png",
+   "T_Bestiary_Wood_Javelin.png"
+  ],
+  "intro": "The is a variant of the Wood Spear that can only be thrown. The has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "itemable_name": "Wood_Throwing_Spear",
+  "flavor": "An effective defensive weapon, and erratic low range projectile, rapidly surpassed by improved versions.",
+  "description": "Simple to make, easy to break.",
+  "tags": [
+   "Item.Tool.Thrown",
+   "Item.Weapon.Spear.Thrown"
+  ],
+  "durability": null,
+  "weight": "0.4 kg",
+  "bench": "",
+  "repair": "",
+  "stats": {
+   "crit_damage": "+10% Critical Damage",
+   "category": "Javelins",
+   "techlvl": "Tier 1",
+   "bench": ""
+  },
+  "weapon_type": "Javelins",
+  "icon": "/icons/wood-javelin.png"
+ },
+ {
+  "title": "Wood Spear",
+  "slug": "wood-spear",
+  "category": "Weapons",
+  "infobox": "Weapon Infobox Template",
+  "images": [
+   "ITEM_Wood Spear.png",
+   "ITEM_Wood_Spear.png",
+   "T_ITEM_Wood_Spear.png",
+   "CRE_Wood_Spear.png",
+   "T_Bestiary_Wood_Spear.png"
+  ],
+  "intro": "The is the first Spear available to prospectors and serves as an alternative to the Stone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the increase the range to which prospectors can attack fauna, providing a unique advantage when up high. Unlike the Wood Javelin, the cannot be thrown. Repaired in inventory by right-clicking the item - requires one Stick to repair. }}",
+  "itemable_name": "Wood_Spear",
+  "flavor": "An effective defensive weapon, and erratic low range projectile, rapidly surpassed by improved versions.",
+  "description": "Simple to make, easy to break.",
+  "tags": [
+   "Item.Weapon.Spear.Melee"
+  ],
+  "durability": 1.0,
+  "weight": "1.0 Kg",
+  "bench": "",
+  "repair": "1 Stick",
+  "stats": {
+   "melee_damage": "45 - 50 Melee Damage",
+   "crit_damage": "+10% Critical Damage",
+   "category": "Spears",
+   "techlvl": "Tier 1",
+   "durability": "1,000",
+   "repair": "1 Stick",
+   "bench": ""
+  },
+  "weapon_type": "Spears",
+  "icon": "/icons/wood-spear.png"
+ }
+]

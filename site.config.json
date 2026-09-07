@@ -1,0 +1,30 @@
+{
+  "siteName": "IcarusDB",
+  "siteUrl": "https://icarus-db.pages.dev",
+  "tagline": "Icarus database — weapon damage, food buffs, creature HP & behavior",
+  "description": "Icarus weapon damage & durability, food and drink buffs, creature health and behavior — a searchable ICARUS game database with rankings and a food planner.",
+  "adsenseClientId": "ca-pub-3245910354455258",
+  "adsensePublisherId": "pub-3245910354455258",
+  "theme": {
+    "bg": "#0f1420",
+    "bgSoft": "#161d2e",
+    "card": "#1d2536",
+    "border": "#2c3850",
+    "text": "#e8ecf5",
+    "muted": "#9aa7bd",
+    "accent": "#f0a03c",
+    "accent2": "#4fc3e8",
+    "good": "#7bd88f",
+    "bad": "#f26d6d"
+  },
+  "favicon": "🪐",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Weapons", "href": "/weapons/" },
+    { "label": "Food", "href": "/food/" },
+    { "label": "Creatures", "href": "/creatures/" },
+    { "label": "Rankings", "href": "/rankings/", "tool": true },
+    { "label": "Food Planner", "href": "/food-planner/", "tool": true }
+  ],
+  "footerNote": "Fan-made database. ICARUS is a trademark of RocketWerkz. Not affiliated with the game developer or ICARUS Wiki."
+}

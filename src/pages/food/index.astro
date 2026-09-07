@@ -1,0 +1,55 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import food from "../../data/icarus_food.json";
+
+const foodType = (f: any): string => {
+  const tg = (f.tags || []).find((t: string) => t.startsWith("Item.Consumable.Food"));
+  if (!tg) return "Food";
+  const p = tg.split(".");
+  return p.slice(3).join(" ").trim() || "Food";
+};
+const gmap = new Map<string, number>();
+for (const f of food) gmap.set(foodType(f), (gmap.get(foodType(f)) || 0) + 1);
+const groups = [...gmap.entries()].sort((a, b) => b[1] - a[1]);
+const durSec = (f: any): number => {
+  const m = String(f.duration || "").match(/([\d,]+)\s*sec/);
+  return m ? parseFloat(m[1].replace(/,/g, "")) : 0;
+};
+const mainBuff = (f: any): string =>
+  (f.buffs || []).filter((b: string) => !/space in stomach/i.test(b))[0] || (f.buffs || [])[0] || "—";
+---
+
+<Base
+  title="Icarus Food & Drinks — Buffs, Duration & Saturation"
+  description="Every Icarus food and drink with its full buff list, duration, decay and where it's made — fruits, cooked meals, drinks and survival rations."
+>
+  <h1>Food &amp; Consumables</h1>
+  <p class="muted">
+    {food.length} consumables. Buffs shown exactly as in game — most foods occupy one stomach space and stack up to 10–20.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    {groups.map(([g, n]) => (
+      <div class="card" style="padding:0.9rem 1.1rem">
+        <strong>{g}</strong>
+        <div class="muted">{n} {n === 1 ? "entry" : "entries"}</div>
+      </div>
+    ))}
+  </div>
+
+  <h2>All consumables</h2>
+  <DataTable
+    head={["Item", "Kind", "Main effect", "Duration", "Stack"]}
+    rows={[...food]
+      .sort((a, b) => durSec(b) - durSec(a) || String(b.title).localeCompare(String(a.title)))
+      .map((f) => [
+        `<a href="/food/${f.slug}/">${f.title}</a>`,
+        foodType(f),
+        `<strong>${mainBuff(f)}</strong>`,
+        f.duration || "—",
+        f.stack || "—",
+      ])}
+    searchPlaceholder="Search food & drinks..."
+  />
+</Base>

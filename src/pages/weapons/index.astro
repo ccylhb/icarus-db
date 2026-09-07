@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import weapons from "../../data/icarus_weapons.json";
+
+const dmgOf = (w: any): string =>
+  w.stats?.melee_dmg || w.stats?.melee_damage || w.stats?.rangeDMG || w.stats?.range_dmg || w.stats?.damage || "";
+const dmgMax = (w: any): number => {
+  const m = String(dmgOf(w) || "").match(/([\d.]+)\s*-\s*([\d.]+)/);
+  if (m) return parseFloat(m[2]);
+  const n = parseFloat(String(dmgOf(w)).replace(/[^\d.]/g, ""));
+  return isNaN(n) ? 0 : n;
+};
+const withDmg = weapons.filter((w) => dmgMax(w) > 0).sort((a, b) => dmgMax(b) - dmgMax(a));
+const groups: [string, number][] = [];
+const gmap = new Map<string, number>();
+for (const w of weapons) {
+  const g = w.weapon_type || w.stats?.category || "Other";
+  gmap.set(g, (gmap.get(g) || 0) + 1);
+}
+for (const [g, n] of gmap) groups.push([g, n]);
+groups.sort((a, b) => b[1] - a[1]);
+const tier = (w: any) => String(w.stats?.techlvl || w.stats?.tech || "").replace(/[\[\]:]/g, "").trim();
+---
+
+<Base
+  title="Icarus Weapons — Damage, Durability & Tier Stats"
+  description="Every Icarus weapon and melee tool with damage range, durability, tier and crafting bench — bows, guns, knives, axes, spears and throwing weapons."
+>
+  <h1>Weapons</h1>
+  <p class="muted">
+    {weapons.length} weapons &amp; melee tools. Damage is the in-game range — melee and ranged values shown where the weapon has them.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    {groups.map(([g, n]) => (
+      <div class="card" style="padding:0.9rem 1.1rem">
+        <strong>{g}</strong>
+        <div class="muted">{n} {n === 1 ? "entry" : "entries"}</div>
+      </div>
+    ))}
+  </div>
+
+  <h2>All weapons by damage</h2>
+  <DataTable
+    head={["Weapon", "Class", "Damage", "Durability", "Tier", "Bench"]}
+    rows={[...weapons]
+      .sort((a, b) => dmgMax(b) - dmgMax(a))
+      .map((w) => [
+        `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+        w.weapon_type || "—",
+        dmgMax(w) > 0 ? `<strong>${dmgOf(w)}</strong>` : "—",
+        w.durability ?? "—",
+        tier(w) || "—",
+        w.bench || "—",
+      ])}
+    searchPlaceholder="Search weapons..."
+  />
+</Base>

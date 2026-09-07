@@ -1,0 +1,125 @@
+---
+import Base from "../layouts/Base.astro";
+import food from "../data/icarus_food.json";
+
+// parse a buff line like "+100 Maximum Stamina" or "-10% Food consumption"
+const parseBuff = (b: string) => {
+  const m = String(b).match(/([+-])\s*([\d.,]+)\s*(%?)\s*(.+)/);
+  if (!m) return null;
+  return { sign: m[1] === "-" ? -1 : 1, val: parseFloat(m[2].replace(/,/g, "")), pct: !!m[3], name: m[4].trim() };
+};
+const foods = food
+  .filter((f) => (f.buffs || []).length > 0 && /Consumable\.Food/i.test((f.tags || []).join(" ")))
+  .map((f) => ({
+    slug: f.slug, title: f.title, icon: f.icon || "", duration: f.duration || "",
+    buffs: (f.buffs || []).map(parseBuff).filter(Boolean),
+    raw: (f.buffs || []).filter((b: string) => !/space in stomach/i.test(b)),
+  }))
+  .sort((a, b) => String(a.title).localeCompare(String(b.title)));
+const feed = JSON.stringify(foods);
+---
+
+<Base
+  title="Icarus Food Planner — Build Your Buff Loadout"
+  description="Pick up to 4 food items and see every stat buff combined — stamina, damage, resistances and more — before you drop into a prospect."
+>
+  <h1>Food Planner</h1>
+  <p class="muted">
+    {foods.length} foods with parseable stat buffs. Pick a loadout — identical buffs are summed, everything else is listed.
+  </p>
+
+  <div class="card" style="margin:1rem 0">
+    <div class="slot-row">
+      {[0, 1, 2, 3].map((i) => (
+        <div class="slot">
+          <label for={`slot-${i}`}>Slot {i + 1}</label>
+          <select id={`slot-${i}`} data-slot={i}>
+            <option value="">— empty —</option>
+          </select>
+          <div class="slot-preview" id={`preview-${i}`}></div>
+        </div>
+      ))}
+    </div>
+  </div>
+
+  <h2>Combined buffs</h2>
+  <div class="card" id="summary" style="margin-bottom:1rem">
+    <p class="muted" style="margin:0">Pick at least one food to see the combined effect.</p>
+  </div>
+  <div id="breakdown"></div>
+</Base>
+
+<style>
+  .slot-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.9rem; }
+  .slot label { display: block; font-size: 0.78rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 0.3rem; }
+  .slot select { width: 100%; }
+  .slot-preview { margin-top: 0.5rem; font-size: 0.85rem; color: var(--muted); min-height: 2.2rem; }
+  .slot-preview img { width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 0.4rem; }
+  .buff-row { display: flex; justify-content: space-between; gap: 1rem; padding: 0.45rem 0; border-bottom: 1px solid var(--border); font-size: 0.95rem; }
+  .buff-row:last-child { border-bottom: none; }
+  .buff-total { font-weight: 700; color: var(--accent); }
+  .src-chips { color: var(--muted); font-size: 0.8rem; }
+</style>
+
+<script>
+  const foods: any[] = JSON.parse(document.getElementById("__foods")!.textContent!);
+  const sel = [0, 1, 2, 3].map((i) => document.getElementById(`slot-${i}`) as HTMLSelectElement);
+  const sum = document.getElementById("summary")!;
+  const bd = document.getElementById("breakdown")!;
+
+  sel.forEach((s) => {
+    foods.forEach((f) => {
+      const o = document.createElement("option");
+      o.value = f.slug;
+      o.textContent = f.title;
+      s.appendChild(o);
+    });
+    s.addEventListener("change", render);
+  });
+
+  function chosen() {
+    return sel
+      .map((s) => foods.find((f) => f.slug === s.value))
+      .filter(Boolean) as any[];
+  }
+
+  function fmt(n: number, pct: boolean) {
+    const v = Math.round(n * 100) / 100;
+    return (v > 0 ? "+" : "") + v + (pct ? "%" : "");
+  }
+
+  function render() {
+    const items = chosen();
+    sel.forEach((s, i) => {
+      const p = document.getElementById(`preview-${i}`)!;
+      const f = foods.find((x) => x.slug === s.value);
+      p.innerHTML = f ? `<img src="${f.icon}" alt="">${f.title}<br>${f.duration || ""}` : "";
+    });
+    if (items.length === 0) {
+      sum.innerHTML = `<p class="muted" style="margin:0">Pick at least one food to see the combined effect.</p>`;
+      bd.innerHTML = "";
+      return;
+    }
+    // aggregate by effect name (same % or flat flags kept together)
+    const agg = new Map<string, { total: number; pct: boolean; srcs: string[] }>();
+    items.forEach((f) => {
+      f.buffs.forEach((b: any) => {
+        const key = (b.pct ? "%" : "#") + "|" + b.name;
+        const cur = agg.get(key) || { total: 0, pct: b.pct, srcs: [] };
+        cur.total += b.sign * b.val;
+        cur.srcs.push(f.title);
+        agg.set(key, cur);
+      });
+    });
+    const list = [...agg.entries()].sort((a, b) => b[1].total - a[1].total);
+    sum.innerHTML = `<strong>${items.length}</strong> item loadout · <strong>${list.length}</strong> active buffs`;
+    bd.innerHTML = `<div class="card">` + list
+      .map(([k, v]) => {
+        const txt = v.pct ? `${fmt(v.total, true)} ${v.name}` : `${fmt(v.total, false)} ${v.name}`;
+        return `<div class="buff-row"><span>${txt}</span><span class="src-chips">${v.srcs.join(", ")}</span></div>`;
+      })
+      .join("") + `</div>`;
+  }
+  render();
+</script>
+<script type="application/json" id="__foods" set:html={feed}></script>

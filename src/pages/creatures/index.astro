@@ -1,0 +1,55 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import creatures from "../../data/icarus_creatures.json";
+
+const bhv = (c: any): string => {
+  const b = String(c.behavior || "").toLowerCase();
+  if (!b) return "Unknown";
+  if (b.includes("hostile")) return "Hostile";
+  if (b.includes("neutral")) return "Neutral";
+  if (b.includes("passive")) return "Passive";
+  return c.behavior;
+};
+const gmap = new Map<string, number>();
+for (const c of creatures) gmap.set(bhv(c), (gmap.get(bhv(c)) || 0) + 1);
+const groups = [...gmap.entries()].sort((a, b) => b[1] - a[1]);
+const hp0 = (c: any) => (c.health && c.health[0] ? c.health[0] : null);
+const hpMax = (c: any) => (c.health && c.health.length > 1 ? c.health[c.health.length - 1] : null);
+---
+
+<Base
+  title="Icarus Creatures — HP, Damage & Behavior at Every Level"
+  description="Icarus creature database: health and damage at level 0/50/100/120, behavior, tameability, diet and where each animal lives on Olympus, Styx and Prometheus."
+>
+  <h1>Creatures</h1>
+  <p class="muted">
+    {creatures.length} creatures. HP and damage scale across prospect levels — shown for level 0 / 50 / 100 / 120 where the wiki has the data.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    {groups.map(([g, n]) => (
+      <div class="card" style="padding:0.9rem 1.1rem">
+        <strong>{g}</strong>
+        <div class="muted">{n} {n === 1 ? "entry" : "entries"}</div>
+      </div>
+    ))}
+  </div>
+
+  <h2>All creatures</h2>
+  <DataTable
+    head={["Creature", "Behavior", "Tame", "HP (lv 0)", "HP (max)", "Damage (lv 0)", "Habitat"]}
+    rows={[...creatures]
+      .sort((a, b) => (hpMax(b) ?? 0) - (hpMax(a) ?? 0) || String(a.title).localeCompare(String(b.title)))
+      .map((c) => [
+        `<a href="/creatures/${c.slug}/">${c.title}</a>`,
+        c.behavior || "—",
+        c.tameable === "True" || c.tameable === true ? "Yes" : c.tameable === "False" || c.tameable === false ? "No" : "—",
+        hp0(c) ?? "—",
+        hpMax(c) ?? "—",
+        c.damage && c.damage[0] ? c.damage[0] : "—",
+        c.biome || c.atmosphere || "—",
+      ])}
+    searchPlaceholder="Search creatures..."
+  />
+</Base>

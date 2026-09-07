@@ -1,0 +1,102 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import food from "../../data/icarus_food.json";
+
+export async function getStaticPaths() {
+  return food.map((f) => ({ params: { slug: f.slug }, props: { f } }));
+}
+const { f } = Astro.props;
+const foodType = (x: any): string => {
+  const tg = (x.tags || []).find((t: string) => t.startsWith("Item.Consumable.Food"));
+  if (!tg) return "Food";
+  return tg.split(".").slice(3).join(" ").trim() || "Food";
+};
+const kind = foodType(f);
+const sameKind = food
+  .filter((x) => x.slug !== f.slug && foodType(x) === kind)
+  .slice(0, 3);
+const notFood = !(f.tags || []).some((t: string) => t.startsWith("Item.Consumable.Food"));
+---
+
+<Base
+  title={`${f.title} — Icarus Food Buffs & Stats`}
+  description={`${f.title}: ${(f.buffs || []).join("; ") || "see stats"} for ${f.duration || "?"} in ICARUS.`}
+>
+  <p style="margin:0"><a href="/food/">← All food</a></p>
+  <h1 class="icon-h1">
+    {f.icon && <img src={f.icon} alt="" width="52" height="52" loading="eager" />}
+    {f.title}
+  </h1>
+  <p>
+    <span class="tag">{notFood ? "Consumable" : kind}</span>
+    {f.duration && <span class="tag">Lasts {f.duration}</span>}
+    {f.bench && <span class="tag">Made at {f.bench}</span>}
+  </p>
+
+  {f.description && <p class="muted">{f.description}</p>}
+
+  {(f.buffs || []).length > 0 && (
+    <div class="card answer-card">
+      <h2 style="margin-top:0">Effects when consumed</h2>
+      <table style="background:transparent">
+        <tbody>
+          {(f.buffs || []).map((b: string) => (
+            <tr><td style="border:none;padding:0.3rem 0"><strong>{b}</strong></td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+
+  <div class="card" style="margin-top:1rem">
+    <div class="stat-row">
+      {f.duration && (
+        <div>
+          <div class="stat-num stat-sm">{f.duration}</div>
+          <div class="stat-label">Buff duration</div>
+        </div>
+      )}
+      {f.decay && (
+        <div>
+          <div class="stat-num stat-sm">{f.decay}</div>
+          <div class="stat-label">Decay</div>
+        </div>
+      )}
+      {f.stack && (
+        <div>
+          <div class="stat-num stat-sm">{f.stack}</div>
+          <div class="stat-label">Max stack</div>
+        </div>
+      )}
+      {f.weight && (
+        <div>
+          <div class="stat-num stat-sm">{f.weight}</div>
+          <div class="stat-label">Weight</div>
+        </div>
+      )}
+    </div>
+  </div>
+
+  {f.intro && (
+    <section>
+      <h2>Notes</h2>
+      <p>{f.intro}</p>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/food-planner/", title: "Food Planner", sub: "Plan a 3-item loadout before your next prospect", tool: true },
+      { href: "/rankings/#food", title: "Food leaderboard", sub: "Longest-lasting rations & top buffs", tool: true },
+      ...sameKind.map((x) => ({
+        href: `/food/${x.slug}/`, title: x.title, sub: `${foodType(x)} · ${(x.buffs || []).filter((b: string) => !/space in stomach/i.test(b))[0] || "?"}`, icon: x.icon,
+      })),
+    ]}
+  />
+</Base>
+
+<style>
+  .stat-sm { font-size: 1.1rem; }
+</style>

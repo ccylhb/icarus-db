@@ -1,0 +1,120 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import creatures from "../../data/icarus_creatures.json";
+
+export async function getStaticPaths() {
+  return creatures.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const lv = c.levels || (c.health && c.health.length > 1 ? ["0", "50", "100", "120"] : ["0"]);
+const hp0 = c.health && c.health[0] ? c.health[0] : null;
+const hpTop = c.health && c.health.length > 1 ? c.health[c.health.length - 1] : null;
+const sameBhv = creatures
+  .filter((x) => x.slug !== c.slug && String(x.behavior).toLowerCase() === String(c.behavior).toLowerCase() && x.health && x.health[0])
+  .sort((a, b) => (b.health![0] || 0) - (a.health![0] || 0))
+  .slice(0, 3);
+const tameTxt = c.tameable === "True" || c.tameable === true ? "Yes" : c.tameable === "False" || c.tameable === false ? "No" : "";
+const infoRows: [string, string][] = [];
+if (c.behavior) infoRows.push(["Behavior", String(c.behavior)]);
+if (tameTxt) infoRows.push(["Tameable", tameTxt]);
+if (c.diet) infoRows.push(["Diet", String(c.diet)]);
+if (c.biome) infoRows.push(["Habitat", String(c.biome)]);
+else if (c.atmosphere) infoRows.push(["Habitat", String(c.atmosphere)]);
+if (c.map) infoRows.push(["Maps", String(c.map)]);
+if (c.origin) infoRows.push(["Origin", String(c.origin)]);
+if (c.speed_run) infoRows.push(["Run speed", String(c.speed_run)]);
+if (c.speed_sprint) infoRows.push(["Sprint speed", String(c.speed_sprint)]);
+if (c.resource) infoRows.push(["Drops", String(c.resource)]);
+---
+
+<Base
+  title={`${c.title} — Icarus Creature HP & Behavior`}
+  description={`${c.title}: ${hp0 ? hp0 + " HP at level 0" : "creature stats"}${hpTop ? `, up to ${hpTop} HP at high level` : ""}, ${c.behavior || "behavior"} in ICARUS.`}
+>
+  <p style="margin:0"><a href="/creatures/">← All creatures</a></p>
+  <h1 class="icon-h1">
+    {c.icon && <img src={c.icon} alt="" width="52" height="52" loading="eager" />}
+    {c.title}
+  </h1>
+  <p>
+    {c.behavior && <span class="tag">{c.behavior}</span>}
+    {tameTxt && <span class="tag">{tameTxt === "Yes" ? "Tameable" : "Not tameable"}</span>}
+    {c.diet && <span class="tag">{c.diet}</span>}
+  </p>
+
+  {c.intro && <p class="muted">{c.intro}</p>}
+
+  {hp0 !== null && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        <div>
+          <div class="stat-num">{hp0}</div>
+          <div class="stat-label">HP at level 0</div>
+        </div>
+        {hpTop !== null && (
+          <div>
+            <div class="stat-num">{hpTop}</div>
+            <div class="stat-label">HP at top level</div>
+          </div>
+        )}
+        {c.damage && c.damage[0] && (
+          <div>
+            <div class="stat-num">{c.damage[0]}</div>
+            <div class="stat-label">Damage at lv 0</div>
+          </div>
+        )}
+        {c.damage && c.damage.length > 1 && c.damage[c.damage.length - 1] && (
+          <div>
+            <div class="stat-num">{c.damage[c.damage.length - 1]}</div>
+            <div class="stat-label">Damage at top level</div>
+          </div>
+        )}
+      </div>
+    </div>
+  )}
+
+  {c.health && c.health.length > 1 && (
+    <section>
+      <h2>Stats by level</h2>
+      <table>
+        <thead>
+          <tr><th>Level</th><th>HP</th><th>Damage</th></tr>
+        </thead>
+        <tbody>
+          {lv.map((l: string, i: number) => (
+            <tr>
+              <th style="width:40%">Level {l}</th>
+              <td>{c.health && c.health[i] !== undefined ? c.health[i] : "—"}</td>
+              <td>{c.damage && c.damage[i] !== undefined ? c.damage[i] : "—"}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  {infoRows.length > 0 && (
+    <section>
+      <h2>Details</h2>
+      <table>
+        <tbody>
+          {infoRows.map(([k, v]) => (
+            <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#creatures", title: "Creature HP rankings", sub: "Toughest animals on Icarus", tool: true },
+      { href: "/weapons/", title: "Weapon damage database", sub: "Pick the right tool for the hunt", tool: true },
+      ...sameBhv.map((x) => ({
+        href: `/creatures/${x.slug}/`, title: x.title, sub: `${x.behavior} · ${x.health![0]} HP at lv 0`, icon: x.icon,
+      })),
+    ]}
+  />
+</Base>

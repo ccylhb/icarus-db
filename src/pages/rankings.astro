@@ -1,0 +1,107 @@
+---
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import weapons from "../data/icarus_weapons.json";
+import food from "../data/icarus_food.json";
+import creatures from "../data/icarus_creatures.json";
+
+const dmgMax = (x: any): number => {
+  const m = String(x || "").match(/([\d.]+)\s*-\s*([\d.]+)/);
+  if (m) return parseFloat(m[2]);
+  const n = parseFloat(String(x).replace(/[^\d.]/g, ""));
+  return isNaN(n) ? 0 : n;
+};
+const melee = weapons
+  .filter((w) => dmgMax(w.stats?.melee_dmg || w.stats?.melee_damage) > 0)
+  .sort((a, b) => dmgMax(b.stats?.melee_dmg || b.stats?.melee_damage) - dmgMax(a.stats?.melee_dmg || a.stats?.melee_damage))
+  .slice(0, 15);
+const ranged = weapons
+  .filter((w) => dmgMax(w.stats?.rangeDMG || w.stats?.range_dmg) > 0)
+  .sort((a, b) => dmgMax(b.stats?.rangeDMG || b.stats?.range_dmg) - dmgMax(a.stats?.rangeDMG || a.stats?.range_dmg))
+  .slice(0, 15);
+const hpTop = (c: any) => (c.health && c.health.length > 1 ? c.health[c.health.length - 1] : c.health?.[0] || 0);
+const tough = [...creatures]
+  .filter((c) => c.health && c.health[0])
+  .sort((a, b) => hpTop(b) - hpTop(a))
+  .slice(0, 15);
+const dmg0 = (c: any) => (c.damage && c.damage[0]) || 0;
+const strongest = [...creatures]
+  .filter((c) => c.damage && c.damage[0])
+  .sort((a, b) => dmg0(b) - dmg0(a))
+  .slice(0, 10);
+const durSec = (f: any): number => {
+  const m = String(f.duration || "").match(/([\d,]+)\s*sec/);
+  return m ? parseFloat(m[1].replace(/,/g, "")) : 0;
+};
+const lasting = [...food].filter((f) => durSec(f) > 0).sort((a, b) => durSec(b) - durSec(a)).slice(0, 10);
+const tierOf = (w: any) => String(w.stats?.techlvl || w.stats?.tech || "").replace(/[\[\]:]/g, "").trim();
+---
+
+<Base
+  title="Icarus Rankings — Best Weapons, Toughest Creatures, Longest Food"
+  description="Icarus leaderboards: top melee and ranged weapon damage, creature HP and attack rankings, and the longest-lasting foods for long prospects."
+>
+  <h1>Rankings</h1>
+  <p class="muted">The numbers sorted — no wiki digging, no video scrubbing.</p>
+
+  <h2 id="melee">Top melee damage</h2>
+  <DataTable
+    head={["#", "Weapon", "Melee damage", "Durability", "Tier"]}
+    rows={melee.map((w, i) => [
+      `#${i + 1}`,
+      `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+      `<strong>${w.stats?.melee_dmg || w.stats?.melee_damage}</strong>`,
+      w.durability ?? "—",
+      tierOf(w) || "—",
+    ])}
+  />
+
+  <h2 id="ranged">Top ranged damage</h2>
+  <DataTable
+    head={["#", "Weapon", "Ranged damage", "Durability", "Tier"]}
+    rows={ranged.map((w, i) => [
+      `#${i + 1}`,
+      `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+      `<strong>${w.stats?.rangeDMG || w.stats?.range_dmg}</strong>`,
+      w.durability ?? "—",
+      tierOf(w) || "—",
+    ])}
+  />
+
+  <h2 id="creatures">Toughest creatures by HP</h2>
+  <DataTable
+    head={["#", "Creature", "Behavior", "HP (lv 0)", "HP (top)", "Damage (lv 0)"]}
+    rows={tough.map((c, i) => [
+      `#${i + 1}`,
+      `<a href="/creatures/${c.slug}/">${c.title}</a>`,
+      c.behavior || "—",
+      c.health![0],
+      hpTop(c),
+      c.damage?.[0] ?? "—",
+    ])}
+  />
+
+  <h2>Strongest attacks (level 0)</h2>
+  <DataTable
+    head={["#", "Creature", "Behavior", "Damage (lv 0)", "HP (lv 0)"]}
+    rows={strongest.map((c, i) => [
+      `#${i + 1}`,
+      `<a href="/creatures/${c.slug}/">${c.title}</a>`,
+      c.behavior || "—",
+      `<strong>${c.damage![0]}</strong>`,
+      c.health?.[0] ?? "—",
+    ])}
+  />
+
+  <h2 id="food">Longest-lasting food</h2>
+  <DataTable
+    head={["#", "Item", "Duration", "Main effect", "Stack"]}
+    rows={lasting.map((f, i) => [
+      `#${i + 1}`,
+      `<a href="/food/${f.slug}/">${f.title}</a>`,
+      `<strong>${f.duration}</strong>`,
+      (f.buffs || []).filter((b: string) => !/space in stomach/i.test(b))[0] || "—",
+      f.stack || "—",
+    ])}
+  />
+</Base>

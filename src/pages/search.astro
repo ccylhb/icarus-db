@@ -1,0 +1,67 @@
+---
+import Base from "../layouts/Base.astro";
+import weapons from "../data/icarus_weapons.json";
+import food from "../data/icarus_food.json";
+import creatures from "../data/icarus_creatures.json";
+
+const boards: { title: string; items: any[] }[] = [
+  { title: "Weapons", items: [...weapons].sort((a, b) => String(a.title).localeCompare(String(b.title))) },
+  { title: "Food & Consumables", items: [...food].sort((a, b) => String(a.title).localeCompare(String(b.title))) },
+  { title: "Creatures", items: [...creatures].sort((a, b) => String(a.title).localeCompare(String(b.title))) },
+];
+const total = weapons.length + food.length + creatures.length;
+---
+
+<Base
+  title="All Pages A–Z — IcarusDB"
+  description={`Every IcarusDB page in one index: ${total} weapons, foods and creatures with stats.`}
+>
+  <h1>All pages</h1>
+  <p class="muted">{total} entries across weapons, food and creatures.</p>
+
+  <div class="search-wrap" style="margin:1rem 0">
+    <input id="az-filter" type="search" placeholder="Filter the index…" autocomplete="off" style="width:100%;padding:0.7rem 1rem;border-radius:10px" />
+  </div>
+
+  <div id="az-list">
+    {boards.map((b) => (
+      <section>
+        <h2>{b.title} <span class="muted">({b.items.length})</span></h2>
+        <div class="az-grid">
+          {b.items.map((x: any) => (
+            <a class="az-item" href={`/${x.category.toLowerCase() === "weapons" ? "weapons" : x.category.toLowerCase() === "food" ? "food" : "creatures"}/${x.slug}/`}>
+              {x.icon ? <img src={x.icon} alt="" width="26" height="26" loading="lazy" /> : null}
+              <span>{x.title}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .az-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 0.3rem 1rem; }
+  .az-item {
+    display: flex; align-items: center; gap: 0.5rem;
+    color: inherit; padding: 0.28rem 0.4rem; border-radius: 6px; font-size: 0.92rem;
+  }
+  .az-item:hover { background: var(--bg-soft); text-decoration: none; }
+  .az-item img { flex: none; }
+  .az-item span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+</style>
+
+<script>
+  const input = document.getElementById("az-filter") as HTMLInputElement;
+  const list = document.getElementById("az-list")!;
+  input?.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    list.querySelectorAll<HTMLElement>(".az-item").forEach((a) => {
+      a.style.display = a.textContent!.toLowerCase().includes(q) ? "" : "none";
+    });
+    list.querySelectorAll<HTMLElement>("section").forEach((sec) => {
+      const any = Array.from(sec.querySelectorAll<HTMLElement>(".az-item")).some((a) => a.style.display !== "none");
+      sec.style.display = any || !q ? "" : "none";
+    });
+  });
+</script>

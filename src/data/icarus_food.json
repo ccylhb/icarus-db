@@ -1,0 +1,4334 @@
+[
+ {
+  "title": "Arctic Animal Feed",
+  "slug": "arctic-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Arctic Animal Feed.png",
+   "T_ITEM_Animal_Feed_Pumpkin.png",
+   "ITEM_Food_Animal_Feed_Pumpkin.png",
+   "T_ITEM_Food_Animal_Feed_Pumpkin.png",
+   "CRE_Food_Animal_Feed_Pumpkin.png",
+   "T_Bestiary_Food_Animal_Feed_Pumpkin.png",
+   "ITEM_Arctic_Animal_Feed.png",
+   "T_ITEM_Arctic_Animal_Feed.png",
+   "CRE_Arctic_Animal_Feed.png",
+   "T_Bestiary_Arctic_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Pumpkin",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that promotes defence and survival.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "15% Movement Speed in Arctic",
+   "-30% Food Consumption"
+  ],
+  "icon": "/icons/arctic-animal-feed.png"
+ },
+ {
+  "title": "Avocado",
+  "slug": "avocado",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Avocado.png",
+   "T_ITEM_Avocado.png",
+   "CRE_Avocado.png",
+   "T_Bestiary_Avocado.png"
+  ],
+  "intro": "Avocado are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Avocado Farming Packet and grown by a prospector.",
+  "itemable_name": "Avocado",
+  "flavor": "These are commonly used in Mexican cuisine.",
+  "description": "A fruit with creamy texture and nutty flavor, high in fats.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant",
+   "FieldGuide.WorkshopOnly"
+  ],
+  "duration": "60 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.3 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/avocado.png"
+ },
+ {
+  "title": "Banana",
+  "slug": "banana",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "T_ITEM_Banana.png",
+   "ITEM_Carrot.png",
+   "ITEM_Banana.png",
+   "CRE_Banana.png",
+   "T_Bestiary_Banana.png"
+  ],
+  "intro": "",
+  "itemable_name": "Banana",
+  "flavor": "Primates are fond of these.",
+  "description": "A delicious looking yellow Banana",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant"
+  ],
+  "duration": "600 sec",
+  "decay": "800",
+  "stack": "20",
+  "weight": "0.1 Kg",
+  "bench": "",
+  "buffs": [
+   "+10 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "-10% Food consumption"
+  ],
+  "icon": "/icons/banana.png"
+ },
+ {
+  "title": "Banana Bread",
+  "slug": "banana-bread",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Banana Bread.png",
+   "ITEM_PotatoBread.png",
+   "ITEM_Food_Banana_Bread.png",
+   "T_ITEM_Food_Banana_Bread.png",
+   "CRE_Food_Banana_Bread.png",
+   "T_Bestiary_Food_Banana_Bread.png",
+   "ITEM_Banana_Bread.png",
+   "T_ITEM_Banana_Bread.png",
+   "CRE_Banana_Bread.png",
+   "T_Bestiary_Banana_Bread.png"
+  ],
+  "intro": "Banana Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Food_Banana_Bread",
+  "flavor": "Good things come to those who wait.",
+  "description": "Banana bread which should only be consumed in the workplace.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+350 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+200 Maximum Health",
+   "+50% Health Regeneration",
+   "+200 Maximum Stamina",
+   "+50% Stamina Regeneration",
+   "-50% Stamina Regeneration Delay",
+   "-10% Food Consumption",
+   "+10% Experience Gained"
+  ],
+  "icon": "/icons/banana-bread.png"
+ },
+ {
+  "title": "Barbeque Carrot",
+  "slug": "barbeque-carrot",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Barbeque Carrot.png",
+   "ITEM_BarbequeCarrot.png",
+   "ITEM_Cooked_Carrot.png",
+   "T_ITEM_Cooked_Carrot.png",
+   "CRE_Cooked_Carrot.png",
+   "T_Bestiary_Cooked_Carrot.png",
+   "ITEM_Barbeque_Carrot.png",
+   "T_ITEM_Barbeque_Carrot.png",
+   "CRE_Barbeque_Carrot.png",
+   "T_Bestiary_Barbeque_Carrot.png"
+  ],
+  "intro": "When consumed, it provides the \"Cooked Carrot\" Status Effect.",
+  "itemable_name": "Cooked_Carrot",
+  "flavor": "Boosts stamina slightly, may prompt angst.",
+  "description": "New plant, new rules.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+5% Projectile Damage"
+  ],
+  "icon": "/icons/barbeque-carrot.png"
+ },
+ {
+  "title": "Basic Dried Meat",
+  "slug": "basic-dried-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Basic Dried Meat.png",
+   "T_ITEM_Generic_Meat_Dried.png",
+   "ITEM_Dried_Meat_Generic.png",
+   "T_ITEM_Dried_Meat_Generic.png",
+   "CRE_Dried_Meat_Generic.png",
+   "T_Bestiary_Dried_Meat_Generic.png",
+   "ITEM_Basic_Dried_Meat.png",
+   "T_ITEM_Basic_Dried_Meat.png",
+   "CRE_Basic_Dried_Meat.png",
+   "T_Bestiary_Basic_Dried_Meat.png"
+  ],
+  "intro": "Can be crafted to Homestead Hanging Meat }}",
+  "itemable_name": "Dried_Meat_Generic",
+  "flavor": "A tough, chewy snack",
+  "description": "A plain piece of dried meat.",
+  "tags": [
+   "Item.Consumable.Food.Cooked"
+  ],
+  "duration": "1,320 sec",
+  "decay": "5,000 sec",
+  "stack": "10",
+  "weight": "0.75 Kg",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+20 Health when Consumed",
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+20% Health Regeneration",
+   "-25% Food consumption"
+  ],
+  "icon": "/icons/basic-dried-meat.png"
+ },
+ {
+  "title": "Berry & Seed Bar",
+  "slug": "berry-seed-bar",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "T_ITEM_Seed_Bar.png",
+   "ITEM_Food_Berry_Bar.png",
+   "T_ITEM_Food_Berry_Bar.png",
+   "CRE_Food_Berry_Bar.png",
+   "T_Bestiary_Food_Berry_Bar.png",
+   "ITEM_Berry_&_Seed_Bar.png",
+   "T_ITEM_Berry_&_Seed_Bar.png",
+   "CRE_Berry_&_Seed_Bar.png",
+   "T_Bestiary_Berry_&_Seed_Bar.png"
+  ],
+  "intro": "Full of energy for long hikes, long lasting effects and easily crafted. }}",
+  "itemable_name": "Food_Berry_Bar",
+  "flavor": "Tastes much better than seed crackers.",
+  "description": "Full of energy for long hikes",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "600 sec",
+  "decay": "3,600 sec",
+  "stack": "25",
+  "weight": "0.2kg",
+  "bench": "Character Crafting",
+  "buffs": [
+   "+50 food when consumed",
+   "+20 water when consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-10% Stamina Consumed by Tool Actions",
+   "+15% Water Effects Duration"
+  ],
+  "icon": "/icons/berry-seed-bar.png"
+ },
+ {
+  "title": "Berry Jam",
+  "slug": "berry-jam",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Berry Jam.png",
+   "ITEM_Jar_Jam.png",
+   "ITEM_Glass_Jar_Jam.png",
+   "T_ITEM_Glass_Jar_Jam.png",
+   "CRE_Glass_Jar_Jam.png",
+   "T_Bestiary_Glass_Jar_Jam.png",
+   "ITEM_Berry_Jam.png",
+   "T_ITEM_Berry_Jam.png",
+   "CRE_Berry_Jam.png",
+   "T_Bestiary_Berry_Jam.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Glass_Jar_Jam",
+  "flavor": "It's not just jam. You hold in your hand an irreducible symbol of humanity's commitment to settling an alien world. Strongly increases max stamina.",
+  "description": "Slightly bitter, but unsurpassed.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 seconds",
+  "decay": "Does not decay",
+  "stack": "20",
+  "weight": "0.5 kg",
+  "bench": "Kitchen Bench Marble Kitchen Bench",
+  "buffs": [
+   "+40 Food when Consumed",
+   "Provides the 'Jammed' modifier for 900 seconds:",
+   "Consumes 1 space in Stomach",
+   "+125 Maximum Stamina",
+   "-20 Water Consumption",
+   "+10% Shared Experience"
+  ],
+  "icon": "/icons/berry-jam.png"
+ },
+ {
+  "title": "Berry Smoked Saltwater Fillet",
+  "slug": "berry-smoked-saltwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Berry_Smoked_Saltwater_Fillet.png",
+   "T_ITEM_Saltwater_Fillet_Smoked.png",
+   "ITEM_Smoked_Saltwater_Fillet.png",
+   "T_ITEM_Smoked_Saltwater_Fillet.png",
+   "CRE_Smoked_Saltwater_Fillet.png",
+   "T_Bestiary_Smoked_Saltwater_Fillet.png",
+   "T_ITEM_Berry_Smoked_Saltwater_Fillet.png",
+   "CRE_Berry_Smoked_Saltwater_Fillet.png",
+   "T_Bestiary_Berry_Smoked_Saltwater_Fillet.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Smoked_Saltwater_Fillet",
+  "flavor": "Fishy but with a hint of sweet taste.",
+  "description": "A tender snack made by smoking and preserving tender fillets of freshwater fish.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "1,200 sec",
+  "decay": "6,000 sec",
+  "stack": "10",
+  "weight": "0.25 Kg",
+  "bench": "Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina",
+   "+25% Stamina Regeneration",
+   "+5% Exposure Resistance",
+   "-25% Water Consumption",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/berry-smoked-saltwater-fillet.png"
+ },
+ {
+  "title": "Big Breakfast",
+  "slug": "big-breakfast",
+  "category": "Food",
+  "infobox": "",
+  "images": [
+   "T_ITEM_Big_Breakfast.png",
+   "ITEM_Big_Breakfast.png",
+   "CRE_Big_Breakfast.png",
+   "T_Bestiary_Big_Breakfast.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Big_Breakfast",
+  "flavor": "You can never go wrong with a big breakfast...",
+  "description": "Fried meat, eggs, tomatoes and potatoes!",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/big-breakfast.png"
+ },
+ {
+  "title": "Bread",
+  "slug": "bread",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Bread.png",
+   "ITEM_Food_Bread.png",
+   "T_ITEM_Food_Bread.png",
+   "CRE_Food_Bread.png",
+   "T_Bestiary_Food_Bread.png",
+   "T_ITEM_Bread.png",
+   "CRE_Bread.png",
+   "T_Bestiary_Bread.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Bread",
+  "flavor": "",
+  "description": "Wholesome, filling and slow to spoil.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "50",
+  "weight": "50",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+10 Health when Consumed",
+   "+80 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Bread' modifier * +125 Maximum Stamina * +10% Experience"
+  ],
+  "icon": "/icons/bread.png"
+ },
+ {
+  "title": "Broiled Kumara",
+  "slug": "broiled-kumara",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Broiled Kumara.png",
+   "ITEM_BroiledKumara.png",
+   "ITEM_Cooked_Kumara.png",
+   "T_ITEM_Cooked_Kumara.png",
+   "CRE_Cooked_Kumara.png",
+   "T_Bestiary_Cooked_Kumara.png",
+   "ITEM_Broiled_Kumara.png",
+   "T_ITEM_Broiled_Kumara.png",
+   "CRE_Broiled_Kumara.png",
+   "T_Bestiary_Broiled_Kumara.png"
+  ],
+  "intro": "When consumed, it provides the \"Broiled Kumara\" Status Effect. }}",
+  "itemable_name": "Cooked_Kumara",
+  "flavor": "Tastier than a staple food but just as easy.",
+  "description": "This meal has a caramelized exterior and soft and fluffy interior.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+5% Melee Attack Speed"
+  ],
+  "icon": "/icons/broiled-kumara.png"
+ },
+ {
+  "title": "Carrot",
+  "slug": "carrot",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Carrot.png",
+   "T_ITEM_Carrot.png",
+   "CRE_Carrot.png",
+   "T_Bestiary_Carrot.png"
+  ],
+  "intro": "File:Olympus Carrot Map.jpg|Map of Carrot on Olympus File:Styx Carrot Map.jpg|Map of Carrot on Styx File:Pro Carrot.jpg|Map of carrot on Prometheus",
+  "itemable_name": "Carrot",
+  "flavor": "May improve accuracy.",
+  "description": "A carrot, like many before it.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant"
+  ],
+  "duration": "60 seconds",
+  "decay": "800",
+  "stack": "50",
+  "weight": ".02 kg",
+  "bench": "",
+  "buffs": [
+   "+20 food when consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/carrot.png"
+ },
+ {
+  "title": "Charred Corn",
+  "slug": "charred-corn",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Charred Corn.png",
+   "ITEM_CharredCorn.png",
+   "ITEM_Cooked_Corn.png",
+   "T_ITEM_Cooked_Corn.png",
+   "CRE_Cooked_Corn.png",
+   "T_Bestiary_Cooked_Corn.png",
+   "ITEM_Charred_Corn.png",
+   "T_ITEM_Charred_Corn.png",
+   "CRE_Charred_Corn.png",
+   "T_Bestiary_Charred_Corn.png"
+  ],
+  "intro": "When consumed, it provides the \"Cooked Corn\" Status Effect. }}",
+  "itemable_name": "Cooked_Corn",
+  "flavor": "A source of fuel for humans, animals and machines alike.",
+  "description": "Grilled to perfection, depending on your standards.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-10% Stamina Consumed by Actions"
+  ],
+  "icon": "/icons/charred-corn.png"
+ },
+ {
+  "title": "Cocoa Smoked Soft Meat",
+  "slug": "cocoa-smoked-soft-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cocoa_Smoked_Soft_Meat.png",
+   "T_ITEM_Soft_Meat_Smoked.png",
+   "ITEM_Smoked_Soft_Meat.png",
+   "T_ITEM_Smoked_Soft_Meat.png",
+   "CRE_Smoked_Soft_Meat.png",
+   "T_Bestiary_Smoked_Soft_Meat.png",
+   "T_ITEM_Cocoa_Smoked_Soft_Meat.png",
+   "CRE_Cocoa_Smoked_Soft_Meat.png",
+   "T_Bestiary_Cocoa_Smoked_Soft_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Smoked_Soft_Meat",
+  "flavor": "For when you want something sweet but it's dinner time.",
+  "description": "A piece of sweet smokey meat.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 sec",
+  "decay": "6,000 sec",
+  "stack": "20",
+  "weight": "1.0 Kg",
+  "bench": "Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Stamina",
+   "+25% Stamina Regeneration",
+   "-40% Food Consumption",
+   "+20% Health Regeneration"
+  ],
+  "icon": "/icons/cocoa-smoked-soft-meat.png"
+ },
+ {
+  "title": "Coffee Smoked Fatty T-bone",
+  "slug": "coffee-smoked-fatty-t-bone",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Coffee Smoked Fatty T-bone.png",
+   "T_ITEM_Fatty_TBone_Smoked.png",
+   "ITEM_Smoked_Fatty_Tbone.png",
+   "T_ITEM_Smoked_Fatty_Tbone.png",
+   "CRE_Smoked_Fatty_Tbone.png",
+   "T_Bestiary_Smoked_Fatty_Tbone.png",
+   "ITEM_Coffee_Smoked_Fatty_T-bone.png",
+   "T_ITEM_Coffee_Smoked_Fatty_T-bone.png",
+   "CRE_Coffee_Smoked_Fatty_T-bone.png",
+   "T_Bestiary_Coffee_Smoked_Fatty_T-bone.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Smoked_Fatty_Tbone",
+  "flavor": "Guaranteed to perk up any prospector.",
+  "description": "A large, fatty piece of smoked meat, with a punch of energy.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 sec",
+  "decay": "5,800 sec",
+  "stack": "20",
+  "weight": "0.5 Kg",
+  "bench": "",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+50% Yield from Butchering Animals",
+   "-25% Food Consumption",
+   "+20% Health Regeneration"
+  ],
+  "icon": "/icons/coffee-smoked-fatty-t-bone.png"
+ },
+ {
+  "title": "Cooked Bacon",
+  "slug": "cooked-bacon",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Bacon.png",
+   "ITEM_Cooked_Bacon.png",
+   "T_ITEM_Cooked_Bacon.png",
+   "CRE_Cooked_Bacon.png",
+   "T_Bestiary_Cooked_Bacon.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Cooked_Bacon",
+  "flavor": "Still tastes a little strange",
+  "description": "A delicately thin slice of meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1.200 seconds",
+  "decay": "",
+  "stack": "50",
+  "weight": "100",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+15 Experience Gained",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina"
+  ],
+  "icon": "/icons/cooked-bacon.png"
+ },
+ {
+  "title": "Cooked Fatty T-Bone",
+  "slug": "cooked-fatty-t-bone",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Fatty T-Bone.png",
+   "ITEM_Meat_TboneCooked.png",
+   "ITEM_Fatty_Tbone_Cooked.png",
+   "T_ITEM_Fatty_Tbone_Cooked.png",
+   "CRE_Fatty_Tbone_Cooked.png",
+   "T_Bestiary_Fatty_Tbone_Cooked.png",
+   "ITEM_Cooked_Fatty_T-Bone.png",
+   "T_ITEM_Cooked_Fatty_T-Bone.png",
+   "CRE_Cooked_Fatty_T-Bone.png",
+   "T_Bestiary_Cooked_Fatty_T-Bone.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "Fatty_Tbone_Cooked",
+  "flavor": "Gourmet food, Icarus style",
+  "description": "A fiercely won, delicious steak dinner",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-fatty-t-bone.png"
+ },
+ {
+  "title": "Cooked Gamey Meat",
+  "slug": "cooked-gamey-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Gamey Meat.png",
+   "ITEM_Meat_GameyCooked.png",
+   "ITEM_Gamey_Meat_Cooked.png",
+   "T_ITEM_Gamey_Meat_Cooked.png",
+   "CRE_Gamey_Meat_Cooked.png",
+   "T_Bestiary_Gamey_Meat_Cooked.png",
+   "ITEM_Cooked_Gamey_Meat.png",
+   "T_ITEM_Cooked_Gamey_Meat.png",
+   "CRE_Cooked_Gamey_Meat.png",
+   "T_Bestiary_Cooked_Gamey_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "Gamey_Meat_Cooked",
+  "flavor": "Pungent but still edible",
+  "description": "A reasonably well cooked piece of meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-gamey-meat.png"
+ },
+ {
+  "title": "Cooked Giant Steak",
+  "slug": "cooked-giant-steak",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Giant Steak.png",
+   "ITEM_Cooked_Prime_Meat.png",
+   "ITEM_Giant_Steak_Cooked.png",
+   "T_ITEM_Giant_Steak_Cooked.png",
+   "CRE_Giant_Steak_Cooked.png",
+   "T_Bestiary_Giant_Steak_Cooked.png",
+   "ITEM_Cooked_Giant_Steak.png",
+   "T_ITEM_Cooked_Giant_Steak.png",
+   "CRE_Cooked_Giant_Steak.png",
+   "T_Bestiary_Cooked_Giant_Steak.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "Giant_Steak_Cooked",
+  "flavor": "A hard won prize",
+  "description": "A prime cut from the larger beasts",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-giant-steak.png"
+ },
+ {
+  "title": "Cooked Meat",
+  "slug": "cooked-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Meat.png",
+   "ITEM_Cooked_Meat.png",
+   "T_ITEM_Cooked_Meat.png",
+   "CRE_Cooked_Meat.png",
+   "T_Bestiary_Cooked_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"\" Status Effect. }}",
+  "itemable_name": "Cooked_Meat",
+  "flavor": "Cooked meat is easier to digest and provides more nutrition than raw flesh.",
+  "description": "Can be eaten to satisfy hunger.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "900 seconds",
+  "decay": "1600 s",
+  "stack": "20 Max",
+  "weight": "0.01 Kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+20 Health when Consumed",
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "20% Health Regeneration"
+  ],
+  "icon": "/icons/cooked-meat.png"
+ },
+ {
+  "title": "Cooked Soft Meat",
+  "slug": "cooked-soft-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Soft Meat.png",
+   "ITEM_Meat_SoftCooked.png",
+   "ITEM_Soft_Meat_Cooked.png",
+   "T_ITEM_Soft_Meat_Cooked.png",
+   "CRE_Soft_Meat_Cooked.png",
+   "T_Bestiary_Soft_Meat_Cooked.png",
+   "ITEM_Cooked_Soft_Meat.png",
+   "T_ITEM_Cooked_Soft_Meat.png",
+   "CRE_Cooked_Soft_Meat.png",
+   "T_Bestiary_Cooked_Soft_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "Soft_Meat_Cooked",
+  "flavor": "Seasoned with tears",
+  "description": "A wonderfully soft piece of meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-soft-meat.png"
+ },
+ {
+  "title": "Cooked Stringy Meat",
+  "slug": "cooked-stringy-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked Stringy Meat.png",
+   "ITEM_Meat_StringyCooked.png",
+   "ITEM_Stringy_Meat_Cooked.png",
+   "T_ITEM_Stringy_Meat_Cooked.png",
+   "CRE_Stringy_Meat_Cooked.png",
+   "T_Bestiary_Stringy_Meat_Cooked.png",
+   "ITEM_Cooked_Stringy_Meat.png",
+   "T_ITEM_Cooked_Stringy_Meat.png",
+   "CRE_Cooked_Stringy_Meat.png",
+   "T_Bestiary_Cooked_Stringy_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "Stringy_Meat_Cooked",
+  "flavor": "Get your revenge on those pesky wolves",
+  "description": "A tough, sinewy steak",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-stringy-meat.png"
+ },
+ {
+  "title": "Cooked White Meat",
+  "slug": "cooked-white-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Cooked White Meat.png",
+   "ITEM_Meat_WhiteCooked.png",
+   "ITEM_White_Meat_Cooked.png",
+   "T_ITEM_White_Meat_Cooked.png",
+   "CRE_White_Meat_Cooked.png",
+   "T_Bestiary_White_Meat_Cooked.png",
+   "ITEM_Cooked_White_Meat.png",
+   "T_ITEM_Cooked_White_Meat.png",
+   "CRE_Cooked_White_Meat.png",
+   "T_Bestiary_Cooked_White_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "itemable_name": "White_Meat_Cooked",
+  "flavor": "Tastes like chicken",
+  "description": "A slightly overcooked piece of meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "20",
+  "weight": "?",
+  "bench": "Campfire",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+150 Maximum Health",
+   "+20 Health Regeneration per minute",
+   "+5% Experience Gained"
+  ],
+  "icon": "/icons/cooked-white-meat.png"
+ },
+ {
+  "title": "Corn",
+  "slug": "corn",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Corn.png",
+   "T_ITEM_Corn.png",
+   "CRE_Corn.png",
+   "T_Bestiary_Corn.png"
+  ],
+  "intro": "File:Oly Corn.jpg|Map of Corn on Olympus File:Styx Corn.jpg|Map of Corn on Styx File:Pro Corn.jpg|Map of Corn on Prometheus",
+  "itemable_name": "Corn",
+  "flavor": "Cook or cultivate this ancient cereal, humanity's most widely produced grain.",
+  "description": "A staple on several planets.",
+  "tags": [
+   "Item.Consumable.Food.Corn",
+   "Item.Plant"
+  ],
+  "duration": "",
+  "decay": "800 seconds",
+  "stack": "100",
+  "weight": "0.1 kg",
+  "bench": "",
+  "buffs": [
+   "+20 food when consumed"
+  ],
+  "icon": "/icons/corn.png"
+ },
+ {
+  "title": "Creamed Corn",
+  "slug": "creamed-corn",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Creamed Corn.png",
+   "ITEM_CreamedCorn.png",
+   "ITEM_Food_Creamed_Corn.png",
+   "T_ITEM_Food_Creamed_Corn.png",
+   "CRE_Food_Creamed_Corn.png",
+   "T_Bestiary_Food_Creamed_Corn.png",
+   "ITEM_Creamed_Corn.png",
+   "T_ITEM_Creamed_Corn.png",
+   "CRE_Creamed_Corn.png",
+   "T_Bestiary_Creamed_Corn.png"
+  ],
+  "intro": "Fruit Salad is a Food with the \"\" Status Effect, which can be stacked with other food buffs. decays, but that decay can be slowed down by storing it inside an Ice Box or Refrigerator. }}",
+  "itemable_name": "Food_Creamed_Corn",
+  "flavor": "Slow release energy with a baby-food consistency, boosting health and stamina.",
+  "description": "Pureed corn, animal fat and water, easy to digest.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 Seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Cooking Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+150 Maximum Health",
+   "-10% Stamina Consumed by Actions"
+  ],
+  "icon": "/icons/creamed-corn.png"
+ },
+ {
+  "title": "Crispy Bacon",
+  "slug": "crispy-bacon",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Crispy Bacon.png",
+   "ITEM_Crispy_Bacon.png",
+   "T_ITEM_Crispy_Bacon.png",
+   "CRE_Crispy_Bacon.png",
+   "T_Bestiary_Crispy_Bacon.png"
+  ],
+  "intro": "}} }}",
+  "itemable_name": "Crispy_Bacon",
+  "flavor": "Tastes like home",
+  "description": "A deliciously fried rasher",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "50",
+  "weight": "100",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+15 Experience Gained",
+   "+90 Maximum Health",
+   "+90 Maximum Stamina",
+   "+10% Critical Damage"
+  ],
+  "icon": "/icons/crispy-bacon.png"
+ },
+ {
+  "title": "Crispy Potato",
+  "slug": "crispy-potato",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Crispy Potato.png",
+   "ITEM_CrisphyPotato.png",
+   "ITEM_Cooked_Potato.png",
+   "T_ITEM_Cooked_Potato.png",
+   "CRE_Cooked_Potato.png",
+   "T_Bestiary_Cooked_Potato.png",
+   "ITEM_Crispy_Potato.png",
+   "T_ITEM_Crispy_Potato.png",
+   "CRE_Crispy_Potato.png",
+   "T_Bestiary_Crispy_Potato.png"
+  ],
+  "intro": "Crispy Potato is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Cooked_Potato",
+  "flavor": "So crunchy.",
+  "description": "Improves stamina and keeps you fuller for longer.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-10% Food Consumption",
+   "10% Melee Attack Speed"
+  ],
+  "icon": "/icons/crispy-potato.png"
+ },
+ {
+  "title": "Crumbed Saltwater Fillet",
+  "slug": "crumbed-saltwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Crumbed Saltwater Fillet.png",
+   "ITEM_CrumbedFishFillet.png",
+   "ITEM_Crumbed_Saltwater_Fillet.png",
+   "T_ITEM_Crumbed_Saltwater_Fillet.png",
+   "CRE_Crumbed_Saltwater_Fillet.png",
+   "T_Bestiary_Crumbed_Saltwater_Fillet.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Crumbed_Saltwater_Fillet",
+  "flavor": "Crispy on the outside, fishy on the inside.",
+  "description": "A crispy and savory dish made by coating tender fillets of fish in breadcrumbs and frying until golden brown.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Cumbed Fish modifier",
+   "* +150 Maximum Health * +75 Maximum Stamina * +15% Stamina Regeneration * +10% Experience Gained"
+  ],
+  "icon": "/icons/crumbed-saltwater-fillet.png"
+ },
+ {
+  "title": "Desert Animal Feed",
+  "slug": "desert-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Desert Animal Feed.png",
+   "T_ITEM_Animal_Feed_Squash.png",
+   "ITEM_Food_Animal_Feed_Squash.png",
+   "T_ITEM_Food_Animal_Feed_Squash.png",
+   "CRE_Food_Animal_Feed_Squash.png",
+   "T_Bestiary_Food_Animal_Feed_Squash.png",
+   "ITEM_Desert_Animal_Feed.png",
+   "T_ITEM_Desert_Animal_Feed.png",
+   "CRE_Desert_Animal_Feed.png",
+   "T_Bestiary_Desert_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Squash",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that will help animals survive desert envionments.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+15% Movement Speed in the Desert",
+   "-30% Water Consumption"
+  ],
+  "icon": "/icons/desert-animal-feed.png"
+ },
+ {
+  "title": "Dried Fatty T-Bone",
+  "slug": "dried-fatty-t-bone",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Fatty T-Bone.png",
+   "ITEM_Meat_TboneDried.png",
+   "ITEM_Fatty_Tbone_Dried.png",
+   "T_ITEM_Fatty_Tbone_Dried.png",
+   "CRE_Fatty_Tbone_Dried.png",
+   "T_Bestiary_Fatty_Tbone_Dried.png",
+   "ITEM_Dried_Fatty_T-Bone.png",
+   "T_ITEM_Dried_Fatty_T-Bone.png",
+   "CRE_Dried_Fatty_T-Bone.png",
+   "T_Bestiary_Dried_Fatty_T-Bone.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Fatty_Tbone_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A large, fatty piece of dried meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "500",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+25% Yield from Butchering Meat",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-fatty-t-bone.png"
+ },
+ {
+  "title": "Dried Game Meat",
+  "slug": "dried-game-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Game Meat.png",
+   "ITEM_Meat_GameyDried.png",
+   "ITEM_Gamey_Meat_Dried.png",
+   "T_ITEM_Gamey_Meat_Dried.png",
+   "CRE_Gamey_Meat_Dried.png",
+   "T_Bestiary_Gamey_Meat_Dried.png",
+   "ITEM_Dried_Game_Meat.png",
+   "T_ITEM_Dried_Game_Meat.png",
+   "CRE_Dried_Game_Meat.png",
+   "T_Bestiary_Dried_Game_Meat.png"
+  ],
+  "intro": "Eating will replenish Health.",
+  "itemable_name": "Gamey_Meat_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A plain piece of dried meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "250",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+15% Melee Damage",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-game-meat.png"
+ },
+ {
+  "title": "Dried Giant Steak",
+  "slug": "dried-giant-steak",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Giant Steak.png",
+   "ITEM_Cooked_Prime_MeatDried.png",
+   "ITEM_Giant_Steak_Dried.png",
+   "T_ITEM_Giant_Steak_Dried.png",
+   "CRE_Giant_Steak_Dried.png",
+   "T_Bestiary_Giant_Steak_Dried.png",
+   "ITEM_Dried_Giant_Steak.png",
+   "T_ITEM_Dried_Giant_Steak.png",
+   "CRE_Dried_Giant_Steak.png",
+   "T_Bestiary_Dried_Giant_Steak.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Giant_Steak_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A large dried piece of meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "1000",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Health",
+   "+25% Health Regeneration",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-giant-steak.png"
+ },
+ {
+  "title": "Dried Saltwater Fillet",
+  "slug": "dried-saltwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Saltwater Fillet.png",
+   "ITEM_Dried_Saltwater_Fish.png",
+   "ITEM_Dried_Saltwater_Fillet.png",
+   "T_ITEM_Dried_Saltwater_Fillet.png",
+   "CRE_Dried_Saltwater_Fillet.png",
+   "T_Bestiary_Dried_Saltwater_Fillet.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Dried_Saltwater_Fillet",
+  "flavor": "Can be dried using a Drying Rack. Rather chewy.",
+  "description": "A flavorful snack made by drying and preserving tender fillets of saltwater fish.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.25",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+15% Stamina Regeneration",
+   "+5% Exposure Resistance",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-saltwater-fillet.png"
+ },
+ {
+  "title": "Dried Soft Meat",
+  "slug": "dried-soft-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Soft Meat.png",
+   "ITEM_Meat_SoftDried.png",
+   "ITEM_Soft_Meat_Dried.png",
+   "T_ITEM_Soft_Meat_Dried.png",
+   "CRE_Soft_Meat_Dried.png",
+   "T_Bestiary_Soft_Meat_Dried.png",
+   "ITEM_Dried_Soft_Meat.png",
+   "T_ITEM_Dried_Soft_Meat.png",
+   "CRE_Dried_Soft_Meat.png",
+   "T_Bestiary_Dried_Soft_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Soft_Meat_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A plain piece of dried meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "200",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+15% Stamina Regeneration",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-soft-meat.png"
+ },
+ {
+  "title": "Dried Stringy Meat",
+  "slug": "dried-stringy-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried Stringy Meat.png",
+   "ITEM_Meat_StringyDried.png",
+   "ITEM_Stringy_Meat_Dried.png",
+   "T_ITEM_Stringy_Meat_Dried.png",
+   "CRE_Stringy_Meat_Dried.png",
+   "T_Bestiary_Stringy_Meat_Dried.png",
+   "ITEM_Dried_Stringy_Meat.png",
+   "T_ITEM_Dried_Stringy_Meat.png",
+   "CRE_Dried_Stringy_Meat.png",
+   "T_Bestiary_Dried_Stringy_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Stringy_Meat_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A plain piece of dried meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "250",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+15% Melee Attack Speed",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-stringy-meat.png"
+ },
+ {
+  "title": "Dried White Meat",
+  "slug": "dried-white-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Dried White Meat.png",
+   "ITEM_Meat_WhiteDried.png",
+   "ITEM_White_Meat_Dried.png",
+   "T_ITEM_White_Meat_Dried.png",
+   "CRE_White_Meat_Dried.png",
+   "T_Bestiary_White_Meat_Dried.png",
+   "ITEM_Dried_White_Meat.png",
+   "T_ITEM_Dried_White_Meat.png",
+   "CRE_Dried_White_Meat.png",
+   "T_Bestiary_Dried_White_Meat.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "White_Meat_Dried",
+  "flavor": "A tough, chewy snack",
+  "description": "A plain piece of dried meat",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200",
+  "decay": "",
+  "stack": "20",
+  "weight": "200",
+  "bench": "Drying Rack Smoker",
+  "buffs": [
+   "+30 Heath when Consumed",
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+10% Exposure Resistance",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/dried-white-meat.png"
+ },
+ {
+  "title": "Endurance Animal Feed",
+  "slug": "endurance-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Endurance Animal Feed.png",
+   "T_ITEM_Animal_Feed_Corn.png",
+   "ITEM_Food_Animal_Feed_Corn.png",
+   "T_ITEM_Food_Animal_Feed_Corn.png",
+   "CRE_Food_Animal_Feed_Corn.png",
+   "T_Bestiary_Food_Animal_Feed_Corn.png",
+   "ITEM_Endurance_Animal_Feed.png",
+   "T_ITEM_Endurance_Animal_Feed.png",
+   "CRE_Endurance_Animal_Feed.png",
+   "T_Bestiary_Endurance_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Corn",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that promotes long distance travel.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "-75% Stamina Consumed",
+   "-25% Sprint Speed"
+  ],
+  "icon": "/icons/endurance-animal-feed.png"
+ },
+ {
+  "title": "Fish Chunk Stew",
+  "slug": "fish-chunk-stew",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fish Chunk Stew.png",
+   "ITEM_Fish_Chunk_Stew.png",
+   "T_ITEM_Fish_Chunk_Stew.png",
+   "CRE_Fish_Chunk_Stew.png",
+   "T_Bestiary_Fish_Chunk_Stew.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Fish_Chunk_Stew",
+  "flavor": "Chop 'em up, cook 'em up, eat 'em up.",
+  "description": "A hearty and flavorful soup made with tender chunks of fish and vegetables in a rich and savory broth.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Fish",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.15",
+  "bench": "Potbelly Stove Biofuel Stove Electric Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+75 Maximum Stamina",
+   "+10% Stamina Regeneration",
+   "-10% Stamina Consumed",
+   "+5% Melee Damage"
+  ],
+  "icon": "/icons/fish-chunk-stew.png"
+ },
+ {
+  "title": "Fish Chunks",
+  "slug": "fish-chunks",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fish Chunks.png",
+   "ITEM_Fish_Chunks.png",
+   "T_ITEM_Fish_Chunks.png",
+   "CRE_Fish_Chunks.png",
+   "T_Bestiary_Fish_Chunks.png"
+  ],
+  "intro": "Fish Chunks are added to the Prospector's inventory after looting the carcass of a fish. Fish caught using a Fishing Trap or Fishing Rod can be converted into Fish Chunks as well. Fish Chunks can be cooked in a Campfire, or used in other dishes such as Freshwater Fillet Curry or Crumbed Saltwater Fillet. Right-click a Freshwater/Saltwater fish to convert it into Fish Chunks.",
+  "itemable_name": "Fish_Chunks",
+  "flavor": "Not the most appetizing...",
+  "description": "A pile of roughly diced fish.",
+  "tags": [
+   "Item.Consumable.Food.Raw",
+   "ModifierState.Chance.FoodPoisoning"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "0.05 kg",
+  "bench": "",
+  "buffs": [
+   "+15 Food when Consumed"
+  ],
+  "icon": "/icons/fish-chunks.png"
+ },
+ {
+  "title": "Fish Pie",
+  "slug": "fish-pie",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fish Pie.png",
+   "ITEM_Fish_Pie.png",
+   "ITEM_Fish_Fillet_Pie.png",
+   "T_ITEM_Fish_Fillet_Pie.png",
+   "CRE_Fish_Fillet_Pie.png",
+   "T_Bestiary_Fish_Fillet_Pie.png",
+   "T_ITEM_Fish_Pie.png",
+   "CRE_Fish_Pie.png",
+   "T_Bestiary_Fish_Pie.png"
+  ],
+  "intro": "Fish Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Fish_Fillet_Pie",
+  "flavor": "Stuffed to the brim with fish.",
+  "description": "A comforting and hearty dish made with a creamy filling of mixed fish and vegetables.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fish",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+225 Maximum Health",
+   "+5% Health Regeneration",
+   "+30% Stamina Regeneration",
+   "5% Exposure Resistance",
+   "+10% Experience Gained"
+  ],
+  "icon": "/icons/fish-pie.png"
+ },
+ {
+  "title": "Flatbread",
+  "slug": "flatbread",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Flatbread.png",
+   "ITEM_Food_Flatbread.png",
+   "T_ITEM_Food_Flatbread.png",
+   "CRE_Food_Flatbread.png",
+   "T_Bestiary_Food_Flatbread.png",
+   "T_ITEM_Flatbread.png",
+   "CRE_Flatbread.png",
+   "T_Bestiary_Flatbread.png"
+  ],
+  "intro": "In-game flavor text: Simple to bake and easy to store.",
+  "itemable_name": "Food_Flatbread",
+  "flavor": "Simple to bake and easy to store, boosts health and stamina regen.",
+  "description": "Longlasting and healthful.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "900 seconds",
+  "decay": "3600 seconds",
+  "stack": "20",
+  "weight": "25",
+  "bench": "Campfire",
+  "buffs": [
+   "+10 Health when Consumed",
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100% Stamina Regeneration",
+   "+10% Water Consumption",
+   "+5% Experienced Gained"
+  ],
+  "icon": "/icons/flatbread.png"
+ },
+ {
+  "title": "Flour",
+  "slug": "flour",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Flour.png",
+   "T_ITEM_Flour.png",
+   "CRE_Flour.png",
+   "T_Bestiary_Flour.png"
+  ],
+  "intro": "Prepared from ground Wheat, Flour is the primary precursor for the Foods Flatbread Dough and Bread Dough. In-game description: Ground wheat, ready for cooking.",
+  "itemable_name": "Flour",
+  "flavor": "",
+  "description": "Ground wheat, ready for cooking.",
+  "tags": [
+   "Item.Resource",
+   "Proxy.Dry.White"
+  ],
+  "duration": "Inf",
+  "decay": "Never",
+  "stack": "100 Max",
+  "weight": "25g",
+  "bench": "Mortar and Pestle",
+  "buffs": [],
+  "icon": "/icons/flour.png"
+ },
+ {
+  "title": "Freshwater Fillet Curry",
+  "slug": "freshwater-fillet-curry",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Freshwater Fillet Curry.png",
+   "ITEM_Fish_Curry.png",
+   "ITEM_Freshwater_Fillet_Curry.png",
+   "T_ITEM_Freshwater_Fillet_Curry.png",
+   "CRE_Freshwater_Fillet_Curry.png",
+   "T_Bestiary_Freshwater_Fillet_Curry.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Freshwater_Fillet_Curry",
+  "flavor": "Spend the time on the sauce and reap the rewards.",
+  "description": "A spicy and aromatic dish made with tender pieces of fish cooked in a rich and creamy sauce with a blend of herbs and spices.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "300",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Stamina",
+   "+10% Experience Gained",
+   "-10% Water Consumption"
+  ],
+  "icon": "/icons/freshwater-fillet-curry.png"
+ },
+ {
+  "title": "Freshwater Fish Fillet",
+  "slug": "freshwater-fish-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Freshwater Fish Fillet.png",
+   "ITEM_Freshwater_Fish_Fillet.png",
+   "T_ITEM_Freshwater_Fish_Fillet.png",
+   "CRE_Freshwater_Fish_Fillet.png",
+   "T_Bestiary_Freshwater_Fish_Fillet.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Freshwater_Fish_Fillet",
+  "flavor": "Nicely done.",
+  "description": "A neatly trimmed fillet ready for cooking.",
+  "tags": [
+   "Item.Consumable.Food.Raw",
+   "ModifierState.Chance.FoodPoisoning"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "25",
+  "weight": "0.25 kg",
+  "bench": "Fishing Bench",
+  "buffs": [
+   "+15 Food when Consumed"
+  ],
+  "icon": "/icons/freshwater-fish-fillet.png"
+ },
+ {
+  "title": "Fried Chunky Vegetables",
+  "slug": "fried-chunky-vegetables",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fried Chunky Vegetables.png",
+   "ITEM_FriedChunkyVeges.png",
+   "ITEM_Fried_Chunky_Vegetables.png",
+   "T_ITEM_Fried_Chunky_Vegetables.png",
+   "CRE_Fried_Chunky_Vegetables.png",
+   "T_Bestiary_Fried_Chunky_Vegetables.png"
+  ],
+  "intro": "Fried Chunky Vegetables is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Fried_Chunky_Vegetables",
+  "flavor": "Another great meal from your Potbelly Stove.",
+  "description": "These veges are deep-fried until crispy and golden.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+150 Maximum Stamina",
+   "+10% Exposure Resistance",
+   "10% Melee Attack Speed"
+  ],
+  "icon": "/icons/fried-chunky-vegetables.png"
+ },
+ {
+  "title": "Fried Eggs",
+  "slug": "fried-eggs",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fried Eggs.png",
+   "T_ITEM_Fried_Egg.png",
+   "ITEM_Cooked_Eggs.png",
+   "T_ITEM_Cooked_Eggs.png",
+   "CRE_Cooked_Eggs.png",
+   "T_Bestiary_Cooked_Eggs.png",
+   "ITEM_Fried_Eggs.png",
+   "T_ITEM_Fried_Eggs.png",
+   "CRE_Fried_Eggs.png",
+   "T_Bestiary_Fried_Eggs.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Cooked_Eggs",
+  "flavor": "Locally grown.",
+  "description": "A fresh egg, fried just right",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Egg"
+  ],
+  "duration": "10 Minutes",
+  "decay": "15 Minutes",
+  "stack": "1",
+  "weight": "0.5 Kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Fried Egg' modifier",
+   "+75 Maximum Health",
+   "10% Chance to find additional Stone while MIning"
+  ],
+  "icon": "/icons/fried-eggs.png"
+ },
+ {
+  "title": "Fried Fish Chunks",
+  "slug": "fried-fish-chunks",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fried Fish Chunks.png",
+   "ITEM_Fried_Fish_Chunks.png",
+   "T_ITEM_Fried_Fish_Chunks.png",
+   "CRE_Fried_Fish_Chunks.png",
+   "T_Bestiary_Fried_Fish_Chunks.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Fried Fish Chunks\" Status Effect. }}",
+  "itemable_name": "Fried_Fish_Chunks",
+  "flavor": "Not as fancy as a fillet, but just as filling.",
+  "description": "An easy snack for the hungry prospector who's short on time.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "600 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.1 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+15 Health when Consumed",
+   "+80 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+10% Stamina Regeneration"
+  ],
+  "icon": "/icons/fried-fish-chunks.png"
+ },
+ {
+  "title": "Fruit Muffin",
+  "slug": "fruit-muffin",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fruit Muffin.png",
+   "ITEM_FuitMuffin.png",
+   "ITEM_Fruit_Muffin.png",
+   "T_ITEM_Fruit_Muffin.png",
+   "CRE_Fruit_Muffin.png",
+   "T_Bestiary_Fruit_Muffin.png"
+  ],
+  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Fruit_Muffin",
+  "flavor": "A delicious meal made on your Biofuel Stove.",
+  "description": "The perfect breakfast snack.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+225 Maximum Stamina",
+   "-20% Water Consumption",
+   "+35% Experience Gained"
+  ],
+  "icon": "/icons/fruit-muffin.png"
+ },
+ {
+  "title": "Fruit Pie",
+  "slug": "fruit-pie",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fruit Pie.png",
+   "ITEM_FruitPie.png",
+   "ITEM_Food_Fruit_Pie.png",
+   "T_ITEM_Food_Fruit_Pie.png",
+   "CRE_Food_Fruit_Pie.png",
+   "T_Bestiary_Food_Fruit_Pie.png",
+   "ITEM_Fruit_Pie.png",
+   "T_ITEM_Fruit_Pie.png",
+   "CRE_Fruit_Pie.png",
+   "T_Bestiary_Fruit_Pie.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Fruit_Pie",
+  "flavor": "Watermelons invite experimental cookery.",
+  "description": "Watermelon plus berries and pastry creates a passable, stamina boosting pie.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1 KG",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Fruit Pie' modifier",
+   "* +75 Maximum Health * +150 Maximum Stamina * -15% Oxygen Consumption * -15% Water Consumption * +10% Experience Gained"
+  ],
+  "icon": "/icons/fruit-pie.png"
+ },
+ {
+  "title": "Fruit Salad",
+  "slug": "fruit-salad",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Fruit Salad.png",
+   "ITEM_FruitSalad.png",
+   "ITEM_Food_Fruit_Salad.png",
+   "T_ITEM_Food_Fruit_Salad.png",
+   "CRE_Food_Fruit_Salad.png",
+   "T_Bestiary_Food_Fruit_Salad.png",
+   "ITEM_Fruit_Salad.png",
+   "T_ITEM_Fruit_Salad.png",
+   "CRE_Fruit_Salad.png",
+   "T_Bestiary_Fruit_Salad.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Fruit_Salad",
+  "flavor": "A divisive dessert, loved or hated, and very little in between.",
+  "description": "An all-natural, surprisingly delicious melon-berry mix, boosts stamina and health.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 Seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Cooking Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina",
+   "-10% Oxygen Consumption",
+   "-10% Water Consumption"
+  ],
+  "icon": "/icons/fruit-salad.png"
+ },
+ {
+  "title": "Grilled Freshwater Fillet",
+  "slug": "grilled-freshwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Grilled Freshwater Fillet.png",
+   "ITEM_Grilled_Freshwater_Fish.png",
+   "T_ITEM_Grilled_Freshwater_Fish.png",
+   "CRE_Grilled_Freshwater_Fish.png",
+   "T_Bestiary_Grilled_Freshwater_Fish.png",
+   "ITEM_Grilled_Freshwater_Fillet.png",
+   "T_ITEM_Grilled_Freshwater_Fillet.png",
+   "CRE_Grilled_Freshwater_Fillet.png",
+   "T_Bestiary_Grilled_Freshwater_Fillet.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Grilled Freshwater Fillet\" Status Effect. }}",
+  "itemable_name": "Grilled_Freshwater_Fish",
+  "flavor": "Tasty for very little preparation.",
+  "description": "Recently filleted fish grilled over an open fire.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "600 seconds",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "0.05 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+15 Health when Consumed",
+   "+120 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+15% Stamina Regeneration",
+   "+5% Health Regeneration"
+  ],
+  "icon": "/icons/grilled-freshwater-fillet.png"
+ },
+ {
+  "title": "Grilled Pumpkin",
+  "slug": "grilled-pumpkin",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Grilled Pumpkin.png",
+   "ITEM_GrilledPumpkin.png",
+   "ITEM_Cooked_Pumpkin.png",
+   "T_ITEM_Cooked_Pumpkin.png",
+   "CRE_Cooked_Pumpkin.png",
+   "T_Bestiary_Cooked_Pumpkin.png",
+   "ITEM_Grilled_Pumpkin.png",
+   "T_ITEM_Grilled_Pumpkin.png",
+   "CRE_Grilled_Pumpkin.png",
+   "T_Bestiary_Grilled_Pumpkin.png"
+  ],
+  "intro": "When consumed, it provides the \"Cooked Pumpkin\" Status Effect. }}",
+  "itemable_name": "Cooked_Pumpkin",
+  "flavor": "The pumpkins natural beta-carotene improves endurance.",
+  "description": "Lightly charred, fairly delicious.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+5% Exposure Resistance"
+  ],
+  "icon": "/icons/grilled-pumpkin.png"
+ },
+ {
+  "title": "Grilled Saltwater Fillet",
+  "slug": "grilled-saltwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Grilled Saltwater Fillet.png",
+   "ITEM_Grilled_Saltwater_Fish.png",
+   "T_ITEM_Grilled_Saltwater_Fish.png",
+   "CRE_Grilled_Saltwater_Fish.png",
+   "T_Bestiary_Grilled_Saltwater_Fish.png",
+   "ITEM_Grilled_Saltwater_Fillet.png",
+   "T_ITEM_Grilled_Saltwater_Fillet.png",
+   "CRE_Grilled_Saltwater_Fillet.png",
+   "T_Bestiary_Grilled_Saltwater_Fillet.png"
+  ],
+  "intro": "Eating will replenish Health. When consumed, it provides the \"Grilled Saltwater Fillet\" Status Effect. }}",
+  "itemable_name": "Grilled_Saltwater_Fish",
+  "flavor": "Tasty for very little preparation.",
+  "description": "Recently filleted fish grilled over an open fire.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "600 seconds",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "0.05 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+15 Health when Consumed",
+   "+120 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+15% Stamina Regeneration",
+   "+5% Exposure Resistance"
+  ],
+  "icon": "/icons/grilled-saltwater-fillet.png"
+ },
+ {
+  "title": "Honey",
+  "slug": "honey",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Honey.png",
+   "T_ITEM_Honey.png",
+   "CRE_Honey.png",
+   "T_Bestiary_Honey.png"
+  ],
+  "intro": "Honey is used to produce Honey Smoked Bacon, Honey Mead, Sugar and Jarred Honey. }}",
+  "itemable_name": "Honey",
+  "flavor": "The Bees of Icarus are known for their long, needle-like stingers which are capable of piercing even the toughest of envirosuits. Proceed with caution.",
+  "description": "Freshly processed Honey, ready to eat or add to your food",
+  "tags": [
+   "Item.Consumable.Food.Honey",
+   "Item.Consumable.Food.Cooked.Honey",
+   "Proxy.Liquid.Orange"
+  ],
+  "duration": "60sec",
+  "decay": "Does not decay",
+  "stack": "25",
+  "weight": "0.5kg",
+  "bench": "Mortar and Pestle Beehive Extractor",
+  "buffs": [
+   "+20 when consumed"
+  ],
+  "icon": "/icons/honey.png"
+ },
+ {
+  "title": "Honey Glazed Pastry",
+  "slug": "honey-glazed-pastry",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Honey Glazed Pastry.png",
+   "T_ITEM_Honey_Glazed_Pastry.png",
+   "ITEM_Honey_Pastry.png",
+   "T_ITEM_Honey_Pastry.png",
+   "CRE_Honey_Pastry.png",
+   "T_Bestiary_Honey_Pastry.png",
+   "ITEM_Honey_Glazed_Pastry.png",
+   "CRE_Honey_Glazed_Pastry.png",
+   "T_Bestiary_Honey_Glazed_Pastry.png"
+  ],
+  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Honey_Pastry",
+  "flavor": "Just like 'ma used to make.",
+  "description": "A baked good generously drizzled with honey.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Honey"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Stamina",
+   "+35% Food Effects Duration",
+   "+15% Experience Gained"
+  ],
+  "icon": "/icons/honey-glazed-pastry.png"
+ },
+ {
+  "title": "Honey Smoked Bacon",
+  "slug": "honey-smoked-bacon",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Honey Smoked Bacon.png",
+   "ITEM_SmokedBacon.png",
+   "ITEM_Smoked_Bacon.png",
+   "T_ITEM_Smoked_Bacon.png",
+   "CRE_Smoked_Bacon.png",
+   "T_Bestiary_Smoked_Bacon.png",
+   "ITEM_Honey_Smoked_Bacon.png",
+   "T_ITEM_Honey_Smoked_Bacon.png",
+   "CRE_Honey_Smoked_Bacon.png",
+   "T_Bestiary_Honey_Smoked_Bacon.png"
+  ],
+  "intro": "Honey Smoked Bacon is cooked on the Smoker",
+  "itemable_name": "Smoked_Bacon",
+  "flavor": "Just like 'ma used to make.",
+  "description": "Delightfully smoked bacon infused with honey.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 sec",
+  "decay": "6,000 sec",
+  "stack": "25",
+  "weight": "0.5 Kg",
+  "bench": "Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+75 Maximum Health",
+   "+20% Health Regeneration",
+   "-25% Food Consumption",
+   "+15% Experience Gained",
+   "+25% Food Effects Generation"
+  ],
+  "icon": "/icons/honey-smoked-bacon.png"
+ },
+ {
+  "title": "Honeycomb Bar",
+  "slug": "honeycomb-bar",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Honeycomb_Bar.png",
+   "T_ITEM_Honey_Bar.png",
+   "ITEM_Food_Honey_Bar.png",
+   "T_ITEM_Food_Honey_Bar.png",
+   "CRE_Food_Honey_Bar.png",
+   "T_Bestiary_Food_Honey_Bar.png",
+   "T_ITEM_Honeycomb_Bar.png",
+   "CRE_Honeycomb_Bar.png",
+   "T_Bestiary_Honeycomb_Bar.png"
+  ],
+  "intro": "A sweet and tasty snack for your travels, long lasting effects and easily crafted. }}",
+  "itemable_name": "Food_Honey_Bar",
+  "flavor": "Just like 'ma used to make.",
+  "description": "A sweet and tasty snack for your travels",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Honey"
+  ],
+  "duration": "600 sec",
+  "decay": "3,600 sec",
+  "stack": "25",
+  "weight": "0.2kg",
+  "bench": "Character Crafting",
+  "buffs": [
+   "+50 food when consumed",
+   "+20 water when consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-10% Stamina Consumed by Tool Actions",
+   "+15% Food Effects Duration"
+  ],
+  "icon": "/icons/honeycomb-bar.png"
+ },
+ {
+  "title": "Jarred Honey",
+  "slug": "jarred-honey",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Jarred Honey.png",
+   "T_ITEM_Honey_Jar.png",
+   "ITEM_Glass_Jar_Honey.png",
+   "T_ITEM_Glass_Jar_Honey.png",
+   "CRE_Glass_Jar_Honey.png",
+   "T_Bestiary_Glass_Jar_Honey.png",
+   "ITEM_Jarred_Honey.png",
+   "T_ITEM_Jarred_Honey.png",
+   "CRE_Jarred_Honey.png",
+   "T_Bestiary_Jarred_Honey.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Glass_Jar_Honey",
+  "flavor": "Just like 'ma used to make.",
+  "description": "A handy way to store your honey",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Honey"
+  ],
+  "duration": "900 sec",
+  "decay": "Does not decay",
+  "stack": "20",
+  "weight": "0.5kg",
+  "bench": "Kitchen Bench Marble Kitchen Bench",
+  "buffs": [
+   "+40 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+125% Maximum Stamina",
+   "+20% Food Effects Duration",
+   "+20% Shared Experience Gained"
+  ],
+  "icon": "/icons/jarred-honey.png"
+ },
+ {
+  "title": "Kumara",
+  "slug": "kumara",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Kumara.png",
+   "T_ITEM_Kumara.png",
+   "CRE_Kumara.png",
+   "T_Bestiary_Kumara.png"
+  ],
+  "intro": "Kumara are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Kumara Farming Packet and grown by a prospector.",
+  "itemable_name": "Kumara",
+  "flavor": "Often found in Pacific island and Maori cuisine.",
+  "description": ".",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant",
+   "FieldGuide.WorkshopOnly"
+  ],
+  "duration": "60 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.3 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/kumara.png"
+ },
+ {
+  "title": "Mature Coconut",
+  "slug": "mature-coconut",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mature Coconut.png",
+   "ITEM_Coconut_Mature.png",
+   "ITEM_Coconut_mature.png",
+   "T_ITEM_Coconut_mature.png",
+   "CRE_Coconut_mature.png",
+   "T_Bestiary_Coconut_mature.png",
+   "ITEM_Mature_Coconut.png",
+   "T_ITEM_Mature_Coconut.png",
+   "CRE_Mature_Coconut.png",
+   "T_Bestiary_Mature_Coconut.png"
+  ],
+  "intro": "If a prospector lets a Ripe Coconut decay, it will ripen into a mature coconut.",
+  "itemable_name": "Coconut_mature",
+  "flavor": "A coconut's final stage is also its most energy-rich.",
+  "description": "Maturity diminishes liquid content, but offers more satisfying flesh.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw"
+  ],
+  "duration": "600sec",
+  "decay": "600sec",
+  "stack": "1",
+  "weight": "0.2kg",
+  "bench": "",
+  "buffs": [
+   "+10 Food when Consumed",
+   "+2 Water when Consumed",
+   "+50 Maximum Health",
+   "-10% Food Consumption"
+  ],
+  "icon": "/icons/mature-coconut.png"
+ },
+ {
+  "title": "Meat Pie",
+  "slug": "meat-pie",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Meat Pie.png",
+   "ITEM_MeatPie.png",
+   "ITEM_Food_Meat_Pie.png",
+   "T_ITEM_Food_Meat_Pie.png",
+   "CRE_Food_Meat_Pie.png",
+   "T_Bestiary_Food_Meat_Pie.png",
+   "ITEM_Meat_Pie.png",
+   "T_ITEM_Meat_Pie.png",
+   "CRE_Meat_Pie.png",
+   "T_Bestiary_Meat_Pie.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Meat_Pie",
+  "flavor": "\"Stress cannot exist in the presence of a pie.\" - David Mamet",
+  "description": "A rustic pie that delivers a big health boost.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Meat",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1 KG",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Meat Pie' modifier",
+   "* +225 Maximum Health * +15% Exposure Resistance * +15% Stamina Regeneration * +15% Health Regeneration * +10% Experience Gained"
+  ],
+  "icon": "/icons/meat-pie.png"
+ },
+ {
+  "title": "Mixed Berries",
+  "slug": "mixed-berries",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mixed Berries.png",
+   "ITEM_MixedBerries.png",
+   "ITEM_Mixed_Berries.png",
+   "T_ITEM_Mixed_Berries.png",
+   "CRE_Mixed_Berries.png",
+   "T_Bestiary_Mixed_Berries.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Mixed_Berries",
+  "flavor": "Another great meal from your Cooking Station.",
+  "description": "A tasty combination of berries to keep you going.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 Seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Kitchen Bench Cooking Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina",
+   "-10% Oxygen Consumption",
+   "-10% Water Consumption"
+  ],
+  "icon": "/icons/mixed-berries.png"
+ },
+ {
+  "title": "Mountaineering Animal Feed",
+  "slug": "mountaineering-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mountaineering Animal Feed.png",
+   "T_ITEM_Animal_Feed_Mushroom.png",
+   "ITEM_Food_Animal_Feed_Mushroom.png",
+   "T_ITEM_Food_Animal_Feed_Mushroom.png",
+   "CRE_Food_Animal_Feed_Mushroom.png",
+   "T_Bestiary_Food_Animal_Feed_Mushroom.png",
+   "ITEM_Mountaineering_Animal_Feed.png",
+   "T_ITEM_Mountaineering_Animal_Feed.png",
+   "CRE_Mountaineering_Animal_Feed.png",
+   "T_Bestiary_Mountaineering_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Mushroom",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that promotes rough terain and rocky traversal.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+50% Falling Resistance",
+   "-50% Stamina Consumed while Jumping"
+  ],
+  "icon": "/icons/mountaineering-animal-feed.png"
+ },
+ {
+  "title": "Mushroom",
+  "slug": "mushroom",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mushroom.png",
+   "T_ITEM_Mushroom.png",
+   "CRE_Mushroom.png",
+   "T_Bestiary_Mushroom.png"
+  ],
+  "intro": "Mushrooms are a form of Plantlife found in the Arctic Region on Icarus. When consumed by prospectors, they replenish Hunger.",
+  "itemable_name": "Mushroom",
+  "flavor": "The full implications of introducing fungi to a new world are yet to be seen.",
+  "description": "A nutritional fungus, can be eaten raw, but best fried.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant"
+  ],
+  "duration": "60 seconds",
+  "decay": "800 seconds",
+  "stack": "100",
+  "weight": "0.1 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/mushroom.png"
+ },
+ {
+  "title": "Mushroom Omlette",
+  "slug": "mushroom-omlette",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mushroom Omlette.png",
+   "T_ITEM_Mushroom_Omlette.png",
+   "ITEM_Mushroom_Omlette.png",
+   "CRE_Mushroom_Omlette.png",
+   "T_Bestiary_Mushroom_Omlette.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Mushroom_Omlette",
+  "flavor": "Flip it!",
+  "description": "Fried egg with a generous helping of mushrooms",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fungi"
+  ],
+  "duration": "990s",
+  "decay": "15 Minutes",
+  "stack": "10",
+  "weight": "0.5 Kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Mushroom Omelette' modifier",
+   "+150 Maximum Health",
+   "15% Chance to find additional Stone while Mining",
+   "15% Stamina Regeneration"
+  ],
+  "icon": "/icons/mushroom-omlette.png"
+ },
+ {
+  "title": "Mushroom Soup",
+  "slug": "mushroom-soup",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Mushroom Soup.png",
+   "ITEM_MushroomSoup.png",
+   "ITEM_Food_Mushroom_Soup.png",
+   "T_ITEM_Food_Mushroom_Soup.png",
+   "CRE_Food_Mushroom_Soup.png",
+   "T_Bestiary_Food_Mushroom_Soup.png",
+   "ITEM_Mushroom_Soup.png",
+   "T_ITEM_Mushroom_Soup.png",
+   "CRE_Mushroom_Soup.png",
+   "T_Bestiary_Mushroom_Soup.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Mushroom_Soup",
+  "flavor": "While some critics regard this meal as pointless if made without butter, purists do not last long on Icarus.",
+  "description": "A passable impression of a classic dish.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Soup",
+   "Item.Consumable.Food.Cooked.Fungi"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Campfire",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+10% Stamina Regeneration"
+  ],
+  "icon": "/icons/mushroom-soup.png"
+ },
+ {
+  "title": "Pickled Avocado",
+  "slug": "pickled-avocado",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Pickled Avocado.png",
+   "ITEM_PickledAvocado.png",
+   "ITEM_Pickled_Avocado.png",
+   "T_ITEM_Pickled_Avocado.png",
+   "CRE_Pickled_Avocado.png",
+   "T_Bestiary_Pickled_Avocado.png"
+  ],
+  "intro": "Pickled Carrot is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "itemable_name": "Pickled_Avocado",
+  "flavor": "A handy snack made at your Kitchen Bench.",
+  "description": "Avocado that has been marinated resulting in a tangy and slightly sour flavor.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Kitchen Bench",
+  "buffs": [
+   "+150 Food when Consumed",
+   "+150 Maximum Stamina",
+   "+20% Projectile Damage",
+   "+20% Shared Experience Gained",
+   "-20% Food Consumption"
+  ],
+  "icon": "/icons/pickled-avocado.png"
+ },
+ {
+  "title": "Pickled Carrot",
+  "slug": "pickled-carrot",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Pickled Carrot.png",
+   "ITEM_PickledCarrot.png",
+   "ITEM_Food_Pickled_Carrot.png",
+   "T_ITEM_Food_Pickled_Carrot.png",
+   "CRE_Food_Pickled_Carrot.png",
+   "T_Bestiary_Food_Pickled_Carrot.png",
+   "ITEM_Pickled_Carrot.png",
+   "T_ITEM_Pickled_Carrot.png",
+   "CRE_Pickled_Carrot.png",
+   "T_Bestiary_Pickled_Carrot.png"
+  ],
+  "intro": "Pickled Carrot is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "itemable_name": "Food_Pickled_Carrot",
+  "flavor": "Like many other ancient ways, pickling has found a place on Icarus.",
+  "description": "An acquired taste, boosts stamina.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Kitchen Bench",
+  "buffs": [
+   "+150 Maximum Stamina",
+   "+20% Projectile Damage",
+   "+20% Shared Experience Gained"
+  ],
+  "icon": "/icons/pickled-carrot.png"
+ },
+ {
+  "title": "Pickled Freshwater Fillet",
+  "slug": "pickled-freshwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Pickled Freshwater Fillet.png",
+   "ITEM_Fried_Pickled.png",
+   "ITEM_Pickled_Freshwater_Fillet.png",
+   "T_ITEM_Pickled_Freshwater_Fillet.png",
+   "CRE_Pickled_Freshwater_Fillet.png",
+   "T_Bestiary_Pickled_Freshwater_Fillet.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Pickled_Freshwater_Fillet",
+  "flavor": "Not for everyone, but a delicious long lasting treat for those that enjoy it.",
+  "description": "A tangy dish made by preserving tender fillets of freshwater fish in a flavorful mixture.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "900 seconds",
+  "decay": "Does not decay",
+  "stack": "20",
+  "weight": "0.5 kg",
+  "bench": "Kitchen Bench Marble Kitchen Bench",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 space in Stomach",
+   "+150 Maximum Health",
+   "+30% Stamina Regeneration",
+   "+10% Health Regeneration",
+   "+20% Shared Experience"
+  ],
+  "icon": "/icons/pickled-freshwater-fillet.png"
+ },
+ {
+  "title": "Plain Jerky",
+  "slug": "plain-jerky",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Plain_Jerky.png",
+   "T_ITEM_Generic_Meat_Smoked.png",
+   "ITEM_Smoked_Meat_Generic.png",
+   "T_ITEM_Smoked_Meat_Generic.png",
+   "CRE_Smoked_Meat_Generic.png",
+   "T_Bestiary_Smoked_Meat_Generic.png",
+   "T_ITEM_Plain_Jerky.png",
+   "CRE_Plain_Jerky.png",
+   "T_Bestiary_Plain_Jerky.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Smoked_Meat_Generic",
+  "flavor": "A simple recipe for a simple snack.",
+  "description": "A piece of plain jerky.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "1,200 sec",
+  "decay": "6,000 sec",
+  "stack": "10",
+  "weight": "1.0 Kg",
+  "bench": "Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+60% Health Regeneration",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/plain-jerky.png"
+ },
+ {
+  "title": "Potato and Carrot Fries",
+  "slug": "potato-and-carrot-fries",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Potato and Carrot Fries.png",
+   "ITEM_PotatoCarrotFries.png",
+   "ITEM_Food_Potato_Carrot_Fries.png",
+   "T_ITEM_Food_Potato_Carrot_Fries.png",
+   "CRE_Food_Potato_Carrot_Fries.png",
+   "T_Bestiary_Food_Potato_Carrot_Fries.png",
+   "ITEM_Potato_and_Carrot_Fries.png",
+   "T_ITEM_Potato_and_Carrot_Fries.png",
+   "CRE_Potato_and_Carrot_Fries.png",
+   "T_Bestiary_Potato_and_Carrot_Fries.png"
+  ],
+  "intro": "Potato and Carrot Fries is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Food_Potato_Carrot_Fries",
+  "flavor": "Delicious.",
+  "description": "Delivers a wide range of health benefits.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "+150 Maximum Heath",
+   "+10% Health Regeneration",
+   "-10% Food Consumption",
+   "+10% Projectile Damage"
+  ],
+  "icon": "/icons/potato-and-carrot-fries.png"
+ },
+ {
+  "title": "Potato Bread",
+  "slug": "potato-bread",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Potato Bread.png",
+   "ITEM_PotatoBread.png",
+   "ITEM_Food_Potato_Bread.png",
+   "T_ITEM_Food_Potato_Bread.png",
+   "CRE_Food_Potato_Bread.png",
+   "T_Bestiary_Food_Potato_Bread.png",
+   "ITEM_Potato_Bread.png",
+   "T_ITEM_Potato_Bread.png",
+   "CRE_Potato_Bread.png",
+   "T_Bestiary_Potato_Bread.png"
+  ],
+  "intro": "Potato Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Food_Potato_Bread",
+  "flavor": "The best kind of bread.",
+  "description": "Inproves stamina and keeps you fuller for longer.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Stamina",
+   "-20% Food Consumption",
+   "+15% Experience Gained"
+  ],
+  "icon": "/icons/potato-bread.png"
+ },
+ {
+  "title": "Pumpkin",
+  "slug": "pumpkin",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Pumpkin.png",
+   "T_ITEM_Pumpkin.png",
+   "CRE_Pumpkin.png",
+   "T_Bestiary_Pumpkin.png"
+  ],
+  "intro": "File:Olympus Pumpkin Map.jpg|Map of Pumpkin on Olympus File:Styx Pumpkin Map.jpg|Map of Pumpkin on Styx File:Pro Pumpkin.jpg|Map of Pumpkin on Prometheus",
+  "itemable_name": "Pumpkin",
+  "flavor": "Ensuring that Halloween becomes a multi-planet holiday. Best cooked.",
+  "description": "A deep yellow squash cultivar.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Consumable.Food.Pumpkin",
+   "Item.Plant"
+  ],
+  "duration": "60 seconds",
+  "decay": "800 seconds",
+  "stack": "20",
+  "weight": "0.5 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/pumpkin.png"
+ },
+ {
+  "title": "Pumpkin Bread",
+  "slug": "pumpkin-bread",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Pumpkin Bread.png",
+   "ITEM_PumpkinBread.png",
+   "ITEM_Food_Pumpkin_Bread.png",
+   "T_ITEM_Food_Pumpkin_Bread.png",
+   "CRE_Food_Pumpkin_Bread.png",
+   "T_Bestiary_Food_Pumpkin_Bread.png",
+   "ITEM_Pumpkin_Bread.png",
+   "T_ITEM_Pumpkin_Bread.png",
+   "CRE_Pumpkin_Bread.png",
+   "T_Bestiary_Pumpkin_Bread.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Pumpkin_Bread",
+  "flavor": "Just like 'someone' used to make.",
+  "description": "A noticeably yellow loaf that significantly increases endurance.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Grain"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Pumpkin Bread' modifier * +150 Maximum Stamina * +15% Exposure Resistance * +15% Experience Gained"
+  ],
+  "icon": "/icons/pumpkin-bread.png"
+ },
+ {
+  "title": "Raw Bacon",
+  "slug": "raw-bacon",
+  "category": "Food",
+  "infobox": "",
+  "images": [
+   "ITEM_Raw_Bacon.png",
+   "T_ITEM_Raw_Bacon.png",
+   "CRE_Raw_Bacon.png",
+   "T_Bestiary_Raw_Bacon.png"
+  ],
+  "intro": "Raw meat can be obtained by skinning Wild Boar with a Knife. While eating raw food will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook before eating.",
+  "itemable_name": "Raw_Bacon",
+  "flavor": "Jackpot!",
+  "description": "Dropped By Boars",
+  "tags": [
+   "Item.Consumable.Food.Raw",
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Creature.Loot"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "50",
+  "weight": "100",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-bacon.png"
+ },
+ {
+  "title": "Raw Fatty T-Bone",
+  "slug": "raw-fatty-t-bone",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw Fatty T-Bone.png",
+   "ITEM_Meat_TboneRaw.png",
+   "ITEM_Fatty_Tbone.png",
+   "T_ITEM_Fatty_Tbone.png",
+   "CRE_Fatty_Tbone.png",
+   "T_Bestiary_Fatty_Tbone.png",
+   "ITEM_Raw_Fatty_T-Bone.png",
+   "T_ITEM_Raw_Fatty_T-Bone.png",
+   "CRE_Raw_Fatty_T-Bone.png",
+   "T_Bestiary_Raw_Fatty_T-Bone.png"
+  ],
+  "intro": "*Grizzly Bear",
+  "itemable_name": "Fatty_Tbone",
+  "flavor": "Calories don't count on Icarus",
+  "description": "The largest of steaks can typically only be found in the largest of creatures",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-fatty-t-bone.png"
+ },
+ {
+  "title": "Raw Gamey Meat",
+  "slug": "raw-gamey-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw Gamey Meat.png",
+   "ITEM_Meat_GameyRaw.png",
+   "ITEM_Gamey_Meat.png",
+   "T_ITEM_Gamey_Meat.png",
+   "CRE_Gamey_Meat.png",
+   "T_Bestiary_Gamey_Meat.png",
+   "ITEM_Raw_Gamey_Meat.png",
+   "T_ITEM_Raw_Gamey_Meat.png",
+   "CRE_Raw_Gamey_Meat.png",
+   "T_Bestiary_Raw_Gamey_Meat.png"
+  ],
+  "intro": "*Chamois",
+  "itemable_name": "Gamey_Meat",
+  "flavor": "Slimy, yet satisfying",
+  "description": "Raw gamey meat, typically found amongst the more passive wildlife",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-gamey-meat.png"
+ },
+ {
+  "title": "Raw Giant Steak",
+  "slug": "raw-giant-steak",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw Giant Steak.png",
+   "ITEM_Raw_Prime_Meat.png",
+   "ITEM_Giant_Steak.png",
+   "T_ITEM_Giant_Steak.png",
+   "CRE_Giant_Steak.png",
+   "T_Bestiary_Giant_Steak.png",
+   "ITEM_Raw_Giant_Steak.png",
+   "T_ITEM_Raw_Giant_Steak.png",
+   "CRE_Raw_Giant_Steak.png",
+   "T_Bestiary_Raw_Giant_Steak.png"
+  ],
+  "intro": "*Elephant",
+  "itemable_name": "Giant_Steak",
+  "flavor": "This should keep you going for a while",
+  "description": "A giant steak from the belly of only the largest creatures.",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-giant-steak.png"
+ },
+ {
+  "title": "Raw Meat",
+  "slug": "raw-meat",
+  "category": "Food",
+  "infobox": "",
+  "images": [
+   "ITEM_Raw_Meat.png",
+   "T_ITEM_Raw_Meat.png",
+   "CRE_Raw_Meat.png",
+   "T_Bestiary_Raw_Meat.png"
+  ],
+  "intro": "Raw meat can be obtained by skinning animals with a Knife. While eating raw meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook before eating.",
+  "itemable_name": "Raw_Meat",
+  "flavor": "Transplanted from Earth, a range of genetically modified animals thrive in the terrazone, providing an energy-dense food source.",
+  "description": "Meat from a recently killed animal, worth cooking first.",
+  "tags": [
+   "Item.Consumable.Food.Raw",
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "20",
+  "weight": "50",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-meat.png"
+ },
+ {
+  "title": "Raw Soft Meat",
+  "slug": "raw-soft-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw Soft Meat.png",
+   "ITEM_Meat_SoftRaw.png",
+   "ITEM_Soft_Meat.png",
+   "T_ITEM_Soft_Meat.png",
+   "CRE_Soft_Meat.png",
+   "T_Bestiary_Soft_Meat.png",
+   "ITEM_Raw_Soft_Meat.png",
+   "T_ITEM_Raw_Soft_Meat.png",
+   "CRE_Raw_Soft_Meat.png",
+   "T_Bestiary_Raw_Soft_Meat.png"
+  ],
+  "intro": "*Scorpion",
+  "itemable_name": "Soft_Meat",
+  "flavor": "Tastes like guilt, doesn't it?",
+  "description": "A soft, supple meat",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-soft-meat.png"
+ },
+ {
+  "title": "Raw Stringy Meat",
+  "slug": "raw-stringy-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw Stringy Meat.png",
+   "ITEM_Meat_StringyRaw.png",
+   "ITEM_Stringy_Meat.png",
+   "T_ITEM_Stringy_Meat.png",
+   "CRE_Stringy_Meat.png",
+   "T_Bestiary_Stringy_Meat.png",
+   "ITEM_Raw_Stringy_Meat.png",
+   "T_ITEM_Raw_Stringy_Meat.png",
+   "CRE_Raw_Stringy_Meat.png",
+   "T_Bestiary_Raw_Stringy_Meat.png"
+  ],
+  "intro": "*Alpha Wolf",
+  "itemable_name": "Stringy_Meat",
+  "flavor": "An adequate meal",
+  "description": "Stringy meat, typically found in fast, predatory creatures",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-stringy-meat.png"
+ },
+ {
+  "title": "Raw White Meat",
+  "slug": "raw-white-meat",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Raw White Meat.png",
+   "ITEM_Meat_WhiteRaw.png",
+   "ITEM_White_Meat.png",
+   "T_ITEM_White_Meat.png",
+   "CRE_White_Meat.png",
+   "T_Bestiary_White_Meat.png",
+   "ITEM_Raw_White_Meat.png",
+   "T_ITEM_Raw_White_Meat.png",
+   "CRE_Raw_White_Meat.png",
+   "T_Bestiary_Raw_White_Meat.png"
+  ],
+  "intro": "Eating will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "itemable_name": "White_Meat",
+  "flavor": "Be careful of the bones",
+  "description": "A small cut of white meat",
+  "tags": [
+   "ModifierState.Chance.FoodPoisoning",
+   "Item.Consumable.Food.Raw.Prime",
+   "Item.Creature.Loot",
+   "Item.query.raw_meat"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "20",
+  "weight": "50g",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/raw-white-meat.png"
+ },
+ {
+  "title": "Rhubarb",
+  "slug": "rhubarb",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Rhubarb.png",
+   "T_ITEM_Rhubarb.png",
+   "CRE_Rhubarb.png",
+   "T_Bestiary_Rhubarb.png"
+  ],
+  "intro": "Rhubarb are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Rhubarb Farming Packet and grown by a prospector.",
+  "itemable_name": "Rhubarb",
+  "flavor": "Rhubarb is a good source of vitamins C and K.",
+  "description": "A tart and tangy vegetable with large green leaves and pink or red stalks.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant",
+   "FieldGuide.WorkshopOnly"
+  ],
+  "duration": "60 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.3 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/rhubarb.png"
+ },
+ {
+  "title": "Rhubarb Stew",
+  "slug": "rhubarb-stew",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Rhubarb Stew.png",
+   "ITEM_RhubarbStew.png",
+   "ITEM_Rhubarb_Stew.png",
+   "T_ITEM_Rhubarb_Stew.png",
+   "CRE_Rhubarb_Stew.png",
+   "T_Bestiary_Rhubarb_Stew.png"
+  ],
+  "intro": "Rhubarb Stew is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Rhubarb_Stew",
+  "flavor": "Another great meal from your Potbelly Stove.",
+  "description": "A sweet and tangy snack.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+225 Maximum Stamina",
+   "-10% Oxygen Consumption",
+   "-10% Water Consumption",
+   "-10% Stamina Consumed"
+  ],
+  "icon": "/icons/rhubarb-stew.png"
+ },
+ {
+  "title": "Ripe Coconut",
+  "slug": "ripe-coconut",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Ripe Coconut.png",
+   "ITEM_Coconut_Ripe.png",
+   "ITEM_Coconut_mid.png",
+   "T_ITEM_Coconut_mid.png",
+   "CRE_Coconut_mid.png",
+   "T_Bestiary_Coconut_mid.png",
+   "ITEM_Ripe_Coconut.png",
+   "T_ITEM_Ripe_Coconut.png",
+   "CRE_Ripe_Coconut.png",
+   "T_Bestiary_Ripe_Coconut.png"
+  ],
+  "intro": "If a prospector lets a Young Coconut decay, it will ripen into a ripe coconut. Let a ripe coconut decay, and it will ripen again into a Mature Coconut.",
+  "itemable_name": "Coconut_mid",
+  "flavor": "Ripe coconuts contain a balance of thirst-quenching liquid and energy-dense, hunger satisfying flesh.",
+  "description": "A balance of light sustenance and moderate hydration, in a fiberous shell.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw"
+  ],
+  "duration": "600sec",
+  "decay": "280sec",
+  "stack": "1",
+  "weight": "0.2kg",
+  "bench": "",
+  "buffs": [
+   "+8 Food when Consumed",
+   "+8 Water when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75% Maximum Health",
+   "-10% Food Consumption"
+  ],
+  "icon": "/icons/ripe-coconut.png"
+ },
+ {
+  "title": "Roast Squash",
+  "slug": "roast-squash",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Roast Squash.png",
+   "ITEM_RoastSquash.png",
+   "ITEM_Cooked_Squash.png",
+   "T_ITEM_Cooked_Squash.png",
+   "CRE_Cooked_Squash.png",
+   "T_Bestiary_Cooked_Squash.png",
+   "ITEM_Roast_Squash.png",
+   "T_ITEM_Roast_Squash.png",
+   "CRE_Roast_Squash.png",
+   "T_Bestiary_Roast_Squash.png"
+  ],
+  "intro": "When consumed, it provides the \"\" Status Effect. }}",
+  "itemable_name": "Cooked_Squash",
+  "flavor": "Boosts stamina, if not the will to live.",
+  "description": "Like roast pumpkin, boasting a similar flavor and most of the same effects.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+5% Melee Damage"
+  ],
+  "icon": "/icons/roast-squash.png"
+ },
+ {
+  "title": "Roast Vegetables",
+  "slug": "roast-vegetables",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Roast Vegetables.png",
+   "ITEM_RoastVeges.png",
+   "ITEM_Food_Roasted_Vegetables.png",
+   "T_ITEM_Food_Roasted_Vegetables.png",
+   "CRE_Food_Roasted_Vegetables.png",
+   "T_Bestiary_Food_Roasted_Vegetables.png",
+   "ITEM_Roast_Vegetables.png",
+   "T_ITEM_Roast_Vegetables.png",
+   "CRE_Roast_Vegetables.png",
+   "T_Bestiary_Roast_Vegetables.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Roasted_Vegetables",
+  "flavor": "MELANGE: n. \"a varied mixture\"",
+  "description": "A melange of cooked vegetables, provides a serious stamina boost.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+225 Maximum Stamina",
+   "+10% Exposure Resistance",
+   "+10% Melee Damage"
+  ],
+  "icon": "/icons/roast-vegetables.png"
+ },
+ {
+  "title": "Saltwater Fillet Sashimi",
+  "slug": "saltwater-fillet-sashimi",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Saltwater Fillet Sashimi.png",
+   "ITEM_Fish_Sashimi.png",
+   "ITEM_Saltwater_Fillet_Sashimi.png",
+   "T_ITEM_Saltwater_Fillet_Sashimi.png",
+   "CRE_Saltwater_Fillet_Sashimi.png",
+   "T_Bestiary_Saltwater_Fillet_Sashimi.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Saltwater_Fillet_Sashimi",
+  "flavor": "Can be made at a Cooking Station. Simple, but delicious.",
+  "description": "A delicacy consisting of raw, thinly sliced saltwater fish.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "900 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.3",
+  "bench": "Cooking Station Kitchen Bench Marble Kitchen Bench",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75% Maximum Stamina",
+   "+15% Stamina Regeneration",
+   "+5% Exposure Resistance",
+   "+5% Projectile Damage"
+  ],
+  "icon": "/icons/saltwater-fillet-sashimi.png"
+ },
+ {
+  "title": "Saltwater Fish Fillet",
+  "slug": "saltwater-fish-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Saltwater Fish Fillet.png",
+   "ITEM_Saltwater_Fish_Fillet.png",
+   "T_ITEM_Saltwater_Fish_Fillet.png",
+   "CRE_Saltwater_Fish_Fillet.png",
+   "T_Bestiary_Saltwater_Fish_Fillet.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Saltwater_Fish_Fillet",
+  "flavor": "Nicely done.",
+  "description": "A neatly trimmed fillet ready for cooking.",
+  "tags": [
+   "Item.Consumable.Food.Raw",
+   "ModifierState.Chance.FoodPoisoning"
+  ],
+  "duration": "",
+  "decay": "600 seconds",
+  "stack": "25",
+  "weight": "0.25 kg",
+  "bench": "Fishing Bench",
+  "buffs": [
+   "+15 Food when Consumed"
+  ],
+  "icon": "/icons/saltwater-fish-fillet.png"
+ },
+ {
+  "title": "Sauteed Rhubarb",
+  "slug": "sauteed-rhubarb",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Sauteed Rhubarb.png",
+   "ITEM_SautedRhubarb.png",
+   "ITEM_Cooked_Rhubarb.png",
+   "T_ITEM_Cooked_Rhubarb.png",
+   "CRE_Cooked_Rhubarb.png",
+   "T_Bestiary_Cooked_Rhubarb.png",
+   "ITEM_Sauteed_Rhubarb.png",
+   "T_ITEM_Sauteed_Rhubarb.png",
+   "CRE_Sauteed_Rhubarb.png",
+   "T_Bestiary_Sauteed_Rhubarb.png"
+  ],
+  "intro": "When consumed, it provides the \"Sautéed Rhubarb\" Status Effect. }}",
+  "itemable_name": "Cooked_Rhubarb",
+  "flavor": "Just avoid the leaves.",
+  "description": "This snack is lightly cooked in a pan with sugar or honey.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   ",br.Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-10% Oxygen Consumption"
+  ],
+  "icon": "/icons/sauteed-rhubarb.png"
+ },
+ {
+  "title": "Savory Roll",
+  "slug": "savory-roll",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Savory Roll.png",
+   "ITEM_SavouryRoll.png",
+   "ITEM_Savory_Roll.png",
+   "T_ITEM_Savory_Roll.png",
+   "CRE_Savory_Roll.png",
+   "T_Bestiary_Savory_Roll.png"
+  ],
+  "intro": "Savory Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Savory_Roll",
+  "flavor": "A delicious meal made on your Biofuel Stove.",
+  "description": "A hearty pastry baked to perfection.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Meat",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+225 Maximum Health",
+   "+75 Maximum Stamina",
+   "-30% Food Consumption",
+   "15% Stamina Regeneration",
+   "+30% Health Regeneration",
+   "+10% Experience Gained"
+  ],
+  "icon": "/icons/savory-roll.png"
+ },
+ {
+  "title": "Seared Mushroom",
+  "slug": "seared-mushroom",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Seared Mushroom.png",
+   "ITEM_SearedMushroom.png",
+   "ITEM_Cooked_Mushroom.png",
+   "T_ITEM_Cooked_Mushroom.png",
+   "CRE_Cooked_Mushroom.png",
+   "T_Bestiary_Cooked_Mushroom.png",
+   "ITEM_Seared_Mushroom.png",
+   "T_ITEM_Seared_Mushroom.png",
+   "CRE_Seared_Mushroom.png",
+   "T_Bestiary_Seared_Mushroom.png"
+  ],
+  "intro": "When consumed, it provides the \"Seared Mushroom\" Status Effect. }}",
+  "itemable_name": "Cooked_Mushroom",
+  "flavor": "Mushrooms are notably the only lifeform introduced from Earth that required no genetic adjustment whatsoever.",
+  "description": "Lightly fried fungus.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "600 seconds",
+  "decay": "800 seconds",
+  "stack": "10",
+  "weight": "0.5 kg",
+  "bench": "Campfire",
+  "buffs": [
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+5% Stamina Regeneration"
+  ],
+  "icon": "/icons/seared-mushroom.png"
+ },
+ {
+  "title": "Seed Animal Feed",
+  "slug": "seed-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Seed Animal Feed.png",
+   "T_ITEM_Animal_Feed.png",
+   "ITEM_Food_Animal_Feed.png",
+   "T_ITEM_Food_Animal_Feed.png",
+   "CRE_Food_Animal_Feed.png",
+   "T_Bestiary_Food_Animal_Feed.png",
+   "ITEM_Seed_Animal_Feed.png",
+   "T_ITEM_Seed_Animal_Feed.png",
+   "CRE_Seed_Animal_Feed.png",
+   "T_Bestiary_Seed_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed",
+  "flavor": "Seed feed to satiate your creatures needs.",
+  "description": "Nutritionally dense animal feed.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "100",
+  "weight": "<0.1kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+125 Maximum Stamina",
+   "50% Stamina Regeneration"
+  ],
+  "icon": "/icons/seed-animal-feed.png"
+ },
+ {
+  "title": "Seed Cracker",
+  "slug": "seed-cracker",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Seed Cracker.png",
+   "T_ITEM_Seed_Crackers.png",
+   "ITEM_Food_Seed_Cracker.png",
+   "T_ITEM_Food_Seed_Cracker.png",
+   "CRE_Food_Seed_Cracker.png",
+   "T_Bestiary_Food_Seed_Cracker.png",
+   "ITEM_Seed_Cracker.png",
+   "T_ITEM_Seed_Cracker.png",
+   "CRE_Seed_Cracker.png",
+   "T_Bestiary_Seed_Cracker.png"
+  ],
+  "intro": "A snack made with just seed. }}",
+  "itemable_name": "Food_Seed_Cracker",
+  "flavor": "This cracker resembles hardtack. Upholding the explorers tradition of terrible snack choices.",
+  "description": "A very dense crunchy snack.",
+  "tags": [
+   "Item.Consumable.Food.Cooked"
+  ],
+  "duration": "900 sec",
+  "decay": "3,000 sec",
+  "stack": "25",
+  "weight": "0.2kg",
+  "bench": "Cooking Station",
+  "buffs": [
+   "+10 Health when Consumed",
+   "+50 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "-15% Stamina Consumed by Tool Actions"
+  ],
+  "icon": "/icons/seed-cracker.png"
+ },
+ {
+  "title": "Shepherd's Pie",
+  "slug": "shepherd-s-pie",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_ShepherdsPie.png",
+   "ITEM_Food_Shepherds_Pie.png",
+   "T_ITEM_Food_Shepherds_Pie.png",
+   "CRE_Food_Shepherds_Pie.png",
+   "T_Bestiary_Food_Shepherds_Pie.png",
+   "ITEM_Shepherd's_Pie.png",
+   "T_ITEM_Shepherd's_Pie.png",
+   "CRE_Shepherd's_Pie.png",
+   "T_Bestiary_Shepherd's_Pie.png"
+  ],
+  "intro": "Shepherd's Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\" }}",
+  "itemable_name": "Food_Shepherds_Pie",
+  "flavor": "A hearty meal.",
+  "description": "An all rounder, this will keep you going.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Meat",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "* +150 Maximum Health * +75 Maximum Stamina * +225 Maximum Health * +40% Health Regeneration * +10% Experience Gained * -20% Food Consumption"
+  ],
+  "icon": "/icons/shepherd-s-pie.png"
+ },
+ {
+  "title": "Shepherd's Roll",
+  "slug": "shepherd-s-roll",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_ShepherdsRoll.png",
+   "ITEM_Shepherds_Roll.png",
+   "T_ITEM_Shepherds_Roll.png",
+   "CRE_Shepherds_Roll.png",
+   "T_Bestiary_Shepherds_Roll.png",
+   "ITEM_Shepherd's_Roll.png",
+   "T_ITEM_Shepherd's_Roll.png",
+   "CRE_Shepherd's_Roll.png",
+   "T_Bestiary_Shepherd's_Roll.png"
+  ],
+  "intro": "A Shepherd's Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Shepherds_Roll",
+  "flavor": "A delicious meal made on your Biofuel Stove.",
+  "description": "A savory pastry baked until golden.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Meat",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+150 Maximum Stamina",
+   "+15% Health Regeneration",
+   "15% Melee Attack Speed",
+   "15% Projectile Damage",
+   "+10% Experience Gained"
+  ],
+  "icon": "/icons/shepherd-s-roll.png"
+ },
+ {
+  "title": "Soy Bean",
+  "slug": "soy-bean",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Soy Bean.png",
+   "ITEM_Bean.png",
+   "T_ITEM_Bean.png",
+   "CRE_Bean.png",
+   "T_Bestiary_Bean.png",
+   "ITEM_Soy_Bean.png",
+   "T_ITEM_Soy_Bean.png",
+   "CRE_Soy_Bean.png",
+   "T_Bestiary_Soy_Bean.png"
+  ],
+  "intro": "You can Make Milk from Also Used in the recipes Soy Bean Stir-Fry, Vegetable Pie, and Vegetable Roll.",
+  "itemable_name": "Bean",
+  "flavor": "The argument over whether soy produces 'milk' or 'juice' rages into the 22nd century.",
+  "description": "Close to to the perfect food source.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant"
+  ],
+  "duration": "60 seconds",
+  "decay": "800 seconds",
+  "stack": "100",
+  "weight": "0.02 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/soy-bean.png"
+ },
+ {
+  "title": "Soy Bean Stir-Fry",
+  "slug": "soy-bean-stir-fry",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Soy Bean Stir-Fry.png",
+   "ITEM_FriedSoyBeans.png",
+   "ITEM_Food_Fried_Soy_Beans.png",
+   "T_ITEM_Food_Fried_Soy_Beans.png",
+   "CRE_Food_Fried_Soy_Beans.png",
+   "T_Bestiary_Food_Fried_Soy_Beans.png",
+   "ITEM_Soy_Bean_Stir-Fry.png",
+   "T_ITEM_Soy_Bean_Stir-Fry.png",
+   "CRE_Soy_Bean_Stir-Fry.png",
+   "T_Bestiary_Soy_Bean_Stir-Fry.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Fried_Soy_Beans",
+  "flavor": "One of the original crops intended to sustain humanity on its first new extra-solar world.",
+  "description": "Boosts health, lifts stamina, enhances self-satisfaction.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+75 Maximum Stamina",
+   "+10% Projectile Damage",
+   "+10% Stamina Regeneration",
+   "+10% Health Regeneration"
+  ],
+  "icon": "/icons/soy-bean-stir-fry.png"
+ },
+ {
+  "title": "Sprinters Animal Feed",
+  "slug": "sprinters-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Sprinters Animal Feed.png",
+   "T_ITEM_Animal_Feed_Carrot.png",
+   "ITEM_Food_Animal_Feed_Carrot.png",
+   "T_ITEM_Food_Animal_Feed_Carrot.png",
+   "CRE_Food_Animal_Feed_Carrot.png",
+   "T_Bestiary_Food_Animal_Feed_Carrot.png",
+   "ITEM_Sprinters_Animal_Feed.png",
+   "T_ITEM_Sprinters_Animal_Feed.png",
+   "CRE_Sprinters_Animal_Feed.png",
+   "T_Bestiary_Sprinters_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Carrot",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that promotes short and fast travel.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75% Movement Stamina Consumed",
+   "+20% Sprint Speed"
+  ],
+  "icon": "/icons/sprinters-animal-feed.png"
+ },
+ {
+  "title": "Squash",
+  "slug": "squash",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Squash.png",
+   "T_ITEM_Squash.png",
+   "CRE_Squash.png",
+   "T_Bestiary_Squash.png"
+  ],
+  "intro": "File:Oly Squash.jpg|Map of Squash on Olympus File:Styx Squash.jpg|Map of Squash on Styx File:Pro Squash.jpg|Map of Squash on Prometheus",
+  "itemable_name": "Squash",
+  "flavor": "A myriad of squash varieties exist, but the effects of genetic tampering by xeno-biologiest have resulted in a variant with noticeable endurance-enhancing qualities.",
+  "description": "An edible herbaceous vine fruit.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Consumable.Food.Squash",
+   "Item.Plant"
+  ],
+  "duration": "60 seconds",
+  "decay": "800 seconds",
+  "stack": "100",
+  "weight": "0.1 kg",
+  "bench": "",
+  "buffs": [
+   "+20 food when consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/squash.png"
+ },
+ {
+  "title": "Stew",
+  "slug": "stew",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Stew.png",
+   "ITEM_MeatStew.png",
+   "ITEM_Food_Meat_Stew.png",
+   "T_ITEM_Food_Meat_Stew.png",
+   "CRE_Food_Meat_Stew.png",
+   "T_Bestiary_Food_Meat_Stew.png",
+   "T_ITEM_Stew.png",
+   "CRE_Stew.png",
+   "T_Bestiary_Stew.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Meat_Stew",
+  "flavor": "Some foods profit from rustic conditions. Boosts health, lifts stamina.",
+  "description": "A rich, nourishing casserole.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege",
+   "Item.Consumable.Food.Cooked.Meat"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+75 Maximum Stamina",
+   "+10% Health Regeneration",
+   "+10% Stamina Regeneration",
+   "+10% Projectile Damage"
+  ],
+  "icon": "/icons/stew.png"
+ },
+ {
+  "title": "Strawberry",
+  "slug": "strawberry",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Strawberry.png",
+   "T_ITEM_Strawberry.png",
+   "CRE_Strawberry.png",
+   "T_Bestiary_Strawberry.png"
+  ],
+  "intro": "Strawberries are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Strawberry Farming Packet and grown by a prospector.",
+  "itemable_name": "Strawberry",
+  "flavor": "The average berry contains around 200 tiny seeds",
+  "description": "A sweet and juicy fruit with a bright red colour.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Plant",
+   "FieldGuide.WorkshopOnly"
+  ],
+  "duration": "60 seconds",
+  "decay": "800",
+  "stack": "50",
+  "weight": "0.1 kg",
+  "bench": "",
+  "buffs": [
+   "+20 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+30 Maximum Health"
+  ],
+  "icon": "/icons/strawberry.png"
+ },
+ {
+  "title": "Strawberry Jam",
+  "slug": "strawberry-jam",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Strawberry Jam.png",
+   "ITEM_RasberryJam.png",
+   "ITEM_Strawberry_Jam.png",
+   "T_ITEM_Strawberry_Jam.png",
+   "CRE_Strawberry_Jam.png",
+   "T_Bestiary_Strawberry_Jam.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Strawberry_Jam",
+  "flavor": "A handy snack made at your Kitchen Bench.",
+  "description": "A sweet and fruity spread.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 seconds",
+  "decay": "Does not decay",
+  "stack": "20",
+  "weight": "0.5 kg",
+  "bench": "Kitchen Bench Marble Kitchen Bench",
+  "buffs": [
+   "+40 Food when Consumed",
+   "Provides the 'Jammed' modifier for 900 seconds:",
+   "Consumes 1 space in Stomach",
+   "+125 Maximum Stamina",
+   "+20 Experience Gained",
+   "+10% Shared Experience"
+  ],
+  "icon": "/icons/strawberry-jam.png"
+ },
+ {
+  "title": "Stuffed Avocado",
+  "slug": "stuffed-avocado",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Stuffed Avocado.png",
+   "ITEM_StuffedAvocado.png",
+   "ITEM_Stuffed_Avocado.png",
+   "T_ITEM_Stuffed_Avocado.png",
+   "CRE_Stuffed_Avocado.png",
+   "T_Bestiary_Stuffed_Avocado.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Stuffed_Avocado",
+  "flavor": "Another great meal from your Cooking Station.",
+  "description": "This avocado has been halved and filled with a savory mixture.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Cooking Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75% Maximum Stamina",
+   "+10% Health Regeneration",
+   "-10% Food Consumption"
+  ],
+  "icon": "/icons/stuffed-avocado.png"
+ },
+ {
+  "title": "Sugar Cane",
+  "slug": "sugar-cane",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "Sugar Cane.png",
+   "T_ITEM_SugarCane.png",
+   "ITEM_Sugar_Cane.png",
+   "T_ITEM_Sugar_Cane.png",
+   "CRE_Sugar_Cane.png",
+   "T_Bestiary_Sugar_Cane.png"
+  ],
+  "intro": "Shipped directly from off-world, this item is essential for food crafting recipes that grants the player additional buffs.",
+  "itemable_name": "Sugar_Cane",
+  "flavor": "Sweet As.",
+  "description": "A piece of raw sugar cane, ready for processing.",
+  "tags": [
+   "Item.Resource",
+   "Item.Plant"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "100",
+  "weight": "0.25 kg",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/sugar-cane.png"
+ },
+ {
+  "title": "Sugar Cubes",
+  "slug": "sugar-cubes",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Sugar Cubes.png",
+   "T_ITEM_Sugar.png",
+   "ITEM_Sugar.png",
+   "CRE_Sugar.png",
+   "T_Bestiary_Sugar.png",
+   "ITEM_Sugar_Cubes.png",
+   "T_ITEM_Sugar_Cubes.png",
+   "CRE_Sugar_Cubes.png",
+   "T_Bestiary_Sugar_Cubes.png"
+  ],
+  "intro": "This item is essential for food crafting recipes that grants the player additional buffs. }} }} }}",
+  "itemable_name": "Sugar",
+  "flavor": "Sweet As.",
+  "description": "A handful of sweet sugar cubes.",
+  "tags": [
+   "Item.Resource",
+   "Proxy.Dry.White"
+  ],
+  "duration": "",
+  "decay": "",
+  "stack": "500",
+  "weight": "0.1 kg",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/sugar-cubes.png"
+ },
+ {
+  "title": "Sweetcorn Soup",
+  "slug": "sweetcorn-soup",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Sweetcorn Soup.png",
+   "ITEM_CornSoup.png",
+   "ITEM_Food_Corn_Soup.png",
+   "T_ITEM_Food_Corn_Soup.png",
+   "CRE_Food_Corn_Soup.png",
+   "T_Bestiary_Food_Corn_Soup.png",
+   "ITEM_Sweetcorn_Soup.png",
+   "T_ITEM_Sweetcorn_Soup.png",
+   "CRE_Sweetcorn_Soup.png",
+   "T_Bestiary_Sweetcorn_Soup.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Corn_Soup",
+  "flavor": "Boosts stamina and improves endurance. Drains nostalgia.",
+  "description": "A classic dish, even without shredded chicken.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Soup",
+   "Item.Consumable.Food.Cooked.Fruit"
+  ],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Stamina",
+   "-20% Stamina Consumed by Actions"
+  ],
+  "icon": "/icons/sweetcorn-soup.png"
+ },
+ {
+  "title": "Tea Smoked Freshwater Fillet",
+  "slug": "tea-smoked-freshwater-fillet",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Tea_Smoked_Freshwater_Fillet.png",
+   "T_ITEM_Freshwater_Fillet_Smoked.png",
+   "ITEM_Smoked_Freshwater_Fillet.png",
+   "T_ITEM_Smoked_Freshwater_Fillet.png",
+   "CRE_Smoked_Freshwater_Fillet.png",
+   "T_Bestiary_Smoked_Freshwater_Fillet.png",
+   "T_ITEM_Tea_Smoked_Freshwater_Fillet.png",
+   "CRE_Tea_Smoked_Freshwater_Fillet.png",
+   "T_Bestiary_Tea_Smoked_Freshwater_Fillet.png"
+  ],
+  "intro": "Eating will replenish Health. }}",
+  "itemable_name": "Smoked_Freshwater_Fillet",
+  "flavor": "UDA reports have mixed results on the flavor.",
+  "description": "A tender snack made by smoking and preserving tender fillets of freshwater fish.",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Fish"
+  ],
+  "duration": "1,200 sec",
+  "decay": "6,000 sec",
+  "stack": "10",
+  "weight": "0.25 Kg",
+  "bench": "Smoker",
+  "buffs": [
+   "+30 Health when Consumed",
+   "+200 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina",
+   "+25% Stamina Regeneration",
+   "+50% Health Regeneration",
+   "-25% Food Consumption"
+  ],
+  "icon": "/icons/tea-smoked-freshwater-fillet.png"
+ },
+ {
+  "title": "Tomato & Egg Bowl",
+  "slug": "tomato-egg-bowl",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "T_ITEM_Tomato_Eggs.png",
+   "ITEM_Egg_Salad.png",
+   "T_ITEM_Egg_Salad.png",
+   "CRE_Egg_Salad.png",
+   "T_Bestiary_Egg_Salad.png",
+   "ITEM_Tomato_&_Egg_Bowl.png",
+   "T_ITEM_Tomato_&_Egg_Bowl.png",
+   "CRE_Tomato_&_Egg_Bowl.png",
+   "T_Bestiary_Tomato_&_Egg_Bowl.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Egg_Salad",
+  "flavor": "An interesting mix of protein and fruit.",
+  "description": "Considered a delicacy back on Earth",
+  "tags": [
+   "Item.Consumable.Food.Cooked.Egg"
+  ],
+  "duration": "900s",
+  "decay": "13 Minutes",
+  "stack": "10",
+  "weight": "0.5 Kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Tomato & Egg Bowl' modifier",
+   "+75 Maximum Health",
+   "+75 Maximum Stamina",
+   "15% Chance to find additional Stone while Mining",
+   "10% Projectile Damage"
+  ],
+  "icon": "/icons/tomato-egg-bowl.png"
+ },
+ {
+  "title": "Tomato Soup",
+  "slug": "tomato-soup",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Tomato Soup.png",
+   "ITEM_TomatoSoup.png",
+   "ITEM_Food_Tomato_Soup.png",
+   "T_ITEM_Food_Tomato_Soup.png",
+   "CRE_Food_Tomato_Soup.png",
+   "T_Bestiary_Food_Tomato_Soup.png",
+   "ITEM_Tomato_Soup.png",
+   "T_ITEM_Tomato_Soup.png",
+   "CRE_Tomato_Soup.png",
+   "T_Bestiary_Tomato_Soup.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Tomato_Soup",
+  "flavor": "So tasty.",
+  "description": "Boosts stamina and health regeneration.",
+  "tags": [],
+  "duration": "900 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "0.5 Kg",
+  "bench": "Biofuel Stove Electric Stove Potbelly Stove",
+  "buffs": [
+   "+100 Food when Consumed",
+   "+25 Water when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+100 Maximum Stamina",
+   "+20% Health Regeneration"
+  ],
+  "icon": "/icons/tomato-soup.png"
+ },
+ {
+  "title": "Vegetable Pie",
+  "slug": "vegetable-pie",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Vegetable Pie.png",
+   "ITEM_VegePie.png",
+   "ITEM_Food_Vegetable_Pie.png",
+   "T_ITEM_Food_Vegetable_Pie.png",
+   "CRE_Food_Vegetable_Pie.png",
+   "T_Bestiary_Food_Vegetable_Pie.png",
+   "ITEM_Vegetable_Pie.png",
+   "T_ITEM_Vegetable_Pie.png",
+   "CRE_Vegetable_Pie.png",
+   "T_Bestiary_Vegetable_Pie.png"
+  ],
+  "intro": "Vegetable Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\" }}",
+  "itemable_name": "Food_Vegetable_Pie",
+  "flavor": "If this pie had a slogan, it might be 'Stay delicious'.",
+  "description": "Warm, health-giving, stamina-boosting - virtue in every pie.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "Provides the 'Vegetable Pie' modifier",
+   "* +150 Maximum Health * +150 Maximum Stamina * -15% Stamina Consumed by Actions * +15% Melee Damage * +10% Experience Gained"
+  ],
+  "icon": "/icons/vegetable-pie.png"
+ },
+ {
+  "title": "Vegetable Roll",
+  "slug": "vegetable-roll",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Vegetable Roll.png",
+   "ITEM_VegetableRoll.png",
+   "ITEM_Vegetable_Roll.png",
+   "T_ITEM_Vegetable_Roll.png",
+   "CRE_Vegetable_Roll.png",
+   "T_Bestiary_Vegetable_Roll.png"
+  ],
+  "intro": "Vegetable Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "itemable_name": "Vegetable_Roll",
+  "flavor": "A delicious meal made on your Biofuel Stove.",
+  "description": "An easy choice packed with veges.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "1,200 seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Biofuel Stove",
+  "buffs": [
+   "+150 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Health",
+   "+150 Maximum Stamina",
+   "-30% Oxygen Consumption",
+   "+15% Exposure Resistance",
+   "+30% Health Regeneration",
+   "+10% Experience Gained"
+  ],
+  "icon": "/icons/vegetable-roll.png"
+ },
+ {
+  "title": "Volcanic Animal Feed",
+  "slug": "volcanic-animal-feed",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Volcanic Animal Feed.png",
+   "T_ITEM_Animal_Feed_Potato.png",
+   "ITEM_Food_Animal_Feed_Potato.png",
+   "T_ITEM_Food_Animal_Feed_Potato.png",
+   "CRE_Food_Animal_Feed_Potato.png",
+   "T_Bestiary_Food_Animal_Feed_Potato.png",
+   "ITEM_Volcanic_Animal_Feed.png",
+   "T_ITEM_Volcanic_Animal_Feed.png",
+   "CRE_Volcanic_Animal_Feed.png",
+   "T_Bestiary_Volcanic_Animal_Feed.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Animal_Feed_Potato",
+  "flavor": "Feeding time at the zoo.",
+  "description": "A feed that will help animals survive volcanic environments.",
+  "tags": [
+   "Item.AnimalFeed"
+  ],
+  "duration": "900 Seconds",
+  "decay": "10,800",
+  "stack": "10",
+  "weight": "0.5kg",
+  "bench": "Ranching Station",
+  "buffs": [
+   "+125 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+50 Fire Resistance",
+   "+50% Fire Resistance while in Lava"
+  ],
+  "icon": "/icons/volcanic-animal-feed.png"
+ },
+ {
+  "title": "Watermelon",
+  "slug": "watermelon",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Watermelon.png",
+   "T_ITEM_Watermelon.png",
+   "CRE_Watermelon.png",
+   "T_Bestiary_Watermelon.png"
+  ],
+  "intro": "File:Olympus Watermelon Map.jpg|Map of Watermelon Locations on Olympus File:Styx Watermelon Map.jpg|Map of Watermelon Locations on Styx File:Pro Watermelon.jpg|Map of Watermelon on Prometheus",
+  "itemable_name": "Watermelon",
+  "flavor": "Icarus produces approximately 0.003% of humanity's watermelons.",
+  "description": "Mainly water and sugar.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw",
+   "Item.Consumable.Food.Watermelon",
+   "Item.Plant"
+  ],
+  "duration": "600",
+  "decay": "800",
+  "stack": "20",
+  "weight": "0.5 kg",
+  "bench": "",
+  "buffs": [
+   "+50 Food when consumed",
+   "+60 Water when consumed",
+   "Consumes 1 Space in Stomach",
+   "+50 Maximum Stamina",
+   "-10% Water Consumption"
+  ],
+  "icon": "/icons/watermelon.png"
+ },
+ {
+  "title": "Wild Berry",
+  "slug": "wild-berry",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Wild Berry.png",
+   "ITEM_Berries.png",
+   "ITEM_Berry.png",
+   "T_ITEM_Berry.png",
+   "CRE_Berry.png",
+   "T_Bestiary_Berry.png",
+   "ITEM_Wild_Berry.png",
+   "T_ITEM_Wild_Berry.png",
+   "CRE_Wild_Berry.png",
+   "T_Bestiary_Wild_Berry.png"
+  ],
+  "intro": "They are also an ingredient in the mid/late-game Food, Berry Jam and Wine.",
+  "itemable_name": "Berry",
+  "flavor": "The intrepid prospector may also ferment wine, trusting that the quality of the resulting beverage is less important than the sheer fact of its existence.",
+  "description": "Berries will satisfy hunger, hydrate slightly, and extend endurance, but not for long.",
+  "tags": [
+   "Item.Consumable.Food.Berry",
+   "Item.Plant"
+  ],
+  "duration": "600 seconds",
+  "decay": "800s",
+  "stack": "100",
+  "weight": ".001kg",
+  "bench": "",
+  "buffs": [
+   "+4 food when consumed",
+   "+2 water when consumed",
+   "Consumes 1 Space in Stomach",
+   "+50 Maximum Stamina",
+   "-10% Water Consumption"
+  ],
+  "icon": "/icons/wild-berry.png"
+ },
+ {
+  "title": "Wild Salad",
+  "slug": "wild-salad",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Wild Salad.png",
+   "ITEM_FieldSalad.png",
+   "ITEM_Food_Wild_Salad.png",
+   "T_ITEM_Food_Wild_Salad.png",
+   "CRE_Food_Wild_Salad.png",
+   "T_Bestiary_Food_Wild_Salad.png",
+   "ITEM_Wild_Salad.png",
+   "T_ITEM_Wild_Salad.png",
+   "CRE_Wild_Salad.png",
+   "T_Bestiary_Wild_Salad.png"
+  ],
+  "intro": "}}",
+  "itemable_name": "Food_Wild_Salad",
+  "flavor": "At home among the stars, yet no closer to answering the age old question: 'What is a salad, exactly?'",
+  "description": "Mixed pieces of squash and pumpkin at room temperature.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Cooked.Fruit",
+   "Item.Consumable.Food.Cooked.Vege"
+  ],
+  "duration": "900 Seconds",
+  "decay": "",
+  "stack": "10",
+  "weight": "<.1kg",
+  "bench": "Cooking Station",
+  "buffs": [
+   "+100 Food when Consumed",
+   "Consumes 1 Space in Stomach",
+   "+150 Maximum Stamina",
+   "+10% Exposure Resistance",
+   "+10% Melee Damage"
+  ],
+  "icon": "/icons/wild-salad.png"
+ },
+ {
+  "title": "Young Coconut",
+  "slug": "young-coconut",
+  "category": "Food",
+  "infobox": "Consumables",
+  "images": [
+   "ITEM_Young Coconut.png",
+   "ITEM_Coconut_Young.png",
+   "ITEM_Coconut_young.png",
+   "T_ITEM_Coconut_young.png",
+   "CRE_Coconut_young.png",
+   "T_Bestiary_Coconut_young.png",
+   "ITEM_Young_Coconut.png",
+   "T_ITEM_Young_Coconut.png",
+   "CRE_Young_Coconut.png",
+   "T_Bestiary_Young_Coconut.png"
+  ],
+  "intro": "Harvested from palm trees in the Desert, when chopping their tops with an axe. If a prospector lets it decay, it will ripen into a Ripe Coconut.",
+  "itemable_name": "Coconut_young",
+  "flavor": "Like sharks, coconuts often fail to live up to their lethal reputation.",
+  "description": "Mostly water, young coconuts will quench thirst, but wont do much for hunger.",
+  "tags": [
+   "Item.Resource",
+   "Item.Consumable.Food.Raw"
+  ],
+  "duration": "600sec",
+  "decay": "300sec",
+  "stack": "1",
+  "weight": "0.2kg",
+  "bench": "",
+  "buffs": [
+   "+2 Food when Consumed",
+   "+10 Water when Consumed",
+   "Consumes One Space in Stomach",
+   "+25 Maximum Health",
+   "-10% Food Consumption"
+  ],
+  "icon": "/icons/young-coconut.png"
+ }
+]

@@ -1,0 +1,125 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import weapons from "../../data/icarus_weapons.json";
+
+export async function getStaticPaths() {
+  return weapons.map((w) => ({ params: { slug: w.slug }, props: { w } }));
+}
+const { w } = Astro.props;
+const wt = (w.weapon_type || w.stats?.category || "").replace(/[\[\]:]/g, "").trim();
+const tier = String(w.stats?.techlvl || w.stats?.tech || "").replace(/[\[\]:]/g, "").trim();
+const dmg = String(w.stats?.melee_dmg || w.stats?.melee_damage || w.stats?.rangeDMG || w.stats?.range_dmg || w.stats?.damage || "").trim();
+const dmgMax = (x: any): number => {
+  const m = String(x).match(/([\d.]+)\s*-\s*([\d.]+)/);
+  if (m) return parseFloat(m[2]);
+  const n = parseFloat(String(x).replace(/[^\d.]/g, ""));
+  return isNaN(n) ? 0 : n;
+};
+const sameClass = weapons
+  .filter((x) => x.slug !== w.slug && ((x.weapon_type || x.stats?.category || "").replace(/[\[\]:]/g, "").trim() === wt))
+  .sort((a, b) => dmgMax(b.stats?.melee_dmg || b.stats?.rangeDMG) - dmgMax(a.stats?.melee_dmg || a.stats?.rangeDMG))
+  .slice(0, 3);
+
+const statLabels: Record<string, string> = {
+  melee_dmg: "Melee damage", melee_damage: "Melee damage", rangeDMG: "Ranged damage", range_dmg: "Ranged damage",
+  damage: "Damage", dmg_var: "Damage variance", dmg_type: "Damage type", damage_type: "Damage type",
+  mining_rad: "Mining radius", miningeff: "Mining efficiency", yield: "Yield",
+  swing_rate: "Swing rate", fire_rate: "Fire rate", attack_speed: "Attack speed", rpm: "Rounds/min",
+  roundsperminute: "Rounds/min", reloadtime: "Reload time", reload_speed: "Reload time",
+  launchforce: "Launch force", hipaccuracyx: "Hip accuracy", hipaccuracyy: "Hip accuracy",
+  aimaccuracyx: "Aim accuracy", aimaccuracyy: "Aim accuracy", staminachargecost: "Stamina charge cost",
+  ammo_capacity: "Ammo capacity", crit_damage: "Crit damage", crit_hit: "Crit chance",
+  block: "Block", parry: "Parry", backstab: "Backstab", element: "Element",
+  attributes: "Effects", category: "Class", techlvl: "Tier", tech: "Tier", xp: "XP",
+  level: "Level", durability: "Durability", bench: "Bench", repair: "Repair",
+};
+const skip = new Set(["title1", "title", "image1", "caption1", "flavor_text", "description", "weight"]);
+const rows = Object.entries(w.stats || {}).filter(([k, v]) => v && !skip.has(k));
+---
+
+<Base
+  title={`${w.title} — Icarus Weapon Stats`}
+  description={`${w.title} stats: ${dmg || "see details"} damage${w.durability ? `, ${w.durability} durability` : ""} in ICARUS${wt ? ` (${wt})` : ""}.`}
+>
+  <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
+  <h1 class="icon-h1">
+    {w.icon && <img src={w.icon} alt="" width="52" height="52" loading="eager" />}
+    {w.title}
+  </h1>
+  <p>
+    {wt && <span class="tag">{wt}</span>}
+    {tier && <span class="tag">{tier}</span>}
+  </p>
+
+  {w.description && <p class="muted">{w.description}</p>}
+
+  <div class="card answer-card">
+    <div class="stat-row">
+      <div>
+        <div class="stat-num">{dmg ? dmg : "—"}</div>
+        <div class="stat-label">{w.stats?.melee_dmg || w.stats?.melee_damage ? "Melee damage" : "Damage"}</div>
+      </div>
+      <div>
+        <div class="stat-num">{w.durability ?? "—"}</div>
+        <div class="stat-label">Durability</div>
+      </div>
+      {w.bench && (
+        <div>
+          <div class="stat-num stat-sm">{w.bench.split(" ").slice(0, 2).join(" ")}</div>
+          <div class="stat-label">Crafted at</div>
+        </div>
+      )}
+      {w.weight && (
+        <div>
+          <div class="stat-num stat-sm">{w.weight}</div>
+          <div class="stat-label">Weight</div>
+        </div>
+      )}
+    </div>
+  </div>
+
+  {rows.length > 0 && (
+    <section>
+      <h2>Full stats</h2>
+      <table>
+        <tbody>
+          {rows.map(([k, v]) => (
+            <tr><th style="width:40%">{statLabels[k] || k.replace(/_/g, " ")}</th><td>{String(v)}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+  )}
+
+  {w.repair && (
+    <section>
+      <h2>Repair</h2>
+      <p>{w.repair}</p>
+    </section>
+  )}
+
+  {w.intro && (
+    <section>
+      <h2>Notes</h2>
+      <p>{w.intro}</p>
+    </section>
+  )}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/#weapons", title: "Weapon damage rankings", sub: "Where this weapon ranks", tool: true },
+      { href: "/rankings/", title: "All Icarus rankings", sub: "HP, damage & food leaderboards", tool: true },
+      ...(wt
+        ? sameClass.map((x) => ({
+            href: `/weapons/${x.slug}/`, title: x.title, sub: `${wt} · ${x.stats?.melee_dmg || x.stats?.rangeDMG || "?"} dmg`, icon: x.icon,
+          }))
+        : []),
+    ]}
+  />
+</Base>
+
+<style>
+  .stat-sm { font-size: 1.15rem; }
+</style>
