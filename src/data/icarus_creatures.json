@@ -1,33 +1,5 @@
 [
  {
-  "title": "Alpha Wolf",
-  "slug": "alpha-wolf",
-  "category": "Creatures",
-  "infobox": "Lifeform",
-  "images": [
-   "CRE_Alpha Wolf.png",
-   "ITEM_Alpha_Wolf.png",
-   "T_ITEM_Alpha_Wolf.png",
-   "CRE_Alpha_Wolf.png",
-   "T_Bestiary_Alpha_Wolf.png"
-  ],
-  "intro": "Wolves are one of the most common, and most easily underestimated, dangers on Icarus. Whenever you see one wolf, you should expect two more have already circled behind you. Alpha Wolves do not spawn naturally outside of certain Prospects/Operations, [https://icarus.fandom.com/wiki/CONT4CT_Device#SMPL3_Mission_Types SMPL3 missions], and horde events spawned by using a Vapor Condenser.",
-  "tameable": "",
-  "behavior": "Hostile",
-  "diet": "",
-  "map": "",
-  "atmosphere": "",
-  "biome": "Forest",
-  "levels": null,
-  "health": [],
-  "damage": [],
-  "speed_run": null,
-  "speed_sprint": null,
-  "resource": "100% Drop Chance 6-10 Bone 10-16 Leather 4-6 Fur 10-20 Raw Stringy Meat 8-15 Black Wolf Tooth",
-  "origin": "Transplanted",
-  "icon": "/icons/alpha-wolf.png"
- },
- {
   "title": "Antelope",
   "slug": "antelope",
   "category": "Creatures",
@@ -452,6 +424,34 @@
   "resource": "100% Drop Chance 2-4 Bone 10-16 Leather 1-3 Fur 2-2 Raw Meat 30% Drop Chance 3-5 Raw Stringy Meat",
   "origin": "Transplanted",
   "icon": "/icons/black-jaguar.png"
+ },
+ {
+  "title": "Black Wolf",
+  "slug": "black-wolf",
+  "category": "Creatures",
+  "infobox": "Lifeform",
+  "images": [
+   "CRE_Black Wolf.png",
+   "ITEM_Black_Wolf.png",
+   "T_ITEM_Black_Wolf.png",
+   "CRE_Black_Wolf.png",
+   "T_Bestiary_Black_Wolf.png"
+  ],
+  "intro": "Wolves are one of the most common, and most easily underestimated, dangers on Icarus. Whenever you see one wolf, you should expect two more have already circled behind you. Alpha Wolves do not spawn naturally outside of certain Prospects/Operations, [https://icarus.fandom.com/wiki/CONT4CT_Device#SMPL3_Mission_Types SMPL3 missions], and horde events spawned by using a Vapor Condenser.",
+  "tameable": "",
+  "behavior": "Hostile",
+  "diet": "",
+  "map": "",
+  "atmosphere": "",
+  "biome": "Forest",
+  "levels": null,
+  "health": [],
+  "damage": [],
+  "speed_run": null,
+  "speed_sprint": null,
+  "resource": "100% Drop Chance 6-10 Bone 10-16 Leather 4-6 Fur 10-20 Raw Stringy Meat 8-15 Black Wolf Tooth",
+  "origin": "Transplanted",
+  "icon": ""
  },
  {
   "title": "Blueback",
