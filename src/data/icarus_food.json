@@ -16,7 +16,7 @@
    "CRE_Arctic_Animal_Feed.png",
    "T_Bestiary_Arctic_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Arctic Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Arctic Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Arctic Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Pumpkin",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that promotes defence and survival.",
@@ -33,8 +33,7 @@
    "Consumes 1 Space in Stomach",
    "15% Movement Speed in Arctic",
    "-30% Food Consumption"
-  ],
-  "icon": "/icons/arctic-animal-feed.png"
+  ]
  },
  {
   "title": "Avocado",
@@ -47,7 +46,7 @@
    "CRE_Avocado.png",
    "T_Bestiary_Avocado.png"
   ],
-  "intro": "Avocado are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Avocado Farming Packet and grown by a prospector.",
+  "intro": "Avocado is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Avocado are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Avocado Farming Packet and grown by a prospector.",
   "itemable_name": "Avocado",
   "flavor": "These are commonly used in Mexican cuisine.",
   "description": "A fruit with creamy texture and nutty flavor, high in fats.",
@@ -66,8 +65,7 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/avocado.png"
+  ]
  },
  {
   "title": "Banana",
@@ -81,7 +79,7 @@
    "CRE_Banana.png",
    "T_Bestiary_Banana.png"
   ],
-  "intro": "",
+  "intro": "Bananas are obtained by planting seed from Banana Farming Packet which can only be obtained from the workshop.",
   "itemable_name": "Banana",
   "flavor": "Primates are fond of these.",
   "description": "A delicious looking yellow Banana",
@@ -100,8 +98,7 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "-10% Food consumption"
-  ],
-  "icon": "/icons/banana.png"
+  ]
  },
  {
   "title": "Banana Bread",
@@ -120,7 +117,7 @@
    "CRE_Banana_Bread.png",
    "T_Bestiary_Banana_Bread.png"
   ],
-  "intro": "Banana Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Banana Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Banana_Bread",
   "flavor": "Good things come to those who wait.",
   "description": "Banana bread which should only be consumed in the workplace.",
@@ -144,8 +141,7 @@
    "-50% Stamina Regeneration Delay",
    "-10% Food Consumption",
    "+10% Experience Gained"
-  ],
-  "icon": "/icons/banana-bread.png"
+  ]
  },
  {
   "title": "Barbeque Carrot",
@@ -164,7 +160,7 @@
    "CRE_Barbeque_Carrot.png",
    "T_Bestiary_Barbeque_Carrot.png"
   ],
-  "intro": "When consumed, it provides the \"Cooked Carrot\" Status Effect.",
+  "intro": "Barbeque Carrot is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Carrot",
   "flavor": "Boosts stamina slightly, may prompt angst.",
   "description": "New plant, new rules.",
@@ -182,8 +178,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Projectile Damage"
-  ],
-  "icon": "/icons/barbeque-carrot.png"
+  ]
  },
  {
   "title": "Basic Dried Meat",
@@ -202,7 +197,7 @@
    "CRE_Basic_Dried_Meat.png",
    "T_Bestiary_Basic_Dried_Meat.png"
   ],
-  "intro": "Can be crafted to Homestead Hanging Meat }}",
+  "intro": "Basic Dried Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Dried_Meat_Generic",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat.",
@@ -221,8 +216,7 @@
    "+75 Maximum Health",
    "+20% Health Regeneration",
    "-25% Food consumption"
-  ],
-  "icon": "/icons/basic-dried-meat.png"
+  ]
  },
  {
   "title": "Berry & Seed Bar",
@@ -240,7 +234,7 @@
    "CRE_Berry_&_Seed_Bar.png",
    "T_Bestiary_Berry_&_Seed_Bar.png"
   ],
-  "intro": "Full of energy for long hikes, long lasting effects and easily crafted. }}",
+  "intro": "Full of energy for long hikes, long lasting effects and easily crafted.",
   "itemable_name": "Food_Berry_Bar",
   "flavor": "Tastes much better than seed crackers.",
   "description": "Full of energy for long hikes",
@@ -259,8 +253,7 @@
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Tool Actions",
    "+15% Water Effects Duration"
-  ],
-  "icon": "/icons/berry-seed-bar.png"
+  ]
  },
  {
   "title": "Berry Jam",
@@ -279,7 +272,7 @@
    "CRE_Berry_Jam.png",
    "T_Bestiary_Berry_Jam.png"
   ],
-  "intro": "}}",
+  "intro": "Berry Jam is a long-lasting Food with a unique Status Effect, which can be stacked with other food buffs. Berry Jam, Strawberry Jam and Pickled Carrot, does not spoil and is therefore a valuable food for long-term storage.",
   "itemable_name": "Glass_Jar_Jam",
   "flavor": "It's not just jam. You hold in your hand an irreducible symbol of humanity's commitment to settling an alien world. Strongly increases max stamina.",
   "description": "Slightly bitter, but unsurpassed.",
@@ -299,8 +292,7 @@
    "+125 Maximum Stamina",
    "-20 Water Consumption",
    "+10% Shared Experience"
-  ],
-  "icon": "/icons/berry-jam.png"
+  ]
  },
  {
   "title": "Berry Smoked Saltwater Fillet",
@@ -318,7 +310,7 @@
    "CRE_Berry_Smoked_Saltwater_Fillet.png",
    "T_Bestiary_Berry_Smoked_Saltwater_Fillet.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Berry Smoked Saltwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Smoked_Saltwater_Fillet",
   "flavor": "Fishy but with a hint of sweet taste.",
   "description": "A tender snack made by smoking and preserving tender fillets of freshwater fish.",
@@ -340,8 +332,7 @@
    "+5% Exposure Resistance",
    "-25% Water Consumption",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/berry-smoked-saltwater-fillet.png"
+  ]
  },
  {
   "title": "Big Breakfast",
@@ -354,7 +345,7 @@
    "CRE_Big_Breakfast.png",
    "T_Bestiary_Big_Breakfast.png"
   ],
-  "intro": "}}",
+  "intro": "Big Breakfast is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Big_Breakfast",
   "flavor": "You can never go wrong with a big breakfast...",
   "description": "Fried meat, eggs, tomatoes and potatoes!",
@@ -367,8 +358,7 @@
   "stack": "10",
   "weight": "500",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/big-breakfast.png"
+  "buffs": []
  },
  {
   "title": "Bread",
@@ -385,7 +375,7 @@
    "CRE_Bread.png",
    "T_Bestiary_Bread.png"
   ],
-  "intro": "}}",
+  "intro": "Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Bread",
   "flavor": "",
   "description": "Wholesome, filling and slow to spoil.",
@@ -402,8 +392,7 @@
    "+80 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "Provides the 'Bread' modifier * +125 Maximum Stamina * +10% Experience"
-  ],
-  "icon": "/icons/bread.png"
+  ]
  },
  {
   "title": "Broiled Kumara",
@@ -422,7 +411,7 @@
    "CRE_Broiled_Kumara.png",
    "T_Bestiary_Broiled_Kumara.png"
   ],
-  "intro": "When consumed, it provides the \"Broiled Kumara\" Status Effect. }}",
+  "intro": "Broiled Kumara is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Kumara",
   "flavor": "Tastier than a staple food but just as easy.",
   "description": "This meal has a caramelized exterior and soft and fluffy interior.",
@@ -440,8 +429,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Melee Attack Speed"
-  ],
-  "icon": "/icons/broiled-kumara.png"
+  ]
  },
  {
   "title": "Carrot",
@@ -454,7 +442,7 @@
    "CRE_Carrot.png",
    "T_Bestiary_Carrot.png"
   ],
-  "intro": "File:Olympus Carrot Map.jpg|Map of Carrot on Olympus File:Styx Carrot Map.jpg|Map of Carrot on Styx File:Pro Carrot.jpg|Map of carrot on Prometheus",
+  "intro": "Carrots are harvested by hand.",
   "itemable_name": "Carrot",
   "flavor": "May improve accuracy.",
   "description": "A carrot, like many before it.",
@@ -472,8 +460,7 @@
    "+20 food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/carrot.png"
+  ]
  },
  {
   "title": "Charred Corn",
@@ -492,7 +479,7 @@
    "CRE_Charred_Corn.png",
    "T_Bestiary_Charred_Corn.png"
   ],
-  "intro": "When consumed, it provides the \"Cooked Corn\" Status Effect. }}",
+  "intro": "Charred Corn is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Corn",
   "flavor": "A source of fuel for humans, animals and machines alike.",
   "description": "Grilled to perfection, depending on your standards.",
@@ -510,8 +497,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Actions"
-  ],
-  "icon": "/icons/charred-corn.png"
+  ]
  },
  {
   "title": "Cocoa Smoked Soft Meat",
@@ -529,7 +515,7 @@
    "CRE_Cocoa_Smoked_Soft_Meat.png",
    "T_Bestiary_Cocoa_Smoked_Soft_Meat.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Cocoa Smoked Soft Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Smoked_Soft_Meat",
   "flavor": "For when you want something sweet but it's dinner time.",
   "description": "A piece of sweet smokey meat.",
@@ -549,8 +535,7 @@
    "+25% Stamina Regeneration",
    "-40% Food Consumption",
    "+20% Health Regeneration"
-  ],
-  "icon": "/icons/cocoa-smoked-soft-meat.png"
+  ]
  },
  {
   "title": "Coffee Smoked Fatty T-bone",
@@ -569,7 +554,7 @@
    "CRE_Coffee_Smoked_Fatty_T-bone.png",
    "T_Bestiary_Coffee_Smoked_Fatty_T-bone.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Coffee Smoked Fatty T-bone is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Smoked_Fatty_Tbone",
   "flavor": "Guaranteed to perk up any prospector.",
   "description": "A large, fatty piece of smoked meat, with a punch of energy.",
@@ -589,8 +574,7 @@
    "+50% Yield from Butchering Animals",
    "-25% Food Consumption",
    "+20% Health Regeneration"
-  ],
-  "icon": "/icons/coffee-smoked-fatty-t-bone.png"
+  ]
  },
  {
   "title": "Cooked Bacon",
@@ -604,7 +588,7 @@
    "CRE_Cooked_Bacon.png",
    "T_Bestiary_Cooked_Bacon.png"
   ],
-  "intro": "}}",
+  "intro": "Cooked Bacon is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Bacon",
   "flavor": "Still tastes a little strange",
   "description": "A delicately thin slice of meat",
@@ -623,8 +607,7 @@
    "+15 Experience Gained",
    "+75 Maximum Health",
    "+75 Maximum Stamina"
-  ],
-  "icon": "/icons/cooked-bacon.png"
+  ]
  },
  {
   "title": "Cooked Fatty T-Bone",
@@ -643,7 +626,7 @@
    "CRE_Cooked_Fatty_T-Bone.png",
    "T_Bestiary_Cooked_Fatty_T-Bone.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked Fatty T-Bone is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fatty_Tbone_Cooked",
   "flavor": "Gourmet food, Icarus style",
   "description": "A fiercely won, delicious steak dinner",
@@ -663,8 +646,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-fatty-t-bone.png"
+  ]
  },
  {
   "title": "Cooked Gamey Meat",
@@ -683,7 +665,7 @@
    "CRE_Cooked_Gamey_Meat.png",
    "T_Bestiary_Cooked_Gamey_Meat.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked Gamey Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Gamey_Meat_Cooked",
   "flavor": "Pungent but still edible",
   "description": "A reasonably well cooked piece of meat",
@@ -703,8 +685,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-gamey-meat.png"
+  ]
  },
  {
   "title": "Cooked Giant Steak",
@@ -723,7 +704,7 @@
    "CRE_Cooked_Giant_Steak.png",
    "T_Bestiary_Cooked_Giant_Steak.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked Giant Steak is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Giant_Steak_Cooked",
   "flavor": "A hard won prize",
   "description": "A prime cut from the larger beasts",
@@ -743,8 +724,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-giant-steak.png"
+  ]
  },
  {
   "title": "Cooked Meat",
@@ -758,7 +738,7 @@
    "CRE_Cooked_Meat.png",
    "T_Bestiary_Cooked_Meat.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"\" Status Effect. }}",
+  "intro": "Cooked Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Meat",
   "flavor": "Cooked meat is easier to digest and provides more nutrition than raw flesh.",
   "description": "Can be eaten to satisfy hunger.",
@@ -776,8 +756,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "20% Health Regeneration"
-  ],
-  "icon": "/icons/cooked-meat.png"
+  ]
  },
  {
   "title": "Cooked Soft Meat",
@@ -796,7 +775,7 @@
    "CRE_Cooked_Soft_Meat.png",
    "T_Bestiary_Cooked_Soft_Meat.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked Soft Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Soft_Meat_Cooked",
   "flavor": "Seasoned with tears",
   "description": "A wonderfully soft piece of meat",
@@ -816,8 +795,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-soft-meat.png"
+  ]
  },
  {
   "title": "Cooked Stringy Meat",
@@ -836,7 +814,7 @@
    "CRE_Cooked_Stringy_Meat.png",
    "T_Bestiary_Cooked_Stringy_Meat.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked Stringy Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Stringy_Meat_Cooked",
   "flavor": "Get your revenge on those pesky wolves",
   "description": "A tough, sinewy steak",
@@ -856,8 +834,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-stringy-meat.png"
+  ]
  },
  {
   "title": "Cooked White Meat",
@@ -876,7 +853,7 @@
    "CRE_Cooked_White_Meat.png",
    "T_Bestiary_Cooked_White_Meat.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Cooked Prime Meat\" Status Effect. }}",
+  "intro": "Cooked White Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "White_Meat_Cooked",
   "flavor": "Tastes like chicken",
   "description": "A slightly overcooked piece of meat",
@@ -896,8 +873,7 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ],
-  "icon": "/icons/cooked-white-meat.png"
+  ]
  },
  {
   "title": "Corn",
@@ -910,7 +886,7 @@
    "CRE_Corn.png",
    "T_Bestiary_Corn.png"
   ],
-  "intro": "File:Oly Corn.jpg|Map of Corn on Olympus File:Styx Corn.jpg|Map of Corn on Styx File:Pro Corn.jpg|Map of Corn on Prometheus",
+  "intro": "Corn are a common form of Plantlife found in the Forest and Riverlands Regions on Icarus. When consumed by prospectors, they replenish Hunger.",
   "itemable_name": "Corn",
   "flavor": "Cook or cultivate this ancient cereal, humanity's most widely produced grain.",
   "description": "A staple on several planets.",
@@ -925,8 +901,7 @@
   "bench": "",
   "buffs": [
    "+20 food when consumed"
-  ],
-  "icon": "/icons/corn.png"
+  ]
  },
  {
   "title": "Creamed Corn",
@@ -945,7 +920,7 @@
    "CRE_Creamed_Corn.png",
    "T_Bestiary_Creamed_Corn.png"
   ],
-  "intro": "Fruit Salad is a Food with the \"\" Status Effect, which can be stacked with other food buffs. decays, but that decay can be slowed down by storing it inside an Ice Box or Refrigerator. }}",
+  "intro": "Fruit Salad is a Food with the \"Creamed Corn\" Status Effect, which can be stacked with other food buffs. Creamed Corn decays, but that decay can be slowed down by storing it inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Creamed_Corn",
   "flavor": "Slow release energy with a baby-food consistency, boosting health and stamina.",
   "description": "Pureed corn, animal fat and water, easy to digest.",
@@ -964,8 +939,7 @@
    "+75 Maximum Stamina",
    "+150 Maximum Health",
    "-10% Stamina Consumed by Actions"
-  ],
-  "icon": "/icons/creamed-corn.png"
+  ]
  },
  {
   "title": "Crispy Bacon",
@@ -979,7 +953,7 @@
    "CRE_Crispy_Bacon.png",
    "T_Bestiary_Crispy_Bacon.png"
   ],
-  "intro": "}} }}",
+  "intro": "Crispy Bacon is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Crispy_Bacon",
   "flavor": "Tastes like home",
   "description": "A deliciously fried rasher",
@@ -999,8 +973,7 @@
    "+90 Maximum Health",
    "+90 Maximum Stamina",
    "+10% Critical Damage"
-  ],
-  "icon": "/icons/crispy-bacon.png"
+  ]
  },
  {
   "title": "Crispy Potato",
@@ -1019,7 +992,7 @@
    "CRE_Crispy_Potato.png",
    "T_Bestiary_Crispy_Potato.png"
   ],
-  "intro": "Crispy Potato is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Crispy Potato is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Potato",
   "flavor": "So crunchy.",
   "description": "Improves stamina and keeps you fuller for longer.",
@@ -1038,8 +1011,7 @@
    "+75 Maximum Stamina",
    "-10% Food Consumption",
    "10% Melee Attack Speed"
-  ],
-  "icon": "/icons/crispy-potato.png"
+  ]
  },
  {
   "title": "Crumbed Saltwater Fillet",
@@ -1054,7 +1026,7 @@
    "CRE_Crumbed_Saltwater_Fillet.png",
    "T_Bestiary_Crumbed_Saltwater_Fillet.png"
   ],
-  "intro": "}}",
+  "intro": "Crumbed Saltwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Crumbed_Saltwater_Fillet",
   "flavor": "Crispy on the outside, fishy on the inside.",
   "description": "A crispy and savory dish made by coating tender fillets of fish in breadcrumbs and frying until golden brown.",
@@ -1072,8 +1044,7 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Cumbed Fish modifier",
    "* +150 Maximum Health * +75 Maximum Stamina * +15% Stamina Regeneration * +10% Experience Gained"
-  ],
-  "icon": "/icons/crumbed-saltwater-fillet.png"
+  ]
  },
  {
   "title": "Desert Animal Feed",
@@ -1092,7 +1063,7 @@
    "CRE_Desert_Animal_Feed.png",
    "T_Bestiary_Desert_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Desert Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Desert Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Desert Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Squash",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that will help animals survive desert envionments.",
@@ -1109,8 +1080,7 @@
    "Consumes 1 Space in Stomach",
    "+15% Movement Speed in the Desert",
    "-30% Water Consumption"
-  ],
-  "icon": "/icons/desert-animal-feed.png"
+  ]
  },
  {
   "title": "Dried Fatty T-Bone",
@@ -1129,7 +1099,7 @@
    "CRE_Dried_Fatty_T-Bone.png",
    "T_Bestiary_Dried_Fatty_T-Bone.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Dried Fatty T-Bone is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fatty_Tbone_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A large, fatty piece of dried meat",
@@ -1148,8 +1118,7 @@
    "+75 Maximum Health",
    "+25% Yield from Butchering Meat",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-fatty-t-bone.png"
+  ]
  },
  {
   "title": "Dried Game Meat",
@@ -1168,7 +1137,7 @@
    "CRE_Dried_Game_Meat.png",
    "T_Bestiary_Dried_Game_Meat.png"
   ],
-  "intro": "Eating will replenish Health.",
+  "intro": "Dried Game Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Gamey_Meat_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat",
@@ -1187,8 +1156,7 @@
    "+75 Maximum Health",
    "+15% Melee Damage",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-game-meat.png"
+  ]
  },
  {
   "title": "Dried Giant Steak",
@@ -1207,7 +1175,7 @@
    "CRE_Dried_Giant_Steak.png",
    "T_Bestiary_Dried_Giant_Steak.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Dried Giant Steak is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Giant_Steak_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A large dried piece of meat",
@@ -1226,8 +1194,7 @@
    "+100 Maximum Health",
    "+25% Health Regeneration",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-giant-steak.png"
+  ]
  },
  {
   "title": "Dried Saltwater Fillet",
@@ -1242,7 +1209,7 @@
    "CRE_Dried_Saltwater_Fillet.png",
    "T_Bestiary_Dried_Saltwater_Fillet.png"
   ],
-  "intro": "}}",
+  "intro": "Dried Saltwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Dried_Saltwater_Fillet",
   "flavor": "Can be dried using a Drying Rack. Rather chewy.",
   "description": "A flavorful snack made by drying and preserving tender fillets of saltwater fish.",
@@ -1263,8 +1230,7 @@
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-saltwater-fillet.png"
+  ]
  },
  {
   "title": "Dried Soft Meat",
@@ -1283,7 +1249,7 @@
    "CRE_Dried_Soft_Meat.png",
    "T_Bestiary_Dried_Soft_Meat.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Dried Soft Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Soft_Meat_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat",
@@ -1302,8 +1268,7 @@
    "+100 Maximum Stamina",
    "+15% Stamina Regeneration",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-soft-meat.png"
+  ]
  },
  {
   "title": "Dried Stringy Meat",
@@ -1322,7 +1287,7 @@
    "CRE_Dried_Stringy_Meat.png",
    "T_Bestiary_Dried_Stringy_Meat.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Dried Stringy Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Stringy_Meat_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat",
@@ -1341,8 +1306,7 @@
    "+75 Maximum Stamina",
    "+15% Melee Attack Speed",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-stringy-meat.png"
+  ]
  },
  {
   "title": "Dried White Meat",
@@ -1361,7 +1325,7 @@
    "CRE_Dried_White_Meat.png",
    "T_Bestiary_Dried_White_Meat.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Dried White Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "White_Meat_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat",
@@ -1380,8 +1344,7 @@
    "+75 Maximum Stamina",
    "+10% Exposure Resistance",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-white-meat.png"
+  ]
  },
  {
   "title": "Endurance Animal Feed",
@@ -1400,7 +1363,7 @@
    "CRE_Endurance_Animal_Feed.png",
    "T_Bestiary_Endurance_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Endurance Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Endurance Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Endurance Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Corn",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that promotes long distance travel.",
@@ -1417,8 +1380,7 @@
    "Consumes 1 Space in Stomach",
    "-75% Stamina Consumed",
    "-25% Sprint Speed"
-  ],
-  "icon": "/icons/endurance-animal-feed.png"
+  ]
  },
  {
   "title": "Fish Chunk Stew",
@@ -1432,7 +1394,7 @@
    "CRE_Fish_Chunk_Stew.png",
    "T_Bestiary_Fish_Chunk_Stew.png"
   ],
-  "intro": "}}",
+  "intro": "Fish Chunk Stew is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fish_Chunk_Stew",
   "flavor": "Chop 'em up, cook 'em up, eat 'em up.",
   "description": "A hearty and flavorful soup made with tender chunks of fish and vegetables in a rich and savory broth.",
@@ -1455,8 +1417,7 @@
    "+10% Stamina Regeneration",
    "-10% Stamina Consumed",
    "+5% Melee Damage"
-  ],
-  "icon": "/icons/fish-chunk-stew.png"
+  ]
  },
  {
   "title": "Fish Chunks",
@@ -1485,8 +1446,7 @@
   "bench": "",
   "buffs": [
    "+15 Food when Consumed"
-  ],
-  "icon": "/icons/fish-chunks.png"
+  ]
  },
  {
   "title": "Fish Pie",
@@ -1504,7 +1464,7 @@
    "CRE_Fish_Pie.png",
    "T_Bestiary_Fish_Pie.png"
   ],
-  "intro": "Fish Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Fish Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fish_Fillet_Pie",
   "flavor": "Stuffed to the brim with fish.",
   "description": "A comforting and hearty dish made with a creamy filling of mixed fish and vegetables.",
@@ -1526,8 +1486,7 @@
    "+30% Stamina Regeneration",
    "5% Exposure Resistance",
    "+10% Experience Gained"
-  ],
-  "icon": "/icons/fish-pie.png"
+  ]
  },
  {
   "title": "Flatbread",
@@ -1544,7 +1503,7 @@
    "CRE_Flatbread.png",
    "T_Bestiary_Flatbread.png"
   ],
-  "intro": "In-game flavor text: Simple to bake and easy to store.",
+  "intro": "Flatbread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. In-game flavor text: Simple to bake and easy to store.",
   "itemable_name": "Food_Flatbread",
   "flavor": "Simple to bake and easy to store, boosts health and stamina regen.",
   "description": "Longlasting and healthful.",
@@ -1563,8 +1522,7 @@
    "+100% Stamina Regeneration",
    "+10% Water Consumption",
    "+5% Experienced Gained"
-  ],
-  "icon": "/icons/flatbread.png"
+  ]
  },
  {
   "title": "Flour",
@@ -1590,8 +1548,7 @@
   "stack": "100 Max",
   "weight": "25g",
   "bench": "Mortar and Pestle",
-  "buffs": [],
-  "icon": "/icons/flour.png"
+  "buffs": []
  },
  {
   "title": "Freshwater Fillet Curry",
@@ -1606,7 +1563,7 @@
    "CRE_Freshwater_Fillet_Curry.png",
    "T_Bestiary_Freshwater_Fillet_Curry.png"
   ],
-  "intro": "}}",
+  "intro": "Freshwater Fillet Curry is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Freshwater_Fillet_Curry",
   "flavor": "Spend the time on the sauce and reap the rewards.",
   "description": "A spicy and aromatic dish made with tender pieces of fish cooked in a rich and creamy sauce with a blend of herbs and spices.",
@@ -1626,8 +1583,7 @@
    "+150 Maximum Stamina",
    "+10% Experience Gained",
    "-10% Water Consumption"
-  ],
-  "icon": "/icons/freshwater-fillet-curry.png"
+  ]
  },
  {
   "title": "Freshwater Fish Fillet",
@@ -1641,7 +1597,7 @@
    "CRE_Freshwater_Fish_Fillet.png",
    "T_Bestiary_Freshwater_Fish_Fillet.png"
   ],
-  "intro": "}}",
+  "intro": "Freshwater Fish Fillet is is the result of filleting a Freshwater Fish at a Fishing Bench. While eating Freshwater Fish Fillet will replenish a small amount of Hunger, there is a possibility of negative Status Effects when doing so. It is better to Cook before eating. Freshwater Fish Fillets can be used in various Cooking Benches to produce an assortment of foods. Freshwater Fish Fillets decays at a moderate rate, and this decay can be slowed by down by applying salt at a Salting Station, storing Freshwater Fish Fillet inside a Ice Box or Refrigerator, or stopped completely when stored in a De",
   "itemable_name": "Freshwater_Fish_Fillet",
   "flavor": "Nicely done.",
   "description": "A neatly trimmed fillet ready for cooking.",
@@ -1656,8 +1612,7 @@
   "bench": "Fishing Bench",
   "buffs": [
    "+15 Food when Consumed"
-  ],
-  "icon": "/icons/freshwater-fish-fillet.png"
+  ]
  },
  {
   "title": "Fried Chunky Vegetables",
@@ -1672,7 +1627,7 @@
    "CRE_Fried_Chunky_Vegetables.png",
    "T_Bestiary_Fried_Chunky_Vegetables.png"
   ],
-  "intro": "Fried Chunky Vegetables is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Fried Chunky Vegetables is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fried_Chunky_Vegetables",
   "flavor": "Another great meal from your Potbelly Stove.",
   "description": "These veges are deep-fried until crispy and golden.",
@@ -1692,8 +1647,7 @@
    "+150 Maximum Stamina",
    "+10% Exposure Resistance",
    "10% Melee Attack Speed"
-  ],
-  "icon": "/icons/fried-chunky-vegetables.png"
+  ]
  },
  {
   "title": "Fried Eggs",
@@ -1712,7 +1666,7 @@
    "CRE_Fried_Eggs.png",
    "T_Bestiary_Fried_Eggs.png"
   ],
-  "intro": "}}",
+  "intro": "Fried Eggs is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Eggs",
   "flavor": "Locally grown.",
   "description": "A fresh egg, fried just right",
@@ -1730,8 +1684,7 @@
    "Provides the 'Fried Egg' modifier",
    "+75 Maximum Health",
    "10% Chance to find additional Stone while MIning"
-  ],
-  "icon": "/icons/fried-eggs.png"
+  ]
  },
  {
   "title": "Fried Fish Chunks",
@@ -1745,7 +1698,7 @@
    "CRE_Fried_Fish_Chunks.png",
    "T_Bestiary_Fried_Fish_Chunks.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Fried Fish Chunks\" Status Effect. }}",
+  "intro": "Fried Fish Chunks is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fried_Fish_Chunks",
   "flavor": "Not as fancy as a fillet, but just as filling.",
   "description": "An easy snack for the hungry prospector who's short on time.",
@@ -1764,8 +1717,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+10% Stamina Regeneration"
-  ],
-  "icon": "/icons/fried-fish-chunks.png"
+  ]
  },
  {
   "title": "Fruit Muffin",
@@ -1780,7 +1732,7 @@
    "CRE_Fruit_Muffin.png",
    "T_Bestiary_Fruit_Muffin.png"
   ],
-  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Fruit_Muffin",
   "flavor": "A delicious meal made on your Biofuel Stove.",
   "description": "The perfect breakfast snack.",
@@ -1800,8 +1752,7 @@
    "+225 Maximum Stamina",
    "-20% Water Consumption",
    "+35% Experience Gained"
-  ],
-  "icon": "/icons/fruit-muffin.png"
+  ]
  },
  {
   "title": "Fruit Pie",
@@ -1820,7 +1771,7 @@
    "CRE_Fruit_Pie.png",
    "T_Bestiary_Fruit_Pie.png"
   ],
-  "intro": "}}",
+  "intro": "Fruit Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Fruit_Pie",
   "flavor": "Watermelons invite experimental cookery.",
   "description": "Watermelon plus berries and pastry creates a passable, stamina boosting pie.",
@@ -1838,8 +1789,7 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Fruit Pie' modifier",
    "* +75 Maximum Health * +150 Maximum Stamina * -15% Oxygen Consumption * -15% Water Consumption * +10% Experience Gained"
-  ],
-  "icon": "/icons/fruit-pie.png"
+  ]
  },
  {
   "title": "Fruit Salad",
@@ -1858,7 +1808,7 @@
    "CRE_Fruit_Salad.png",
    "T_Bestiary_Fruit_Salad.png"
   ],
-  "intro": "}}",
+  "intro": "Fruit Salad is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Fruit Salad decays, but that decay can be slowed down by storing Fruit Salad inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Fruit_Salad",
   "flavor": "A divisive dessert, loved or hated, and very little in between.",
   "description": "An all-natural, surprisingly delicious melon-berry mix, boosts stamina and health.",
@@ -1878,8 +1828,7 @@
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption",
    "-10% Water Consumption"
-  ],
-  "icon": "/icons/fruit-salad.png"
+  ]
  },
  {
   "title": "Grilled Freshwater Fillet",
@@ -1897,7 +1846,7 @@
    "CRE_Grilled_Freshwater_Fillet.png",
    "T_Bestiary_Grilled_Freshwater_Fillet.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Grilled Freshwater Fillet\" Status Effect. }}",
+  "intro": "Grilled Freshwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Grilled_Freshwater_Fish",
   "flavor": "Tasty for very little preparation.",
   "description": "Recently filleted fish grilled over an open fire.",
@@ -1916,8 +1865,7 @@
    "+75 Maximum Health",
    "+15% Stamina Regeneration",
    "+5% Health Regeneration"
-  ],
-  "icon": "/icons/grilled-freshwater-fillet.png"
+  ]
  },
  {
   "title": "Grilled Pumpkin",
@@ -1936,7 +1884,7 @@
    "CRE_Grilled_Pumpkin.png",
    "T_Bestiary_Grilled_Pumpkin.png"
   ],
-  "intro": "When consumed, it provides the \"Cooked Pumpkin\" Status Effect. }}",
+  "intro": "Grilled Pumpkin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Pumpkin",
   "flavor": "The pumpkins natural beta-carotene improves endurance.",
   "description": "Lightly charred, fairly delicious.",
@@ -1954,8 +1902,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Exposure Resistance"
-  ],
-  "icon": "/icons/grilled-pumpkin.png"
+  ]
  },
  {
   "title": "Grilled Saltwater Fillet",
@@ -1973,7 +1920,7 @@
    "CRE_Grilled_Saltwater_Fillet.png",
    "T_Bestiary_Grilled_Saltwater_Fillet.png"
   ],
-  "intro": "Eating will replenish Health. When consumed, it provides the \"Grilled Saltwater Fillet\" Status Effect. }}",
+  "intro": "Grilled Saltwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Grilled_Saltwater_Fish",
   "flavor": "Tasty for very little preparation.",
   "description": "Recently filleted fish grilled over an open fire.",
@@ -1992,8 +1939,7 @@
    "+75 Maximum Health",
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance"
-  ],
-  "icon": "/icons/grilled-saltwater-fillet.png"
+  ]
  },
  {
   "title": "Honey",
@@ -2006,7 +1952,7 @@
    "CRE_Honey.png",
    "T_Bestiary_Honey.png"
   ],
-  "intro": "Honey is used to produce Honey Smoked Bacon, Honey Mead, Sugar and Jarred Honey. }}",
+  "intro": "Honey produced from Honeycomb with the Mortar and Pestle or the Beehive Extractor. The Mortar and Pestle produces 1x Honey per 2x Honeycomb and the Beehive Extractor produces 1x Honey for 1x Honeycomb.",
   "itemable_name": "Honey",
   "flavor": "The Bees of Icarus are known for their long, needle-like stingers which are capable of piercing even the toughest of envirosuits. Proceed with caution.",
   "description": "Freshly processed Honey, ready to eat or add to your food",
@@ -2022,8 +1968,7 @@
   "bench": "Mortar and Pestle Beehive Extractor",
   "buffs": [
    "+20 when consumed"
-  ],
-  "icon": "/icons/honey.png"
+  ]
  },
  {
   "title": "Honey Glazed Pastry",
@@ -2041,7 +1986,7 @@
    "CRE_Honey_Glazed_Pastry.png",
    "T_Bestiary_Honey_Glazed_Pastry.png"
   ],
-  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Honey_Pastry",
   "flavor": "Just like 'ma used to make.",
   "description": "A baked good generously drizzled with honey.",
@@ -2059,8 +2004,7 @@
    "+150 Maximum Stamina",
    "+35% Food Effects Duration",
    "+15% Experience Gained"
-  ],
-  "icon": "/icons/honey-glazed-pastry.png"
+  ]
  },
  {
   "title": "Honey Smoked Bacon",
@@ -2101,8 +2045,7 @@
    "-25% Food Consumption",
    "+15% Experience Gained",
    "+25% Food Effects Generation"
-  ],
-  "icon": "/icons/honey-smoked-bacon.png"
+  ]
  },
  {
   "title": "Honeycomb Bar",
@@ -2120,7 +2063,7 @@
    "CRE_Honeycomb_Bar.png",
    "T_Bestiary_Honeycomb_Bar.png"
   ],
-  "intro": "A sweet and tasty snack for your travels, long lasting effects and easily crafted. }}",
+  "intro": "A sweet and tasty snack for your travels, long lasting effects and easily crafted.",
   "itemable_name": "Food_Honey_Bar",
   "flavor": "Just like 'ma used to make.",
   "description": "A sweet and tasty snack for your travels",
@@ -2139,8 +2082,7 @@
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Tool Actions",
    "+15% Food Effects Duration"
-  ],
-  "icon": "/icons/honeycomb-bar.png"
+  ]
  },
  {
   "title": "Jarred Honey",
@@ -2159,7 +2101,7 @@
    "CRE_Jarred_Honey.png",
    "T_Bestiary_Jarred_Honey.png"
   ],
-  "intro": "}}",
+  "intro": "Jarred Honey is a long-lasting Food with a unique Status Effect, which can be stacked with other food buffs.",
   "itemable_name": "Glass_Jar_Honey",
   "flavor": "Just like 'ma used to make.",
   "description": "A handy way to store your honey",
@@ -2177,8 +2119,7 @@
    "+125% Maximum Stamina",
    "+20% Food Effects Duration",
    "+20% Shared Experience Gained"
-  ],
-  "icon": "/icons/jarred-honey.png"
+  ]
  },
  {
   "title": "Kumara",
@@ -2191,7 +2132,7 @@
    "CRE_Kumara.png",
    "T_Bestiary_Kumara.png"
   ],
-  "intro": "Kumara are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Kumara Farming Packet and grown by a prospector.",
+  "intro": "Kumara is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Kumara are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Kumara Farming Packet and grown by a prospector.",
   "itemable_name": "Kumara",
   "flavor": "Often found in Pacific island and Maori cuisine.",
   "description": ".",
@@ -2210,8 +2151,7 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/kumara.png"
+  ]
  },
  {
   "title": "Mature Coconut",
@@ -2248,8 +2188,7 @@
    "+2 Water when Consumed",
    "+50 Maximum Health",
    "-10% Food Consumption"
-  ],
-  "icon": "/icons/mature-coconut.png"
+  ]
  },
  {
   "title": "Meat Pie",
@@ -2268,7 +2207,7 @@
    "CRE_Meat_Pie.png",
    "T_Bestiary_Meat_Pie.png"
   ],
-  "intro": "}}",
+  "intro": "Meat Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Meat_Pie",
   "flavor": "\"Stress cannot exist in the presence of a pie.\" - David Mamet",
   "description": "A rustic pie that delivers a big health boost.",
@@ -2287,8 +2226,7 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Meat Pie' modifier",
    "* +225 Maximum Health * +15% Exposure Resistance * +15% Stamina Regeneration * +15% Health Regeneration * +10% Experience Gained"
-  ],
-  "icon": "/icons/meat-pie.png"
+  ]
  },
  {
   "title": "Mixed Berries",
@@ -2303,7 +2241,7 @@
    "CRE_Mixed_Berries.png",
    "T_Bestiary_Mixed_Berries.png"
   ],
-  "intro": "}}",
+  "intro": "Mixed Berries is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Mixed Berries decays, but that decay can be slowed down by storing Mixed Berries inside an Ice Box or Refrigerator.",
   "itemable_name": "Mixed_Berries",
   "flavor": "Another great meal from your Cooking Station.",
   "description": "A tasty combination of berries to keep you going.",
@@ -2323,8 +2261,7 @@
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption",
    "-10% Water Consumption"
-  ],
-  "icon": "/icons/mixed-berries.png"
+  ]
  },
  {
   "title": "Mountaineering Animal Feed",
@@ -2343,7 +2280,7 @@
    "CRE_Mountaineering_Animal_Feed.png",
    "T_Bestiary_Mountaineering_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Mountaineering Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Mountaineering Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Mountaineering Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Mushroom",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that promotes rough terain and rocky traversal.",
@@ -2360,8 +2297,7 @@
    "Consumes 1 Space in Stomach",
    "+50% Falling Resistance",
    "-50% Stamina Consumed while Jumping"
-  ],
-  "icon": "/icons/mountaineering-animal-feed.png"
+  ]
  },
  {
   "title": "Mushroom",
@@ -2392,8 +2328,7 @@
    "+20 Food when Consumed",
    "Consumes 1 space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/mushroom.png"
+  ]
  },
  {
   "title": "Mushroom Omlette",
@@ -2407,7 +2342,7 @@
    "CRE_Mushroom_Omlette.png",
    "T_Bestiary_Mushroom_Omlette.png"
   ],
-  "intro": "}}",
+  "intro": "Mushroom Omlette is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Mushroom_Omlette",
   "flavor": "Flip it!",
   "description": "Fried egg with a generous helping of mushrooms",
@@ -2426,8 +2361,7 @@
    "+150 Maximum Health",
    "15% Chance to find additional Stone while Mining",
    "15% Stamina Regeneration"
-  ],
-  "icon": "/icons/mushroom-omlette.png"
+  ]
  },
  {
   "title": "Mushroom Soup",
@@ -2446,7 +2380,7 @@
    "CRE_Mushroom_Soup.png",
    "T_Bestiary_Mushroom_Soup.png"
   ],
-  "intro": "}}",
+  "intro": "Mushroom Soup is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Mushroom_Soup",
   "flavor": "While some critics regard this meal as pointless if made without butter, purists do not last long on Icarus.",
   "description": "A passable impression of a classic dish.",
@@ -2465,8 +2399,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+10% Stamina Regeneration"
-  ],
-  "icon": "/icons/mushroom-soup.png"
+  ]
  },
  {
   "title": "Pickled Avocado",
@@ -2500,8 +2433,7 @@
    "+20% Projectile Damage",
    "+20% Shared Experience Gained",
    "-20% Food Consumption"
-  ],
-  "icon": "/icons/pickled-avocado.png"
+  ]
  },
  {
   "title": "Pickled Carrot",
@@ -2537,8 +2469,7 @@
    "+150 Maximum Stamina",
    "+20% Projectile Damage",
    "+20% Shared Experience Gained"
-  ],
-  "icon": "/icons/pickled-carrot.png"
+  ]
  },
  {
   "title": "Pickled Freshwater Fillet",
@@ -2553,7 +2484,7 @@
    "CRE_Pickled_Freshwater_Fillet.png",
    "T_Bestiary_Pickled_Freshwater_Fillet.png"
   ],
-  "intro": "}}",
+  "intro": "Pickled Freshwater Fillet is a long-lasting Food with a unique Status Effect, which can be stacked with other food buffs. Pickled Freshwater Fillet does not spoil and is therefore a valuable food for long-term storage.",
   "itemable_name": "Pickled_Freshwater_Fillet",
   "flavor": "Not for everyone, but a delicious long lasting treat for those that enjoy it.",
   "description": "A tangy dish made by preserving tender fillets of freshwater fish in a flavorful mixture.",
@@ -2573,8 +2504,7 @@
    "+30% Stamina Regeneration",
    "+10% Health Regeneration",
    "+20% Shared Experience"
-  ],
-  "icon": "/icons/pickled-freshwater-fillet.png"
+  ]
  },
  {
   "title": "Plain Jerky",
@@ -2592,7 +2522,7 @@
    "CRE_Plain_Jerky.png",
    "T_Bestiary_Plain_Jerky.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Plain Jerky is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Smoked_Meat_Generic",
   "flavor": "A simple recipe for a simple snack.",
   "description": "A piece of plain jerky.",
@@ -2611,8 +2541,7 @@
    "+150 Maximum Health",
    "+60% Health Regeneration",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/plain-jerky.png"
+  ]
  },
  {
   "title": "Potato and Carrot Fries",
@@ -2631,7 +2560,7 @@
    "CRE_Potato_and_Carrot_Fries.png",
    "T_Bestiary_Potato_and_Carrot_Fries.png"
   ],
-  "intro": "Potato and Carrot Fries is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Potato and Carrot Fries is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Potato_Carrot_Fries",
   "flavor": "Delicious.",
   "description": "Delivers a wide range of health benefits.",
@@ -2652,8 +2581,7 @@
    "+10% Health Regeneration",
    "-10% Food Consumption",
    "+10% Projectile Damage"
-  ],
-  "icon": "/icons/potato-and-carrot-fries.png"
+  ]
  },
  {
   "title": "Potato Bread",
@@ -2672,7 +2600,7 @@
    "CRE_Potato_Bread.png",
    "T_Bestiary_Potato_Bread.png"
   ],
-  "intro": "Potato Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Potato Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Potato_Bread",
   "flavor": "The best kind of bread.",
   "description": "Inproves stamina and keeps you fuller for longer.",
@@ -2692,8 +2620,7 @@
    "+150 Maximum Stamina",
    "-20% Food Consumption",
    "+15% Experience Gained"
-  ],
-  "icon": "/icons/potato-bread.png"
+  ]
  },
  {
   "title": "Pumpkin",
@@ -2706,7 +2633,7 @@
    "CRE_Pumpkin.png",
    "T_Bestiary_Pumpkin.png"
   ],
-  "intro": "File:Olympus Pumpkin Map.jpg|Map of Pumpkin on Olympus File:Styx Pumpkin Map.jpg|Map of Pumpkin on Styx File:Pro Pumpkin.jpg|Map of Pumpkin on Prometheus",
+  "intro": "Pumpkin are a common form of Plantlife found in the Forest and Riverlands Regions on Icarus. When consumed by prospectors, they replenish Hunger.",
   "itemable_name": "Pumpkin",
   "flavor": "Ensuring that Halloween becomes a multi-planet holiday. Best cooked.",
   "description": "A deep yellow squash cultivar.",
@@ -2725,8 +2652,7 @@
    "+20 Food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/pumpkin.png"
+  ]
  },
  {
   "title": "Pumpkin Bread",
@@ -2745,7 +2671,7 @@
    "CRE_Pumpkin_Bread.png",
    "T_Bestiary_Pumpkin_Bread.png"
   ],
-  "intro": "}}",
+  "intro": "Pumpkin Bread is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Pumpkin_Bread",
   "flavor": "Just like 'someone' used to make.",
   "description": "A noticeably yellow loaf that significantly increases endurance.",
@@ -2763,8 +2689,7 @@
    "+150 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "Provides the 'Pumpkin Bread' modifier * +150 Maximum Stamina * +15% Exposure Resistance * +15% Experience Gained"
-  ],
-  "icon": "/icons/pumpkin-bread.png"
+  ]
  },
  {
   "title": "Raw Bacon",
@@ -2791,8 +2716,7 @@
   "stack": "50",
   "weight": "100",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-bacon.png"
+  "buffs": []
  },
  {
   "title": "Raw Fatty T-Bone",
@@ -2811,7 +2735,7 @@
    "CRE_Raw_Fatty_T-Bone.png",
    "T_Bestiary_Raw_Fatty_T-Bone.png"
   ],
-  "intro": "*Grizzly Bear",
+  "intro": "Raw Fatty T-Bone can be obtained by Skinning bears with a Knife. Raw Fatty T-Bone decays at a very fast rate, and this decay can be slowed by storing in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "Fatty_Tbone",
   "flavor": "Calories don't count on Icarus",
   "description": "The largest of steaks can typically only be found in the largest of creatures",
@@ -2826,8 +2750,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-fatty-t-bone.png"
+  "buffs": []
  },
  {
   "title": "Raw Gamey Meat",
@@ -2846,7 +2769,7 @@
    "CRE_Raw_Gamey_Meat.png",
    "T_Bestiary_Raw_Gamey_Meat.png"
   ],
-  "intro": "*Chamois",
+  "intro": "Raw Gamey Meat can be obtained by Skinning animals with a Knife. Eating Raw Gamey Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating. Raw Gamey Meat decays at a very fast rate, and this decay can be slowed by storing it in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "Gamey_Meat",
   "flavor": "Slimy, yet satisfying",
   "description": "Raw gamey meat, typically found amongst the more passive wildlife",
@@ -2861,8 +2784,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-gamey-meat.png"
+  "buffs": []
  },
  {
   "title": "Raw Giant Steak",
@@ -2881,7 +2803,7 @@
    "CRE_Raw_Giant_Steak.png",
    "T_Bestiary_Raw_Giant_Steak.png"
   ],
-  "intro": "*Elephant",
+  "intro": "Raw Giant Steak can be obtained by Skinning animals with a Knife. Eating Raw Giant Steak will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating. Raw Giant Steak decays at a very fast rate, and this decay can be slowed by storing it in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "Giant_Steak",
   "flavor": "This should keep you going for a while",
   "description": "A giant steak from the belly of only the largest creatures.",
@@ -2896,8 +2818,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-giant-steak.png"
+  "buffs": []
  },
  {
   "title": "Raw Meat",
@@ -2925,8 +2846,7 @@
   "stack": "20",
   "weight": "50",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-meat.png"
+  "buffs": []
  },
  {
   "title": "Raw Soft Meat",
@@ -2945,7 +2865,7 @@
    "CRE_Raw_Soft_Meat.png",
    "T_Bestiary_Raw_Soft_Meat.png"
   ],
-  "intro": "*Scorpion",
+  "intro": "Raw Soft Meat can be obtained by Skinning animals with a Knife. Eating Raw Soft Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating. Raw Soft Meat decays at a very fast rate, and this decay can be slowed by storing it in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "Soft_Meat",
   "flavor": "Tastes like guilt, doesn't it?",
   "description": "A soft, supple meat",
@@ -2960,8 +2880,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-soft-meat.png"
+  "buffs": []
  },
  {
   "title": "Raw Stringy Meat",
@@ -2980,7 +2899,7 @@
    "CRE_Raw_Stringy_Meat.png",
    "T_Bestiary_Raw_Stringy_Meat.png"
   ],
-  "intro": "*Alpha Wolf",
+  "intro": "Raw Stringy Meat can be obtained by Skinning animals with a Knife. Eating Raw Stringy Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating. Raw Stringy Meat decays at a very fast rate, and this decay can be slowed by storing it in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "Stringy_Meat",
   "flavor": "An adequate meal",
   "description": "Stringy meat, typically found in fast, predatory creatures",
@@ -2995,8 +2914,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-stringy-meat.png"
+  "buffs": []
  },
  {
   "title": "Raw White Meat",
@@ -3015,7 +2933,7 @@
    "CRE_Raw_White_Meat.png",
    "T_Bestiary_Raw_White_Meat.png"
   ],
-  "intro": "Eating will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating.",
+  "intro": "Eating Raw White Meat will replenish Health there is a possibility of negative Status Effects when doing so. It is better to Cook first before eating. Raw White Meat decays at a very fast rate, and this decay can be slowed by storing it in an Ice Box or Refrigerator. When it fully decays it becomes Spoiled Meat.",
   "itemable_name": "White_Meat",
   "flavor": "Be careful of the bones",
   "description": "A small cut of white meat",
@@ -3030,8 +2948,7 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/raw-white-meat.png"
+  "buffs": []
  },
  {
   "title": "Rhubarb",
@@ -3044,7 +2961,7 @@
    "CRE_Rhubarb.png",
    "T_Bestiary_Rhubarb.png"
   ],
-  "intro": "Rhubarb are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Rhubarb Farming Packet and grown by a prospector.",
+  "intro": "Rhubarb is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Rhubarb are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Rhubarb Farming Packet and grown by a prospector.",
   "itemable_name": "Rhubarb",
   "flavor": "Rhubarb is a good source of vitamins C and K.",
   "description": "A tart and tangy vegetable with large green leaves and pink or red stalks.",
@@ -3063,8 +2980,7 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/rhubarb.png"
+  ]
  },
  {
   "title": "Rhubarb Stew",
@@ -3079,7 +2995,7 @@
    "CRE_Rhubarb_Stew.png",
    "T_Bestiary_Rhubarb_Stew.png"
   ],
-  "intro": "Rhubarb Stew is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Rhubarb Stew is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Rhubarb_Stew",
   "flavor": "Another great meal from your Potbelly Stove.",
   "description": "A sweet and tangy snack.",
@@ -3099,8 +3015,7 @@
    "-10% Oxygen Consumption",
    "-10% Water Consumption",
    "-10% Stamina Consumed"
-  ],
-  "icon": "/icons/rhubarb-stew.png"
+  ]
  },
  {
   "title": "Ripe Coconut",
@@ -3138,8 +3053,7 @@
    "Consumes 1 Space in Stomach",
    "+75% Maximum Health",
    "-10% Food Consumption"
-  ],
-  "icon": "/icons/ripe-coconut.png"
+  ]
  },
  {
   "title": "Roast Squash",
@@ -3158,7 +3072,7 @@
    "CRE_Roast_Squash.png",
    "T_Bestiary_Roast_Squash.png"
   ],
-  "intro": "When consumed, it provides the \"\" Status Effect. }}",
+  "intro": "Roast Squash is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Squash",
   "flavor": "Boosts stamina, if not the will to live.",
   "description": "Like roast pumpkin, boasting a similar flavor and most of the same effects.",
@@ -3176,8 +3090,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+5% Melee Damage"
-  ],
-  "icon": "/icons/roast-squash.png"
+  ]
  },
  {
   "title": "Roast Vegetables",
@@ -3196,7 +3109,7 @@
    "CRE_Roast_Vegetables.png",
    "T_Bestiary_Roast_Vegetables.png"
   ],
-  "intro": "}}",
+  "intro": "Roast Vegetables is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Roasted_Vegetables",
   "flavor": "MELANGE: n. \"a varied mixture\"",
   "description": "A melange of cooked vegetables, provides a serious stamina boost.",
@@ -3215,8 +3128,7 @@
    "+225 Maximum Stamina",
    "+10% Exposure Resistance",
    "+10% Melee Damage"
-  ],
-  "icon": "/icons/roast-vegetables.png"
+  ]
  },
  {
   "title": "Saltwater Fillet Sashimi",
@@ -3231,7 +3143,7 @@
    "CRE_Saltwater_Fillet_Sashimi.png",
    "T_Bestiary_Saltwater_Fillet_Sashimi.png"
   ],
-  "intro": "}}",
+  "intro": "Saltwater Fillet Sashimi is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Saltwater_Fillet_Sashimi",
   "flavor": "Can be made at a Cooking Station. Simple, but delicious.",
   "description": "A delicacy consisting of raw, thinly sliced saltwater fish.",
@@ -3253,8 +3165,7 @@
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance",
    "+5% Projectile Damage"
-  ],
-  "icon": "/icons/saltwater-fillet-sashimi.png"
+  ]
  },
  {
   "title": "Saltwater Fish Fillet",
@@ -3268,7 +3179,7 @@
    "CRE_Saltwater_Fish_Fillet.png",
    "T_Bestiary_Saltwater_Fish_Fillet.png"
   ],
-  "intro": "}}",
+  "intro": "Saltwater Fish Fillet is is the result of filleting a Saltwater Fish at a Fishing Bench. While eating Saltwater Fish Fillet will replenish a small amount of Hunger, there is a possibility of negative Status Effects when doing so. It is better to Cook before eating.",
   "itemable_name": "Saltwater_Fish_Fillet",
   "flavor": "Nicely done.",
   "description": "A neatly trimmed fillet ready for cooking.",
@@ -3283,8 +3194,7 @@
   "bench": "Fishing Bench",
   "buffs": [
    "+15 Food when Consumed"
-  ],
-  "icon": "/icons/saltwater-fish-fillet.png"
+  ]
  },
  {
   "title": "Sauteed Rhubarb",
@@ -3303,7 +3213,7 @@
    "CRE_Sauteed_Rhubarb.png",
    "T_Bestiary_Sauteed_Rhubarb.png"
   ],
-  "intro": "When consumed, it provides the \"Sautéed Rhubarb\" Status Effect. }}",
+  "intro": "Sauteed Rhubarb is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Rhubarb",
   "flavor": "Just avoid the leaves.",
   "description": "This snack is lightly cooked in a pan with sugar or honey.",
@@ -3321,8 +3231,7 @@
    ",br.Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption"
-  ],
-  "icon": "/icons/sauteed-rhubarb.png"
+  ]
  },
  {
   "title": "Savory Roll",
@@ -3337,7 +3246,7 @@
    "CRE_Savory_Roll.png",
    "T_Bestiary_Savory_Roll.png"
   ],
-  "intro": "Savory Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Savory Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Savory_Roll",
   "flavor": "A delicious meal made on your Biofuel Stove.",
   "description": "A hearty pastry baked to perfection.",
@@ -3360,8 +3269,7 @@
    "15% Stamina Regeneration",
    "+30% Health Regeneration",
    "+10% Experience Gained"
-  ],
-  "icon": "/icons/savory-roll.png"
+  ]
  },
  {
   "title": "Seared Mushroom",
@@ -3380,7 +3288,7 @@
    "CRE_Seared_Mushroom.png",
    "T_Bestiary_Seared_Mushroom.png"
   ],
-  "intro": "When consumed, it provides the \"Seared Mushroom\" Status Effect. }}",
+  "intro": "Seared Mushroom is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Cooked_Mushroom",
   "flavor": "Mushrooms are notably the only lifeform introduced from Earth that required no genetic adjustment whatsoever.",
   "description": "Lightly fried fungus.",
@@ -3398,8 +3306,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+5% Stamina Regeneration"
-  ],
-  "icon": "/icons/seared-mushroom.png"
+  ]
  },
  {
   "title": "Seed Animal Feed",
@@ -3418,7 +3325,7 @@
    "CRE_Seed_Animal_Feed.png",
    "T_Bestiary_Seed_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Seed Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Seed Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Seed Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed",
   "flavor": "Seed feed to satiate your creatures needs.",
   "description": "Nutritionally dense animal feed.",
@@ -3435,8 +3342,7 @@
    "Consumes 1 Space in Stomach",
    "+125 Maximum Stamina",
    "50% Stamina Regeneration"
-  ],
-  "icon": "/icons/seed-animal-feed.png"
+  ]
  },
  {
   "title": "Seed Cracker",
@@ -3455,7 +3361,7 @@
    "CRE_Seed_Cracker.png",
    "T_Bestiary_Seed_Cracker.png"
   ],
-  "intro": "A snack made with just seed. }}",
+  "intro": "A snack made with just seed.",
   "itemable_name": "Food_Seed_Cracker",
   "flavor": "This cracker resembles hardtack. Upholding the explorers tradition of terrible snack choices.",
   "description": "A very dense crunchy snack.",
@@ -3473,8 +3379,7 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "-15% Stamina Consumed by Tool Actions"
-  ],
-  "icon": "/icons/seed-cracker.png"
+  ]
  },
  {
   "title": "Shepherd's Pie",
@@ -3492,7 +3397,7 @@
    "CRE_Shepherd's_Pie.png",
    "T_Bestiary_Shepherd's_Pie.png"
   ],
-  "intro": "Shepherd's Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\" }}",
+  "intro": "Shepherd's Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\"",
   "itemable_name": "Food_Shepherds_Pie",
   "flavor": "A hearty meal.",
   "description": "An all rounder, this will keep you going.",
@@ -3510,8 +3415,7 @@
    "+150 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "* +150 Maximum Health * +75 Maximum Stamina * +225 Maximum Health * +40% Health Regeneration * +10% Experience Gained * -20% Food Consumption"
-  ],
-  "icon": "/icons/shepherd-s-pie.png"
+  ]
  },
  {
   "title": "Shepherd's Roll",
@@ -3529,7 +3433,7 @@
    "CRE_Shepherd's_Roll.png",
    "T_Bestiary_Shepherd's_Roll.png"
   ],
-  "intro": "A Shepherd's Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "A Shepherd's Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Shepherds_Roll",
   "flavor": "A delicious meal made on your Biofuel Stove.",
   "description": "A savory pastry baked until golden.",
@@ -3552,8 +3456,7 @@
    "15% Melee Attack Speed",
    "15% Projectile Damage",
    "+10% Experience Gained"
-  ],
-  "icon": "/icons/shepherd-s-roll.png"
+  ]
  },
  {
   "title": "Soy Bean",
@@ -3571,7 +3474,7 @@
    "CRE_Soy_Bean.png",
    "T_Bestiary_Soy_Bean.png"
   ],
-  "intro": "You can Make Milk from Also Used in the recipes Soy Bean Stir-Fry, Vegetable Pie, and Vegetable Roll.",
+  "intro": "Soy Beans are a common form of Plantlife found in the Forest and Riverlands Regions on Icarus.",
   "itemable_name": "Bean",
   "flavor": "The argument over whether soy produces 'milk' or 'juice' rages into the 22nd century.",
   "description": "Close to to the perfect food source.",
@@ -3589,8 +3492,7 @@
    "+20 Food when Consumed",
    "Consumes 1 space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/soy-bean.png"
+  ]
  },
  {
   "title": "Soy Bean Stir-Fry",
@@ -3609,7 +3511,7 @@
    "CRE_Soy_Bean_Stir-Fry.png",
    "T_Bestiary_Soy_Bean_Stir-Fry.png"
   ],
-  "intro": "}}",
+  "intro": "Soy Bean Stir-Fry is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Fried_Soy_Beans",
   "flavor": "One of the original crops intended to sustain humanity on its first new extra-solar world.",
   "description": "Boosts health, lifts stamina, enhances self-satisfaction.",
@@ -3630,8 +3532,7 @@
    "+10% Projectile Damage",
    "+10% Stamina Regeneration",
    "+10% Health Regeneration"
-  ],
-  "icon": "/icons/soy-bean-stir-fry.png"
+  ]
  },
  {
   "title": "Sprinters Animal Feed",
@@ -3650,7 +3551,7 @@
    "CRE_Sprinters_Animal_Feed.png",
    "T_Bestiary_Sprinters_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Sprinters Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Sprinters Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Sprinters Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Carrot",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that promotes short and fast travel.",
@@ -3667,8 +3568,7 @@
    "Consumes 1 Space in Stomach",
    "+75% Movement Stamina Consumed",
    "+20% Sprint Speed"
-  ],
-  "icon": "/icons/sprinters-animal-feed.png"
+  ]
  },
  {
   "title": "Squash",
@@ -3681,7 +3581,7 @@
    "CRE_Squash.png",
    "T_Bestiary_Squash.png"
   ],
-  "intro": "File:Oly Squash.jpg|Map of Squash on Olympus File:Styx Squash.jpg|Map of Squash on Styx File:Pro Squash.jpg|Map of Squash on Prometheus",
+  "intro": "Squash are a common form of Plantlife found in the Desert Region on Icarus. When consumed by prospectors, they replenish Hunger.",
   "itemable_name": "Squash",
   "flavor": "A myriad of squash varieties exist, but the effects of genetic tampering by xeno-biologiest have resulted in a variant with noticeable endurance-enhancing qualities.",
   "description": "An edible herbaceous vine fruit.",
@@ -3700,8 +3600,7 @@
    "+20 food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/squash.png"
+  ]
  },
  {
   "title": "Stew",
@@ -3719,7 +3618,7 @@
    "CRE_Stew.png",
    "T_Bestiary_Stew.png"
   ],
-  "intro": "}}",
+  "intro": "Stew is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Meat_Stew",
   "flavor": "Some foods profit from rustic conditions. Boosts health, lifts stamina.",
   "description": "A rich, nourishing casserole.",
@@ -3741,8 +3640,7 @@
    "+10% Health Regeneration",
    "+10% Stamina Regeneration",
    "+10% Projectile Damage"
-  ],
-  "icon": "/icons/stew.png"
+  ]
  },
  {
   "title": "Strawberry",
@@ -3755,7 +3653,7 @@
    "CRE_Strawberry.png",
    "T_Bestiary_Strawberry.png"
   ],
-  "intro": "Strawberries are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Strawberry Farming Packet and grown by a prospector.",
+  "intro": "Strawberry is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Strawberries are not found natively on Icarus, however they can be received as rewards from SMPL3 quests obtained at the C0NT4CT Device in Open World and Outposts, or purchased in the Workshop in the form of a Strawberry Farming Packet and grown by a prospector.",
   "itemable_name": "Strawberry",
   "flavor": "The average berry contains around 200 tiny seeds",
   "description": "A sweet and juicy fruit with a bright red colour.",
@@ -3774,8 +3672,7 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ],
-  "icon": "/icons/strawberry.png"
+  ]
  },
  {
   "title": "Strawberry Jam",
@@ -3790,7 +3687,7 @@
    "CRE_Strawberry_Jam.png",
    "T_Bestiary_Strawberry_Jam.png"
   ],
-  "intro": "}}",
+  "intro": "Strawberry Jam is a long-lasting Food with a unique Status Effect, which can be stacked with other food buffs. Strawberry Jam, Berry Jam and Pickled Carrot, do not spoil and is therefore a valuable food for long-term storage.",
   "itemable_name": "Strawberry_Jam",
   "flavor": "A handy snack made at your Kitchen Bench.",
   "description": "A sweet and fruity spread.",
@@ -3810,8 +3707,7 @@
    "+125 Maximum Stamina",
    "+20 Experience Gained",
    "+10% Shared Experience"
-  ],
-  "icon": "/icons/strawberry-jam.png"
+  ]
  },
  {
   "title": "Stuffed Avocado",
@@ -3826,7 +3722,7 @@
    "CRE_Stuffed_Avocado.png",
    "T_Bestiary_Stuffed_Avocado.png"
   ],
-  "intro": "}}",
+  "intro": "Stuffed Avocado is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Stuffed_Avocado",
   "flavor": "Another great meal from your Cooking Station.",
   "description": "This avocado has been halved and filled with a savory mixture.",
@@ -3847,8 +3743,7 @@
    "+75% Maximum Stamina",
    "+10% Health Regeneration",
    "-10% Food Consumption"
-  ],
-  "icon": "/icons/stuffed-avocado.png"
+  ]
  },
  {
   "title": "Sugar Cane",
@@ -3863,7 +3758,7 @@
    "CRE_Sugar_Cane.png",
    "T_Bestiary_Sugar_Cane.png"
   ],
-  "intro": "Shipped directly from off-world, this item is essential for food crafting recipes that grants the player additional buffs.",
+  "intro": "Sugar Cane does not naturally spawn on Icarus and is obtainable through the Orbital Exchange Interface once researched through the Workshop Farming section. It costs 50 credits to Research and 20 credits to Craft each (gives 5x seeds per 1x Farming Packet). Shipped directly from off-world, this item is essential for food crafting recipes that grants the player additional buffs.",
   "itemable_name": "Sugar_Cane",
   "flavor": "Sweet As.",
   "description": "A piece of raw sugar cane, ready for processing.",
@@ -3876,8 +3771,7 @@
   "stack": "100",
   "weight": "0.25 kg",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/sugar-cane.png"
+  "buffs": []
  },
  {
   "title": "Sugar Cubes",
@@ -3895,7 +3789,7 @@
    "CRE_Sugar_Cubes.png",
    "T_Bestiary_Sugar_Cubes.png"
   ],
-  "intro": "This item is essential for food crafting recipes that grants the player additional buffs. }} }} }}",
+  "intro": "This item is essential for food crafting recipes that grants the player additional buffs.",
   "itemable_name": "Sugar",
   "flavor": "Sweet As.",
   "description": "A handful of sweet sugar cubes.",
@@ -3908,8 +3802,7 @@
   "stack": "500",
   "weight": "0.1 kg",
   "bench": "",
-  "buffs": [],
-  "icon": "/icons/sugar-cubes.png"
+  "buffs": []
  },
  {
   "title": "Sweetcorn Soup",
@@ -3928,7 +3821,7 @@
    "CRE_Sweetcorn_Soup.png",
    "T_Bestiary_Sweetcorn_Soup.png"
   ],
-  "intro": "}}",
+  "intro": "Sweetcorn Soup is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Food_Corn_Soup",
   "flavor": "Boosts stamina and improves endurance. Drains nostalgia.",
   "description": "A classic dish, even without shredded chicken.",
@@ -3947,8 +3840,7 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-20% Stamina Consumed by Actions"
-  ],
-  "icon": "/icons/sweetcorn-soup.png"
+  ]
  },
  {
   "title": "Tea Smoked Freshwater Fillet",
@@ -3966,7 +3858,7 @@
    "CRE_Tea_Smoked_Freshwater_Fillet.png",
    "T_Bestiary_Tea_Smoked_Freshwater_Fillet.png"
   ],
-  "intro": "Eating will replenish Health. }}",
+  "intro": "Tea Smoked Freshwater Fillet is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Smoked_Freshwater_Fillet",
   "flavor": "UDA reports have mixed results on the flavor.",
   "description": "A tender snack made by smoking and preserving tender fillets of freshwater fish.",
@@ -3987,8 +3879,7 @@
    "+25% Stamina Regeneration",
    "+50% Health Regeneration",
    "-25% Food Consumption"
-  ],
-  "icon": "/icons/tea-smoked-freshwater-fillet.png"
+  ]
  },
  {
   "title": "Tomato & Egg Bowl",
@@ -4006,7 +3897,7 @@
    "CRE_Tomato_&_Egg_Bowl.png",
    "T_Bestiary_Tomato_&_Egg_Bowl.png"
   ],
-  "intro": "}}",
+  "intro": "Tomato & Egg Bowl is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Egg_Salad",
   "flavor": "An interesting mix of protein and fruit.",
   "description": "Considered a delicacy back on Earth",
@@ -4026,8 +3917,7 @@
    "+75 Maximum Stamina",
    "15% Chance to find additional Stone while Mining",
    "10% Projectile Damage"
-  ],
-  "icon": "/icons/tomato-egg-bowl.png"
+  ]
  },
  {
   "title": "Tomato Soup",
@@ -4046,7 +3936,7 @@
    "CRE_Tomato_Soup.png",
    "T_Bestiary_Tomato_Soup.png"
   ],
-  "intro": "}}",
+  "intro": "Tomato Soup is a consumable Food crafted from Tomatoes and Water. As Tomatoes are only found on Prometheus, this recipe requires the New Frontiers DLC to obtain the ingredients.",
   "itemable_name": "Food_Tomato_Soup",
   "flavor": "So tasty.",
   "description": "Boosts stamina and health regeneration.",
@@ -4062,8 +3952,7 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "+20% Health Regeneration"
-  ],
-  "icon": "/icons/tomato-soup.png"
+  ]
  },
  {
   "title": "Vegetable Pie",
@@ -4082,7 +3971,7 @@
    "CRE_Vegetable_Pie.png",
    "T_Bestiary_Vegetable_Pie.png"
   ],
-  "intro": "Vegetable Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\" }}",
+  "intro": "Vegetable Pie is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. \"Warm, health-giving, stamina-boosting - virtue in every pie.\"",
   "itemable_name": "Food_Vegetable_Pie",
   "flavor": "If this pie had a slogan, it might be 'Stay delicious'.",
   "description": "Warm, health-giving, stamina-boosting - virtue in every pie.",
@@ -4100,8 +3989,7 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Vegetable Pie' modifier",
    "* +150 Maximum Health * +150 Maximum Stamina * -15% Stamina Consumed by Actions * +15% Melee Damage * +10% Experience Gained"
-  ],
-  "icon": "/icons/vegetable-pie.png"
+  ]
  },
  {
   "title": "Vegetable Roll",
@@ -4116,7 +4004,7 @@
    "CRE_Vegetable_Roll.png",
    "T_Bestiary_Vegetable_Roll.png"
   ],
-  "intro": "Vegetable Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. }}",
+  "intro": "Vegetable Roll is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
   "itemable_name": "Vegetable_Roll",
   "flavor": "A delicious meal made on your Biofuel Stove.",
   "description": "An easy choice packed with veges.",
@@ -4138,8 +4026,7 @@
    "+15% Exposure Resistance",
    "+30% Health Regeneration",
    "+10% Experience Gained"
-  ],
-  "icon": "/icons/vegetable-roll.png"
+  ]
  },
  {
   "title": "Volcanic Animal Feed",
@@ -4158,7 +4045,7 @@
    "CRE_Volcanic_Animal_Feed.png",
    "T_Bestiary_Volcanic_Animal_Feed.png"
   ],
-  "intro": "}}",
+  "intro": "Volcanic Animal Feed is a Food for Pets or Mounts with a unique Status Effect. Can be eaten to satisfy Hunger. Volcanic Animal Feed decays in 10,800 seconds, but that decay can be slowed down by storing Volcanic Animal Feed inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Animal_Feed_Potato",
   "flavor": "Feeding time at the zoo.",
   "description": "A feed that will help animals survive volcanic environments.",
@@ -4175,8 +4062,7 @@
    "Consumes 1 Space in Stomach",
    "+50 Fire Resistance",
    "+50% Fire Resistance while in Lava"
-  ],
-  "icon": "/icons/volcanic-animal-feed.png"
+  ]
  },
  {
   "title": "Watermelon",
@@ -4189,7 +4075,7 @@
    "CRE_Watermelon.png",
    "T_Bestiary_Watermelon.png"
   ],
-  "intro": "File:Olympus Watermelon Map.jpg|Map of Watermelon Locations on Olympus File:Styx Watermelon Map.jpg|Map of Watermelon Locations on Styx File:Pro Watermelon.jpg|Map of Watermelon on Prometheus",
+  "intro": "Watermelons are a common form of Plantlife found in the Forest and Riverlands Regions on Icarus. When consumed by Prospectors, they replenish Hunger and Thirst.",
   "itemable_name": "Watermelon",
   "flavor": "Icarus produces approximately 0.003% of humanity's watermelons.",
   "description": "Mainly water and sugar.",
@@ -4210,8 +4096,7 @@
    "Consumes 1 Space in Stomach",
    "+50 Maximum Stamina",
    "-10% Water Consumption"
-  ],
-  "icon": "/icons/watermelon.png"
+  ]
  },
  {
   "title": "Wild Berry",
@@ -4230,7 +4115,7 @@
    "CRE_Wild_Berry.png",
    "T_Bestiary_Wild_Berry.png"
   ],
-  "intro": "They are also an ingredient in the mid/late-game Food, Berry Jam and Wine.",
+  "intro": "Wild Berry are a common form of Plantlife found in the Forest and Riverlands Regions on Icarus. When consumed by prospectors, they replenish both the Hunger and Thirst meters.",
   "itemable_name": "Berry",
   "flavor": "The intrepid prospector may also ferment wine, trusting that the quality of the resulting beverage is less important than the sheer fact of its existence.",
   "description": "Berries will satisfy hunger, hydrate slightly, and extend endurance, but not for long.",
@@ -4249,8 +4134,7 @@
    "Consumes 1 Space in Stomach",
    "+50 Maximum Stamina",
    "-10% Water Consumption"
-  ],
-  "icon": "/icons/wild-berry.png"
+  ]
  },
  {
   "title": "Wild Salad",
@@ -4269,7 +4153,7 @@
    "CRE_Wild_Salad.png",
    "T_Bestiary_Wild_Salad.png"
   ],
-  "intro": "}}",
+  "intro": "Wild Salad is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger. Wild Salad decays, but that decay can be slowed down by storing Wild Salad inside an Ice Box or Refrigerator.",
   "itemable_name": "Food_Wild_Salad",
   "flavor": "At home among the stars, yet no closer to answering the age old question: 'What is a salad, exactly?'",
   "description": "Mixed pieces of squash and pumpkin at room temperature.",
@@ -4289,8 +4173,7 @@
    "+150 Maximum Stamina",
    "+10% Exposure Resistance",
    "+10% Melee Damage"
-  ],
-  "icon": "/icons/wild-salad.png"
+  ]
  },
  {
   "title": "Young Coconut",
@@ -4328,7 +4211,6 @@
    "Consumes One Space in Stomach",
    "+25 Maximum Health",
    "-10% Food Consumption"
-  ],
-  "icon": "/icons/young-coconut.png"
+  ]
  }
 ]

@@ -11,7 +11,7 @@
    "CRE_Black_Wolf_Knife.png",
    "T_Bestiary_Black_Wolf_Knife.png"
   ],
-  "intro": "The is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Black Wolf Knives cannot be thrown. For the thrown variant of the , view Black Wolf Throwing Knife. The recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination. }}",
+  "intro": "The Black Wolf Knife is a knife with a 25% chance to inflict hemorrhage on targets and can be used as a tool to skin fauna. As of the Week 48 Update, Black Wolf Knives cannot be thrown. For the thrown variant of the Black Wolf Knife, view Black Wolf Throwing Knife. The Black Wolf Knife recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination.",
   "itemable_name": "Black_Wolf_Knife",
   "flavor": "Sharp as ever.",
   "description": "A knife made from the teeth of an intimidating predator.",
@@ -32,8 +32,7 @@
    "repair": "1 Black Wolf Tooth",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/black-wolf-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Black Wolf Throwing Knife",
@@ -48,7 +47,7 @@
    "CRE_Black_Wolf_Throwing_Knife.png",
    "T_Bestiary_Black_Wolf_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Black Wolf Knife that can be thrown. Unlike the Black Wolf Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination. }}",
+  "intro": "The Black Wolf Throwing Knife is a variant of the Black Wolf Knife that can be thrown. Unlike the Black Wolf Knife, the Black Wolf Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Black Wolf Throwing Knife recipe is unlocked upon completing Lupine: Extermination. Note: Similar to other blueprint unlocks, this recipe unlock is character-specific. Characters that do not have access to this recipe will need to re-do Lupine: Extermination.",
   "itemable_name": "Black_Wolf_Throwing_Knife",
   "flavor": "Sharp as ever.",
   "description": "A knife made from the teeth of an intimidating predator.",
@@ -66,8 +65,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/black-wolf-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Bone Javelin",
@@ -86,7 +84,7 @@
    "CRE_Bone_Javelin.png",
    "T_Bestiary_Bone_Javelin.png"
   ],
-  "intro": "The is a variant of the Bone Spear that can only be thrown and is an upgrade to the Wood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Bone Javelin is a variant of the Bone Spear that can only be thrown and is an upgrade to the Wood Javelin. Despite it requiring more materials to craft, the increase in damage can mean the difference between winning and losing a fight against Icarus' fauna. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Bone_Throwing_Spear",
   "flavor": "As most new arrivals on Icarus realise at some stage, there is a certain elegance to hunting an animal for its bones, in order to craft a more effective weapon to hunt further animals.",
   "description": "A bone blade improves ranged damage.",
@@ -104,8 +102,7 @@
    "techlvl": "Tier 1",
    "bench": ""
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/bone-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Bone Knife",
@@ -119,7 +116,7 @@
    "CRE_Bone_Knife.png",
    "T_Bestiary_Bone_Knife.png"
   ],
-  "intro": "The is an upgrade in damage and durability from the Stone Knife, the can be used as either a melee weapon or tool. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Bone Knives cannot be thrown. For the thrown variant of the , view Bone Throwing Knife. }}",
+  "intro": "The Bone Knife is an upgrade in damage and durability from the Stone Knife, the Bone Knife can be used as either a melee weapon or tool. As of the Week 48 Update, Bone Knives cannot be thrown. For the thrown variant of the Bone Knife, view Bone Throwing Knife.",
   "itemable_name": "Bone_Knife",
   "flavor": "Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons?",
   "description": "Stronger, lighter and sharper than its stone cousin.",
@@ -139,8 +136,7 @@
    "repair": "1 Bone",
    "bench": ""
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/bone-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Bone Spear",
@@ -154,7 +150,7 @@
    "CRE_Bone_Spear.png",
    "T_Bestiary_Bone_Spear.png"
   ],
-  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The has twice as much health than the Wood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike the Bone Javelin, the cannot be thrown. }}",
+  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. The Bone Spear has twice as much health than the Wood Spear, which can be the difference between winning and losing against Icarus' fauna. Unlike the Bone Javelin, the Bone Spear cannot be thrown.",
   "itemable_name": "Bone_Spear",
   "flavor": "As most new arrivals on Icarus realise at some stage, there is a certain elegance to hunting an animal for its bones, in order to craft a more effective weapon to hunt further animals.",
   "description": "A bone blade improves melee damage.",
@@ -173,8 +169,7 @@
    "durability": "2,000",
    "bench": ""
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/bone-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Bone Throwing Knife",
@@ -189,7 +184,7 @@
    "CRE_Bone_Throwing_Knife.png",
    "T_Bestiary_Bone_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Bone Knife that can be thrown. Unlike the Bone Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Bone Knife in the Tier 1 Tech Tree. }}",
+  "intro": "The Bone Throwing Knife is a variant of the Bone Knife that can be thrown. Unlike the Bone Knife, the Bone Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Bone Knife in the Tier 1 Tech Tree.",
   "itemable_name": "Bone_Throwing_Knife",
   "flavor": "Did any UDA xenobiologist ever foresee that the bones of animals they adapted for life on Icarus would one day be used to fashion rudimentary hunting weapons?",
   "description": "Stronger, lighter and sharper than its stone cousin.",
@@ -207,8 +202,7 @@
    "techlvl": "Tier 1",
    "bench": ""
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/bone-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Carbon Javelin",
@@ -227,7 +221,7 @@
    "CRE_Carbon_Javelin.png",
    "T_Bestiary_Carbon_Javelin.png"
   ],
-  "intro": "The is a variant of the Carbon Spear that can only be thrown and is a cheaper upgrade to the Platinum Javelin that deals more damage and has a lower break chance. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Carbon Javelin is a variant of the Carbon Spear that can only be thrown and is a cheaper upgrade to the Platinum Javelin that deals more damage and has a lower break chance. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Carbon_Throwing_Spear",
   "flavor": "Kills faster, flies further.",
   "description": "A light, resilient spear made of layered carbon fiber.",
@@ -245,8 +239,7 @@
    "techlvl": "Tier 3",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/carbon-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Carbon Spear",
@@ -261,7 +254,7 @@
    "CRE_Carbon_Spear.png",
    "T_Bestiary_Carbon_Spear.png"
   ],
-  "intro": "The is an upgrade to the Platinum Spear that deals more damage and is cheaper to craft. Unlike the Carbon Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Carbon Spear is an upgrade to the Platinum Spear that deals more damage and is cheaper to craft. Unlike the Carbon Javelin, the Carbon Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Carbon_Spear",
   "flavor": "Kills faster, lasts longer.",
   "description": "A light, resilient spear made of layered carbon fiber.",
@@ -280,8 +273,7 @@
    "durability": "30,000",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/carbon-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Caveworm Javelin",
@@ -300,7 +292,7 @@
    "CRE_Caveworm_Javelin.png",
    "T_Bestiary_Caveworm_Javelin.png"
   ],
-  "intro": "The is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "intro": "The Caveworm Javelin is a variant of the Caveworm Spear that can only be thrown. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. The Caveworm Javelin recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research.",
   "itemable_name": "Caveworm_Throwing_Spear",
   "flavor": "Many factions continue to research these worms, suspecting that subterranean evolution could hold clues to the bioeffects of exotics.",
   "description": "A spear crafted from ancient organism's armor.",
@@ -319,8 +311,7 @@
    "techlvl": "Tier 2",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/caveworm-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Caveworm Knife",
@@ -334,7 +325,7 @@
    "CRE_Caveworm_Knife.png",
    "T_Bestiary_Caveworm_Knife.png"
   ],
-  "intro": "The is made with resources obtained from Caveworms. Though the can be used as a melee weapon or tool to skin fauna, the has very little durability, which can prove problematic while on the go as it can only be repaired at a Crafting Bench. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipes will need to re-do Unearthed: Research. }}",
+  "intro": "The Caveworm Knife is made with resources obtained from Caveworms. Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at a Crafting Bench. The Caveworm Knife recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipes will need to re-do Unearthed: Research.",
   "itemable_name": "Caveworm_Knife",
   "flavor": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
   "description": "A rare, highly durable blade.",
@@ -355,8 +346,7 @@
    "repair": "1 Worm Scale",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/caveworm-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Caveworm Spear",
@@ -370,7 +360,7 @@
    "CRE_Caveworm_Spear.png",
    "T_Bestiary_Caveworm_Spear.png"
   ],
-  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin, the cannot be thrown. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "intro": "Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike the Caveworm Javelin, the Caveworm Spear cannot be thrown. The Caveworm Spear recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research.",
   "itemable_name": "Caveworm_Spear",
   "flavor": "Many factions continue to research these worms, suspecting that subterranean evolution could hold clues to the bioeffects of exotics.",
   "description": "A spear crafted from an ancient organism's armor.",
@@ -390,8 +380,7 @@
    "durability": "5,000",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/caveworm-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Caveworm Throwing Knife",
@@ -406,7 +395,7 @@
    "CRE_Caveworm_Throwing_Knife.png",
    "T_Bestiary_Caveworm_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Caveworm Knife that can be thrown. Unlike the Caveworm Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research. }}",
+  "intro": "The Caveworm Throwing Knife is a variant of the Caveworm Knife that can be thrown. Unlike the Caveworm Knife, the Caveworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Caveworm Throwing Knife recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Unearthed: Research.",
   "itemable_name": "Caveworm_Throwing_Knife",
   "flavor": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
   "description": "A rare, highly durable blade.",
@@ -424,8 +413,7 @@
    "techlvl": "Tier 2",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/caveworm-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Cold Steel Javelin",
@@ -443,7 +431,7 @@
    "CRE_Cold_Steel_Javelin.png",
    "T_Bestiary_Cold_Steel_Javelin.png"
   ],
-  "intro": "The is a variant of the Cold Steel Spear that can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 100 frost damage on hit. 17-22 damage per second if the modifier procs *No weakness to frost: 200 frost damage on hit. 35-45 damage per second if t",
+  "intro": "The Cold Steel Javelin is a variant of the Cold Steel Spear that can only be thrown. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 100 frost damage on hit. 17-22 damage per second if the modifier procs *No weakness to frost: 200 frost damage on hit. 35-45 dam",
   "itemable_name": "Cold_Steel_Throwing_Spear",
   "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
   "description": "An aerodynamic spear created using Cold Steel, unique to Icarus.",
@@ -462,8 +450,7 @@
    "techlvl": "Tier 3",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/cold-steel-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Cold Steel Spear",
@@ -481,7 +468,7 @@
    "CRE_Cold_Steel_Spear.png",
    "T_Bestiary_Cold_Steel_Spear.png"
   ],
-  "intro": "The is a variant of the Platinum Spear that has ridiculously high durability and deals frost damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to frost, dealing more damage than the Platinum Spear. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 17",
+  "intro": "The Cold Steel Spear is a variant of the Platinum Spear that has ridiculously high durability and deals frost damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the Cold Steel Spear excels when used against Fauna that have a weakness to frost, dealing more damage than the Platinum Spear. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Faun",
   "itemable_name": "Cold_Steel_Sickle",
   "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
   "description": "A sturdy spear crafted using Cold Steel, unique to Icarus.",
@@ -501,8 +488,7 @@
    "durability": "150,000",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/cold-steel-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Cold Steel Throwing Knife",
@@ -516,7 +502,7 @@
    "CRE_Cold_Steel_Throwing_Knife.png",
    "T_Bestiary_Cold_Steel_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Cold Steel Knife that can only be thrown and is unlocked upon researching the Cold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 15 fro",
+  "intro": "The Cold Steel Throwing Knife is a variant of the Cold Steel Knife that can only be thrown and is unlocked upon researching the Cold Steel Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A r",
   "itemable_name": "Cold_Steel_Throwing_Knife",
   "flavor": "One of the few tools that are only available on Icarus, due to the nature of the materials required.",
   "description": "A sturdy Throwing Knife crafted using Cold Steel, unique to Icarus.",
@@ -534,8 +520,7 @@
    "techlvl": "Tier 3",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/cold-steel-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Combat Knife",
@@ -549,7 +534,7 @@
    "CRE_Combat_Knife.png",
    "T_Bestiary_Combat_Knife.png"
   ],
-  "intro": "While not particularly good for skinning a carcass, this knife excels in close quarters combat. Cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "While not particularly good for skinning a carcass, this knife excels in close quarters combat. Cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Combat_Knife",
   "flavor": "Stay sharp.",
   "description": "A hardened sheepsfoot blade for the swiftest killing and skinning.",
@@ -571,8 +556,7 @@
    "repair": "Steel Ingot",
    "bench": "Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/combat-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Composite Javelin",
@@ -591,7 +575,7 @@
    "CRE_Composite_Javelin.png",
    "T_Bestiary_Composite_Javelin.png"
   ],
-  "intro": "The is a variant of the Composite Spear that can only be thrown and is the highest damage dealing Javelin currently available. Despite the heavy tech investment to reach Composites, s are far cheaper to craft than the Titanium Javelin and are worth the investment for the increased damage and low projectile break chance. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Composite Javelin is a variant of the Composite Spear that can only be thrown and is the highest damage dealing Javelin currently available. Despite the heavy tech investment to reach Composites, Composite Javelins are far cheaper to craft than the Titanium Javelin and are worth the investment for the increased damage and low projectile break chance. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Composite_Throwing_Spear",
   "flavor": "Bringing two thousand years of materials technology to a sharp stick, the composite spear is lethal at long range or close quarters.",
   "description": "Low weight, high strength, extreme damage.",
@@ -609,8 +593,7 @@
    "techlvl": "Tier 4",
    "bench": "Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/composite-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Composite Spear",
@@ -624,7 +607,7 @@
    "CRE_Composite_Spear.png",
    "T_Bestiary_Composite_Spear.png"
   ],
-  "intro": "The is an upgrade to the Titanium Spear that deals more damage and is cheaper to craft once Composites can be crafted. Despite Composites being a hefty tech investment, the has the highest damage output and durability outside of Prometheus exclusive Spears. Unlike the Composite Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Composite Spear is an upgrade to the Titanium Spear that deals more damage and is cheaper to craft once Composites can be crafted. Despite Composites being a hefty tech investment, the Composite Spear has the highest damage output and durability outside of Prometheus exclusive Spears. Unlike the Composite Javelin, the Composite Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Composite_Spear",
   "flavor": "Bringing two thousand years of materials technology to a sharp stick, the composite spear is lethal at long range or close quarters.",
   "description": "Low weight, high strength, extreme damage.",
@@ -643,8 +626,7 @@
    "durability": "50,000",
    "bench": "Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/composite-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Frag Grenade",
@@ -659,7 +641,7 @@
    "CRE_Frag_Grenade.png",
    "T_Bestiary_Frag_Grenade.png"
   ],
-  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Stacks up to 5. WARNING: The will deal 1,000 damage to the area around it in a large radius and will drop off to 700 damage at 5 meters. }}",
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Stacks up to 5. WARNING: The Frag Grenade will deal 1,000 damage to the area around it in a large radius and will drop off to 700 damage at 5 meters.",
   "itemable_name": "Frag_Grenade",
   "flavor": "Homemade explosives are the best kind.",
   "description": "A basic fragmentation grenade design.",
@@ -675,8 +657,7 @@
    "category": "Weapons",
    "techlvl": "Tier 3"
   },
-  "weapon_type": "Weapons",
-  "icon": "/icons/frag-grenade.png"
+  "weapon_type": "Weapons"
  },
  {
   "title": "Hammerhead Grenade",
@@ -693,7 +674,7 @@
    "CRE_Hammerhead_Grenade.png",
    "T_Bestiary_Hammerhead_Grenade.png"
   ],
-  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Sticks to whatever the grenade impacts before detonating. Stacks up to 5. Item was introduced in the Great Hunts Campaigns expansion. }}",
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Sticks to whatever the grenade impacts before detonating. Stacks up to 5. Item was introduced in the Great Hunts Campaigns expansion.",
   "itemable_name": "Slug_Grenade",
   "flavor": "A grenade crafted from the spoils of victory against a Hammerhead.",
   "description": "A sticky grenade that will attach to whatever it lands on and then explode shortly after, leaving behind a pool of slime obtained from a Hammerhead slug.",
@@ -709,8 +690,7 @@
    "category": "Weapons",
    "techlvl": "Tier 3"
   },
-  "weapon_type": "Weapons",
-  "icon": "/icons/hammerhead-grenade.png"
+  "weapon_type": "Weapons"
  },
  {
   "title": "Impact Grenade",
@@ -729,7 +709,7 @@
    "CRE_Impact_Grenade.png",
    "T_Bestiary_Impact_Grenade.png"
   ],
-  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade detonates on impact with any object, be that the ground, a wall, or a creature. Stacks up to 5. WARNING: The will deal 750 damage on impact with additional damage of 1250 to the area around it in a large radius. }}",
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade detonates on impact with any object, be that the ground, a wall, or a creature. Stacks up to 5. WARNING: The Impact Grenade will deal 750 damage on impact with additional damage of 1250 to the area around it in a large radius.",
   "itemable_name": "Frag_Grenade_Impact",
   "flavor": "Don't drop it.",
   "description": "A fragmentation grenade that will explode on impact.",
@@ -745,8 +725,7 @@
    "category": "Grenades",
    "techlvl": "Tier 3"
   },
-  "weapon_type": "Grenades",
-  "icon": "/icons/impact-grenade.png"
+  "weapon_type": "Grenades"
  },
  {
   "title": "Inaris \"Agua\" Spear",
@@ -764,7 +743,7 @@
    "CRE_Inaris_\"Agua\"_Spear.png",
    "T_Bestiary_Inaris_\"Agua\"_Spear.png"
   ],
-  "intro": "The is a Workshop variant of the Miasmic Spear that deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 25 poison damage on hit. 17-22 damage per second if the modifier procs *No weakne",
+  "intro": "The Inaris \"Agua\" Spear is a Workshop variant of the Miasmic Spear that deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the Inaris \"Agua\" Spear excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 25 poison damage on hit. 17-22 damage per",
   "itemable_name": "Meta_Spear_Inaris_Bravo",
   "flavor": "Try not to lose it",
   "description": "A sturdily built spear with excellent grip",
@@ -784,8 +763,7 @@
    "techlvl": "Orbital Tech",
    "durability": "60,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/inaris-agua-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Inaris \"Cobalt\" Spear",
@@ -804,7 +782,7 @@
    "CRE_Inaris_\"Cobalt\"_Spear.png",
    "T_Bestiary_Inaris_\"Cobalt\"_Spear.png"
   ],
-  "intro": "The is a Workshop variant of the Cold Steel Spear that deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 25 Frost damage on hit. 17-22 damage per second if the modifier procs *No weakness t",
+  "intro": "The Inaris \"Cobalt\" Spear is a Workshop variant of the Cold Steel Spear that deals frost damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic frost damage. Although the modifier may have a low percent chance of proccing, the Inaris \"Cobalt\" Spear excels when used against Fauna that have a weakness to frost. A list of Fauna that are weak to frost can be viewed here. When the Freeze modifier does proc, periodic frost damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to frost: 25 Frost damage on hit. 17-22 damage per",
   "itemable_name": "Meta_Spear_Inaris_Charlie",
   "flavor": "Inaris are central players in the off-world mining industry",
   "description": "A well-made spear that's also lightweight",
@@ -824,8 +802,7 @@
    "techlvl": "Orbital Tech",
    "durability": "60,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/inaris-cobalt-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Inaris \"Dusk\" Spear",
@@ -844,7 +821,7 @@
    "CRE_Inaris_\"Dusk\"_Spear.png",
    "T_Bestiary_Inaris_\"Dusk\"_Spear.png"
   ],
-  "intro": "The is a Workshop variant of the Obsidian Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the excels when used against Fauna that have a weakness to fire. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 25 Fire damage on hit. 17-22 damage per second if modifier procs *No weakness to fire: 50 Fire ",
+  "intro": "The Inaris \"Dusk\" Spear is a Workshop variant of the Obsidian Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the Inaris \"Dusk\" Spear excels when used against Fauna that have a weakness to fire. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 25 Fire damage on hit. 17-22 damage per second if modif",
   "itemable_name": "Meta_Spear_Inaris_Delta",
   "flavor": "Keep your weapons by your side, you'll never know when you'll need them",
   "description": "A reliable addition to your arsenal",
@@ -864,8 +841,7 @@
    "techlvl": "Orbital Tech",
    "durability": "60,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/inaris-dusk-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Inaris \"Gris\" Spear",
@@ -883,7 +859,7 @@
    "CRE_Inaris_\"Gris\"_Spear.png",
    "T_Bestiary_Inaris_\"Gris\"_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Inaris \"Gris\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Inaris \"Gris\" Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Inaris_Alpha",
   "flavor": "Hint: Use the pointy end",
   "description": "Slow your foes with this hunting spear.",
@@ -902,8 +878,7 @@
    "techlvl": "Orbital Tech",
    "durability": "60,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/inaris-gris-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Iron Axe",
@@ -920,7 +895,7 @@
    "CRE_Iron_Axe.png",
    "T_Bestiary_Iron_Axe.png"
   ],
-  "intro": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench. }}",
+  "intro": "The Iron Axe is the 2nd axe you will unlock during your time on Icarus. It is located at the bottom of the Tier 2 tech tree, right after the Anvil Bench.",
   "itemable_name": "Metal_Axe",
   "flavor": "'Technological progress is like an axe in the hands of a pathological criminal.' -- Albert Einstein",
   "description": "An iron axe, for swifter felling and hewing.",
@@ -940,8 +915,7 @@
    "repair": "1 Iron Ingot",
    "bench": "Anvil Bench"
   },
-  "weapon_type": "Tools",
-  "icon": "/icons/iron-axe.png"
+  "weapon_type": "Tools"
  },
  {
   "title": "Iron Javelin",
@@ -960,7 +934,7 @@
    "CRE_Iron_Javelin.png",
    "T_Bestiary_Iron_Javelin.png"
   ],
-  "intro": "The is a variant of the Iron Spear that can only be thrown and is an upgrade over the Tier 1 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Iron Javelin is a variant of the Iron Spear that can only be thrown and is an upgrade over the Tier 1 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Metal_Throwing_Spear",
   "flavor": "'I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.' -- Ingmar Bergman",
   "description": "An iron spearhead, improving defensive power and range.",
@@ -978,8 +952,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/iron-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Iron Knife",
@@ -997,7 +970,7 @@
    "CRE_Iron_Knife.png",
    "T_Bestiary_Iron_Knife.png"
   ],
-  "intro": "The is an upgrade in damage and durability from the Bone Knife, the can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as the Grizzly Bear and Buffalo. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Iron Knives cannot be thrown. For the thrown variant of the , view Iron Throwing Knife. }}",
+  "intro": "The Iron Knife is an upgrade in damage and durability from the Bone Knife, the Iron Knife can be used as either a melee weapon or tool. It is also the first knife capable of skinning larger fauna such as the Grizzly Bear and Buffalo. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the Week 48 Update, Iron Knives cannot be thrown. For the thrown variant of the Iron Knife, view Iron Throwing Knife.",
   "itemable_name": "Metal_Knife",
   "flavor": "'A mind all logic is like a knife all blade. It makes the hand bleed that uses it.' -- Rabindranath Tagore",
   "description": "A short, clip-point blade for better defense and swifter skinning.",
@@ -1019,8 +992,7 @@
    "repair": "1 Iron Ingot",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/iron-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Iron Spear",
@@ -1038,7 +1010,7 @@
    "CRE_Iron_Spear.png",
    "T_Bestiary_Iron_Spear.png"
   ],
-  "intro": "The is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Iron Spear is the first Spear available to prospectors once they reach Tier 2 and serves as an upgrade to its Tier 1 counterparts. Unlike the Iron Javelin, the Iron Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Metal_Spear",
   "flavor": "'I throw a spear into the darkness. That is intuition. Then I must send an army into the darkness to find the spear. That is intellect.' -- Ingmar Bergman",
   "description": "An iron spearhead, improving defensive power and range.",
@@ -1057,8 +1029,7 @@
    "durability": "10,000",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/iron-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Iron Throwing Knife",
@@ -1077,7 +1048,7 @@
    "CRE_Iron_Throwing_Knife.png",
    "T_Bestiary_Iron_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Iron Knife that can be thrown. Unlike the Iron Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Iron Knife in the Tier 2 Tech Tree. }}",
+  "intro": "The Iron Throwing Knife is a variant of the Iron Knife that can be thrown. Unlike the Iron Knife, the Iron Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Iron Knife in the Tier 2 Tech Tree.",
   "itemable_name": "Metal_Throwing_Knife",
   "flavor": "'A mind all logic is like a knife all blade. It makes the hand bleed that uses it.' -- Rabindranath Tagore",
   "description": "A short, clip-point blade for better defense.",
@@ -1095,8 +1066,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/iron-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Larkwell Martinez Spear",
@@ -1114,7 +1084,7 @@
    "CRE_Larkwell_Martinez_Spear.png",
    "T_Bestiary_Larkwell_Martinez_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Larkwell Martinez Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Larkwell Martinez Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Larkwell",
   "flavor": "The LM brand has a very enthusiastic user base for its products.",
   "description": "A tough and deadly multi-purpose weapon.",
@@ -1134,8 +1104,7 @@
    "techlvl": "Orbital Tech",
    "durability": "40,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/larkwell-martinez-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Miasmic Javelin",
@@ -1153,7 +1122,7 @@
    "CRE_Miasmic_Javelin.png",
    "T_Bestiary_Miasmic_Javelin.png"
   ],
-  "intro": "The is a variant of the Miasmic Spear that can only be thrown. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 125 poison damage on hit. 17-22 damage per second if the modifier procs *No weakness to poison: 250 poison damage on hit. 35-45 damage per secon",
+  "intro": "The Miasmic Javelin is a variant of the Miasmic Spear that can only be thrown. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 125 poison damage on hit. 17-22 damage per second if the modifier procs *No weakness to poison: 250 poison damage on hit. 35-45 ",
   "itemable_name": "Iron_Wood_Throwing_Spear",
   "flavor": "The miasma coating this tool emits an almost unbearable stench.",
   "description": "A toxin-coated Throwing Spear, carefully crafted using Miasma harvested from Icarus wildlife.",
@@ -1172,8 +1141,7 @@
    "techlvl": "Tier 4",
    "bench": "Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/miasmic-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Miasmic Spear",
@@ -1191,7 +1159,7 @@
    "CRE_Miasmic_Spear.png",
    "T_Bestiary_Miasmic_Spear.png"
   ],
-  "intro": "The is a variant of the Titanium Spear that has ridiculously high durability and deals poison damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to poison, dealing more damage than the Titanium Spear. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to pois",
+  "intro": "The Miasmic Spear is a variant of the Titanium Spear that has ridiculously high durability and deals poison damage on hit. Attacks also have a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Although the modifier may have a low percent chance of proccing, the Miasmic Spear excels when used against Fauna that have a weakness to poison, dealing more damage than the Titanium Spear. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna",
   "itemable_name": "Iron_Wood_Spear",
   "flavor": "The miasma coating this tool emits an almost unbearable stench.",
   "description": "A toxin-coated spear, carefully crafted using Miasma harvested from Icarus wildlife.",
@@ -1211,8 +1179,7 @@
    "durability": "120,000",
    "bench": "Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/miasmic-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Miasmic Throwing Knife",
@@ -1230,7 +1197,7 @@
    "CRE_Miasmic_Throwing_Knife.png",
    "T_Bestiary_Miasmic_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Miasmic Knife that can only be thrown and is unlocked upon researching the Miasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to poison: 17 poi",
+  "intro": "The Miasmic Throwing Knife is a variant of the Miasmic Knife that can only be thrown and is unlocked upon researching the Miasmic Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals poison damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic poison damage. Excels when used against Fauna that have a weakness to poison. A list of Fauna that are weak to poison can be viewed here. When the Miasma modifier does proc, periodic poison damage is dealt to the target over the span of 10 seconds. Fauna with: *A resis",
   "itemable_name": "Iron_Wood_Throwing_Knife",
   "flavor": "The miasma coating this tool emits an almost unbearable stench.",
   "description": "A toxin-coated Throwing Knife, carefully crafted using Miasma harvested from Icarus wildlife.",
@@ -1248,8 +1215,7 @@
    "techlvl": "Tier 4",
    "bench": "Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/miasmic-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "MXC Spear",
@@ -1267,7 +1233,7 @@
    "CRE_MXC_Spear.png",
    "T_Bestiary_MXC_Spear.png"
   ],
-  "intro": "The is the first Spear that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The MXC Spear is the first Spear that can be unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the MXC Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Printed",
   "flavor": "Using techniques pioneered in the early 21st century, additive manufacturing has rendered metal the new plastic.",
   "description": "A low quality, but perfectly serviceable spear 3D printed spear.",
@@ -1286,8 +1252,7 @@
    "techlvl": "Orbital Tech",
    "durability": "30,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/mxc-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Obsidian Javelin",
@@ -1305,7 +1270,7 @@
    "CRE_Obsidian_Javelin.png",
    "T_Bestiary_Obsidian_Javelin.png"
   ],
-  "intro": "The is a variant of the Obsidian Spear that can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 85 fire damage on hit. 17-22 damage per second if the modifier procs *No weakness to fire: 170 fire damage on hit. 35-45 damage per second if the modifier pro",
+  "intro": "The Obsidian Javelin is a variant of the Obsidian Spear that can only be thrown. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 85 fire damage on hit. 17-22 damage per second if the modifier procs *No weakness to fire: 170 fire damage on hit. 35-45 damage per second if",
   "itemable_name": "Obsidian_Throwing_Spear",
   "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
   "description": "An aerodynamic spear created with a sharpened point of Obsidian.",
@@ -1324,8 +1289,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/obsidian-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Obsidian Spear",
@@ -1339,7 +1303,7 @@
    "CRE_Obsidian_Spear.png",
    "T_Bestiary_Obsidian_Spear.png"
   ],
-  "intro": "The is a variant of the Iron Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the excels when used against Fauna that have a weakness to fire, dealing more damage than the Iron Spear. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 15 Fire damage on hit. 17-22 damage per second if modifier procs *N",
+  "intro": "The Obsidian Spear is a variant of the Iron Spear that deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Although it may have a low percent chance of setting targets on fire, the Obsidian Spear excels when used against Fauna that have a weakness to fire, dealing more damage than the Iron Spear. A list of fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 15 Fire damage on hit. 17-22 damage p",
   "itemable_name": "Obsidian_Spear",
   "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
   "description": "A lightweight spear created with a sharpened point of obsidian.",
@@ -1359,8 +1323,7 @@
    "durability": "60,000",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/obsidian-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Obsidian Throwing Knife",
@@ -1374,7 +1337,7 @@
    "CRE_Obsidian_Throwing_Knife.png",
    "T_Bestiary_Obsidian_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Obsidian Knife that can only be thrown and is unlocked upon researching the Obsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: 16 fire damage on hit. 1",
+  "intro": "The Obsidian Throwing Knife is a variant of the Obsidian Knife that can only be thrown and is unlocked upon researching the Obsidian Knife. Cannot be used to skin Fauna - crafted in batches of five and stacks up to fifty. Deals fire damage on hit and has a 15% chance to apply a unique debuff to targets while also setting them ablaze. Excels when used against Fauna that have a weakness to fire. A list of Fauna that are weak to fire can be viewed here. When the Burning modifier does proc, periodic fire damage is dealt to the target over the span of 10 seconds. Fauna with: *A resistance to fire: ",
   "itemable_name": "Obsidian_Throwing_Knife",
   "flavor": "Made using volcanic glass created from the bowels of the planet, that has cooled rapidly with minimal crystal growth.",
   "description": "A lightweight throwing knife created with a sharpened blade of Obsidian.",
@@ -1392,8 +1355,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/obsidian-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Platinum Crossbow",
@@ -1407,7 +1369,7 @@
    "CRE_Platinum_Crossbow.png",
    "T_Bestiary_Platinum_Crossbow.png"
   ],
-  "intro": "The is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate than Bows. The shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "intro": "The Platinum Crossbow is a mid/late game weapon that can penetrate hardened points with a chance to slow targets but has a slower fire rate than Bows. The Platinum Crossbow shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Platinum_Crossbow",
   "flavor": "It's time for some serious damage.",
   "description": "A crossbow that automatically reloads for rapid fire.",
@@ -1428,8 +1390,7 @@
    "durability": "15,000",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Crossbows",
-  "icon": "/icons/platinum-crossbow.png"
+  "weapon_type": "Crossbows"
  },
  {
   "title": "Platinum Javelin",
@@ -1448,7 +1409,7 @@
    "CRE_Platinum_Javelin.png",
    "T_Bestiary_Platinum_Javelin.png"
   ],
-  "intro": "The is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Platinum Javelin is a variant of the Platinum Spear that can only be thrown; a substantial upgrade to the Tier 2 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Platinum_Throwing_Spear",
   "flavor": "A midweight, short-shafted ahlspeiss spear that, composition aside, would not have looked out of place in 16th century Prussia.",
   "description": "Priceless on Earth. A projectile on Icarus.",
@@ -1466,8 +1427,7 @@
    "techlvl": "Tier 3",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/platinum-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Platinum Knife",
@@ -1481,7 +1441,7 @@
    "CRE_Platinum_Knife.png",
    "T_Bestiary_Platinum_Knife.png"
   ],
-  "intro": "The is an upgrade in damage and durability from the Steel Knife, the can be used as either a melee weapon or tool. Unlike the Platinum Throwing Knife, the cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Platinum Knife is an upgrade in damage and durability from the Steel Knife, the Platinum Knife can be used as either a melee weapon or tool. Unlike the Platinum Throwing Knife, the Platinum Knife cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Platinum_Knife",
   "flavor": "Platinum's durablity gives an incredibly accurate, lethal cutting edge.",
   "description": "A precision blade, stronger than steel.",
@@ -1503,8 +1463,7 @@
    "repair": "Platinum Ingot",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/platinum-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Platinum Spear",
@@ -1518,7 +1477,7 @@
    "CRE_Platinum_Spear.png",
    "T_Bestiary_Platinum_Spear.png"
   ],
-  "intro": "The is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Platinum Spear is the first Spear available to prospectors once they reach Tier 3 and serves as an, albeit expensive, upgrade to its Tier 2 counterparts. Unlike the Platinum Javelin, the Platinum Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Platinum_Spear",
   "flavor": "A midweight, short-shafted ahlspeiss spear that, composition aside, would not have looked out of place in 16th century Prussia.",
   "description": "Priceless on Earth. An advanced survival tool on Icarus.",
@@ -1537,8 +1496,7 @@
    "durability": "30,000",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/platinum-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Platinum Throwing Knife",
@@ -1553,7 +1511,7 @@
    "CRE_Platinum_Throwing_Knife.png",
    "T_Bestiary_Platinum_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Platinum Knife that can be thrown. Unlike the Platinum Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Platinum Knife in the Tier 3 Tech Tree. }}",
+  "intro": "The Platinum Throwing Knife is a variant of the Platinum Knife that can be thrown. Unlike the Platinum Knife, the Platinum Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Platinum Knife in the Tier 3 Tech Tree.",
   "itemable_name": "Platinum_Throwing_Knife",
   "flavor": "Platinum's durablity gives an incredibly accurate, lethal cutting edge.",
   "description": "A precision blade, stronger than steel.",
@@ -1571,8 +1529,7 @@
    "techlvl": "Tier 3",
    "bench": "Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/platinum-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Quarrite Grenade",
@@ -1590,7 +1547,7 @@
    "CRE_Quarrite_Grenade.png",
    "T_Bestiary_Quarrite_Grenade.png"
   ],
-  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Item was introduced in the Great Hunts Campaigns expansion. }}",
+  "intro": "An explosive weapon thrown by hand. Hold left click to charge a throw. The grenade timer starts when the grenade leaves your hand and will take a few seconds to detonate. Item was introduced in the Great Hunts Campaigns expansion.",
   "itemable_name": "Rock_Golem_Grenade",
   "flavor": "Like those little colored toy building blocks, but much much older.",
   "description": "Explodes into many sharp objects that damage and slow.",
@@ -1606,8 +1563,7 @@
    "category": "Weapons",
    "techlvl": "Tier 3"
   },
-  "weapon_type": "Weapons",
-  "icon": "/icons/quarrite-grenade.png"
+  "weapon_type": "Weapons"
  },
  {
   "title": "Rusty Shotgun",
@@ -1624,7 +1580,7 @@
    "CRE_Rusty_Shotgun.png",
    "T_Bestiary_Rusty_Shotgun.png"
   ],
-  "intro": "A crude version of the Shotgun that uses 00 Buckshot Shells for ammunition. Despite it being relatively cheap to craft, it is not worth the talent point due to its subpar statistics. The requires the Talent, and can be crafted at the Machining Bench }}",
+  "intro": "A crude version of the Shotgun that uses 00 Buckshot Shells for ammunition. Despite it being relatively cheap to craft, it is not worth the talent point due to its subpar statistics. The Rusty Shotgun requires the Talent, and can be crafted at the Machining Bench",
   "itemable_name": "Farmers_Shotgun",
   "flavor": "A basic addition to your arsenal",
   "description": "A crude shotgun hastily pulled together",
@@ -1644,8 +1600,7 @@
    "aimaccuracyx": "0.10000000149011612",
    "aimaccuracyy": "0.10000000149011612"
   },
-  "weapon_type": "Shotguns",
-  "icon": "/icons/rusty-shotgun.png"
+  "weapon_type": "Shotguns"
  },
  {
   "title": "Sandworm Javelin",
@@ -1664,7 +1619,7 @@
    "CRE_Sandworm_Javelin.png",
    "T_Bestiary_Sandworm_Javelin.png"
   ],
-  "intro": "The is a variant of the Sandworm Spear that can only be thrown. Considering the deals the same amount of damage as a Bone Javelin, the is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "intro": "The Sandworm Javelin is a variant of the Sandworm Spear that can only be thrown. Considering the Sandworm Javelin deals the same amount of damage as a Bone Javelin, the Sandworm Javelin is overshadowed by higher-tier javelins and is not worth the effort. Crafted in batches of five and stacks up to twenty. The Sandworm Javelin recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey.",
   "itemable_name": "Sandworm_Throwing_Spear",
   "flavor": "Group 15 continues to research sandworms, suspecting its subterranean evolution could hold clues to the bioeffects of exotics.",
   "description": "A spear crafted from ancient organism's armor.",
@@ -1683,8 +1638,7 @@
    "techlvl": "Tier 2",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/sandworm-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Sandworm Knife",
@@ -1699,7 +1653,7 @@
    "CRE_Sandworm_Knife.png",
    "T_Bestiary_Sandworm_Knife.png"
   ],
-  "intro": "The is made with scales obtained from Sandworms. Considering the deals the same amount of damage as a Steel Knife, the is overshadowed by higher-tier knives and is not worth the effort. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "intro": "The Sandworm Knife is made with scales obtained from Sandworms. Considering the Sandworm Knife deals the same amount of damage as a Steel Knife, the Sandworm Knife is overshadowed by higher-tier knives and is not worth the effort. The Sandworm Knife recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey.",
   "itemable_name": "Sandworm_Knife",
   "flavor": "Evolved to resist prolonged sand abrasion, the sandworm's chitin-analogue scales holds an excellent edge.",
   "description": "A rare, highly durable blade.",
@@ -1720,8 +1674,7 @@
    "repair": "1 Sandworm Scale",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/sandworm-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Sandworm Spear",
@@ -1736,7 +1689,7 @@
    "CRE_Sandworm_Spear.png",
    "T_Bestiary_Sandworm_Spear.png"
   ],
-  "intro": "The is made with scales from Sandworms and can be used for melee combat with reach. Considering the deals the same amount of damage as a Bone Spear, the is overshadowed by higher-tier spears and is not worth the effort. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "intro": "The Sandworm Spear is made with scales from Sandworms and can be used for melee combat with reach. Considering the Sandworm Spear deals the same amount of damage as a Bone Spear, the Sandworm Spear is overshadowed by higher-tier spears and is not worth the effort. The Sandworm Spear recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey.",
   "itemable_name": "Sandworm_Spear",
   "flavor": "Group 15 continues to research sandworms, suspecting its subterranean evolution could hold clues to the bioeffects of exotics.",
   "description": "A spear crafted from an ancient organism's armor.",
@@ -1755,8 +1708,7 @@
    "techlvl": "Tier 2",
    "durability": "15,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/sandworm-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Sandworm Throwing Knife",
@@ -1771,7 +1723,7 @@
    "CRE_Sandworm_Throwing_Knife.png",
    "T_Bestiary_Sandworm_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Sandworm Knife that can be thrown. Unlike the Sandworm Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey. }}",
+  "intro": "The Sandworm Throwing Knife is a variant of the Sandworm Knife that can be thrown. Unlike the Sandworm Knife, the Sandworm Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Sandworm Throwing Knife recipe is unlocked upon completing Migrating Sands: Survey. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipe will need to re-do Migrating Sands: Survey.",
   "itemable_name": "Sandworm_Throwing_Knife",
   "flavor": "Evolved to resist prolonged sand abrasion, the sandworm's chitin-analogue scales holds an excellent edge.",
   "description": "A rare, highly durably blade.",
@@ -1789,8 +1741,7 @@
    "techlvl": "Tier 2",
    "bench": "Crafting Bench"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/sandworm-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Shengong \"Dida\" Spear",
@@ -1808,7 +1759,7 @@
    "CRE_Shengong_\"Dida\"_Spear.png",
    "T_Bestiary_Shengong_\"Dida\"_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Shengong \"Dida\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Shengong \"Dida\" Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Shengong_Charlie",
   "flavor": "Shengong is a subsidary of Asia's space administration, Sinotai. Its operation may be highly beauracratic, but its products are legendary for their efficiency.",
   "description": "A decent spear that knows exactly what it is.",
@@ -1828,8 +1779,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/shengong-dida-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Shengong \"Gong Bu\" Spear",
@@ -1847,7 +1797,7 @@
    "CRE_Shengong_\"Gong_Bu\"_Spear.png",
    "T_Bestiary_Shengong_\"Gong_Bu\"_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Shengong \"Gong Bu\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Shengong \"Gong Bu\" Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Shengong_Beta",
   "flavor": "Shengong's designs excel in no particular areas, but as a result have produced many classics of design economy.",
   "description": "Doesn't need to last a lifetime, to save one.",
@@ -1868,8 +1818,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/shengong-gong-bu-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Shengong \"Ji\" Bow",
@@ -1888,7 +1837,7 @@
    "CRE_Shengong_\"Ji\"_Bow.png",
    "T_Bestiary_Shengong_\"Ji\"_Bow.png"
   ],
-  "intro": "The is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
+  "intro": "The Shengong \"Ji\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The Shengong \"Ji\" Bow is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
   "itemable_name": "Meta_Bow_Shengong_Beta",
   "flavor": "Silent, deadly, affordable.",
   "description": "A powerful, if not especially durable recurve design.",
@@ -1909,8 +1858,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Bows",
-  "icon": "/icons/shengong-ji-bow.png"
+  "weapon_type": "Bows"
  },
  {
   "title": "Shengong \"Jijing\" Bow",
@@ -1929,7 +1877,7 @@
    "CRE_Shengong_\"Jijing\"_Bow.png",
    "T_Bestiary_Shengong_\"Jijing\"_Bow.png"
   ],
-  "intro": "The is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
+  "intro": "The Shengong \"Jijing\" Bow is a stronger, more durable variant of the Recurve Bow using arrows and talents interchangeably with other bows. The Shengong \"Jijing\" Bow is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect.",
   "itemable_name": "Meta_Bow_Shengong_Alpha",
   "flavor": "Shengong designs are not designed to last, but rather, for ease of repair, being defined by the high degree of interchangeability of parts between their products.",
   "description": "An affordable, reliable and efficient bow with acceptable performance.",
@@ -1951,8 +1899,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Bows",
-  "icon": "/icons/shengong-jijing-bow.png"
+  "weapon_type": "Bows"
  },
  {
   "title": "Shengong \"Jiju\" Spear",
@@ -1971,7 +1918,7 @@
    "CRE_Shengong_\"Jiju\"_Spear.png",
    "T_Bestiary_Shengong_\"Jiju\"_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Shengong \"Jiju\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Shengong \"Jiju\" Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Shengong_Delta",
   "flavor": "There's a beauty to economy.",
   "description": "A minor miracle of low cost production.",
@@ -1991,8 +1938,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/shengong-jiju-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Shengong \"Xingxing\" Spear",
@@ -2010,7 +1956,7 @@
    "CRE_Shengong_\"Xingxing\"_Spear.png",
    "T_Bestiary_Shengong_\"Xingxing\"_Spear.png"
   ],
-  "intro": "The is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the cannot be thrown, and there are currently no Workshop javelins.",
+  "intro": "The Shengong \"Xingxing\" Spear is unlocked in the Workshop on the Space Station and is equipped in the Prospector's loadout before starting a new prospect. Spears increase the range to which Prospectors can attack fauna, providing a unique advantage when up high. Unlike Javelins, the Shengong \"Xingxing\" Spear cannot be thrown, and there are currently no Workshop javelins.",
   "itemable_name": "Meta_Spear_Shengong_Alpha",
   "flavor": "No weapons are more widespread in human space than Shengong's.",
   "description": "The XingXing many not excel in any area, but represents unalloyed adequacy.",
@@ -2030,8 +1976,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/shengong-xingxing-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Shengong PF1 Spear",
@@ -2049,7 +1994,7 @@
    "CRE_Shengong_PF1_Spear.png",
    "T_Bestiary_Shengong_PF1_Spear.png"
   ],
-  "intro": "The is a Workshop that deals electric damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic electric damage. Although the modifier may have a low percent chance of proccing, the excels when used against Fauna that have a weakness to electric. A list of Fauna that are weak to electric can be viewed here. When the Electroshock modifier does proc, periodic electric damage is dealt to the target over the span of 4 seconds. Fauna with: *A resistance to electric: 25 electric damage on hit. 15-22 damage per second if the modifier procs *No weakness to elec",
+  "intro": "The Shengong PF1 Spear is a Workshop that deals electric damage on hit and has a 15% chance to apply a unique debuff to targets while also dealing periodic electric damage. Although the modifier may have a low percent chance of proccing, the Shengong PF1 Spear excels when used against Fauna that have a weakness to electric. A list of Fauna that are weak to electric can be viewed here. When the Electroshock modifier does proc, periodic electric damage is dealt to the target over the span of 4 seconds. Fauna with: *A resistance to electric: 25 electric damage on hit. 15-22 damage per second if t",
   "itemable_name": "Meta_Spear_Shengong_Echo",
   "flavor": "Brought to you by Shengong - the Brand of the People.",
   "description": "A brand new take on the classic Prospector's Spear. The next generation of tools on Icarus.",
@@ -2069,8 +2014,7 @@
    "techlvl": "Orbital Tech",
    "durability": "50,000"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/shengong-pf1-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Shotgun",
@@ -2083,7 +2027,7 @@
    "CRE_Shotgun.png",
    "T_Bestiary_Shotgun.png"
   ],
-  "intro": "The is one of the first Firearms available to prospectors. Using 00 Buckshot Shell for ammunition, the is more powerful than the Bolt Action Rifle at close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with the Creatures of Icarus. The can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Machining Bench for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "intro": "The Shotgun is one of the first Firearms available to prospectors. Using 00 Buckshot Shell for ammunition, the Shotgun is more powerful than the Bolt Action Rifle at close range. However, damage decreases rapidly as range increases, and prospectors should not rely on it for long-range encounters with the Creatures of Icarus. The Shotgun can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Machining Bench for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Ad",
   "itemable_name": "Shotgun",
   "flavor": "Ruin something's day, every day.",
   "description": "The reliable and timeless pump-action, savage at short range.",
@@ -2103,8 +2047,7 @@
    "durability": "10,000",
    "bench": "Machining Bench"
   },
-  "weapon_type": "Firearms",
-  "icon": "/icons/shotgun.png"
+  "weapon_type": "Firearms"
  },
  {
   "title": "Smoke Grenade",
@@ -2119,7 +2062,7 @@
    "CRE_Smoke_Grenade.png",
    "T_Bestiary_Smoke_Grenade.png"
   ],
-  "intro": "A smoke grenade is a canister-type grenade used as a signaling device, target or landing zone marking device, or as a screening device for unit movements. Upon detonation, the will cover the area in smoke and will obstruct the vision of creatures within the smoke. However, it will not stop creatures that are already aggressively pursuing Prospectors, creatures spawned by Thumpers, Radars, or other mission items that have been placed or activated. Stacks up to 5. }} Note: A Biofuel Can or MXC Fuel Canister containing at least 0.5 L of fuel is required to be in the Machining Bench to craft a sin",
+  "intro": "A smoke grenade is a canister-type grenade used as a signaling device, target or landing zone marking device, or as a screening device for unit movements. Upon detonation, the Smoke Grenade will cover the area in smoke and will obstruct the vision of creatures within the smoke. However, it will not stop creatures that are already aggressively pursuing Prospectors, creatures spawned by Thumpers, Radars, or other mission items that have been placed or activated. Stacks up to 5. Note: A Biofuel Can or MXC Fuel Canister containing at least 0.5 L of fuel is required to be in the Machining Bench to ",
   "itemable_name": "Smoke_Grenade",
   "flavor": "",
   "description": "A canister grenade, used for drawing attention or concealing.",
@@ -2135,8 +2078,7 @@
    "techlvl": "Tier 3",
    "bench": "Machining Bench"
   },
-  "weapon_type": "Weapons",
-  "icon": "/icons/smoke-grenade.png"
+  "weapon_type": "Weapons"
  },
  {
   "title": "Steel Axe",
@@ -2149,7 +2091,7 @@
    "CRE_Steel_Axe.png",
    "T_Bestiary_Steel_Axe.png"
   ],
-  "intro": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree, after reaching Level 20. }}",
+  "intro": "The Steel Axe is a mid-game Tool available in Icarus. Prospectors can unlock it in Tier 2 of the Tech Tree, after reaching Level 20.",
   "itemable_name": "Steel_Axe",
   "flavor": "Steel of this quality would be an embarrassment to any industry on Earth, but on Icarus remains a minor miracle.",
   "description": "A Steel Axe, for swifter felling and hewing.",
@@ -2169,8 +2111,7 @@
    "repair": "1 Steel Ingot",
    "bench": "Anvil Bench"
   },
-  "weapon_type": "Axes",
-  "icon": "/icons/steel-axe.png"
+  "weapon_type": "Axes"
  },
  {
   "title": "Steel Javelin",
@@ -2189,7 +2130,7 @@
    "CRE_Steel_Javelin.png",
    "T_Bestiary_Steel_Javelin.png"
   ],
-  "intro": "The is a variant of the Steel Spear that can only be thrown. A cheap upgrade to the Iron Javelin that increases projectile damage with a lower break chance, but is locked until prospectors reach level 20. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Steel Javelin is a variant of the Steel Spear that can only be thrown. A cheap upgrade to the Iron Javelin that increases projectile damage with a lower break chance, but is locked until prospectors reach level 20. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Steel_Throwing_Spear",
   "flavor": "The word 'spear' has descended to us through the ages largely unchanged.",
   "description": "A light, strong traditional spear design that holds its edge.",
@@ -2207,8 +2148,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/steel-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Steel Knife",
@@ -2222,7 +2162,7 @@
    "CRE_Steel_Knife.png",
    "T_Bestiary_Steel_Knife.png"
   ],
-  "intro": "The is an upgrade in damage and durability from the Iron Knife, the can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the [https://store.steampowered.com/news/app/1149460/view/3427829445177722907 Week 48] Update, Steel Knives cannot be thrown. For the thrown variant of the , view Steel Throwing Knife. }}",
+  "intro": "The Steel Knife is an upgrade in damage and durability from the Iron Knife, the Steel Knife can be used as either a melee weapon or tool. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. As of the Week 48 Update, Steel Knives cannot be thrown. For the thrown variant of the Steel Knife, view Steel Throwing Knife.",
   "itemable_name": "Steel_Knife",
   "flavor": "Finely balanced knives like this can be thrown accurately with a little practice.",
   "description": "A tempered needlepoint hunting blade.",
@@ -2244,8 +2184,7 @@
    "repair": "1 Steel Ingot",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/steel-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Steel Spear",
@@ -2259,7 +2198,7 @@
    "CRE_Steel_Spear.png",
    "T_Bestiary_Steel_Spear.png"
   ],
-  "intro": "The is an upgrade to the Iron Spear that deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Steel Spear is an upgrade to the Iron Spear that deals more damage/critical damage to targets and has twice the durability. Unlike the Steel Javelin, the Steel Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Steel_Spear",
   "flavor": "The word 'spear' has descended to us through the ages largely unchanged.",
   "description": "A light, strong traditional spear design that holds its edge.",
@@ -2278,8 +2217,7 @@
    "durability": "20,000",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/steel-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Steel Throwing Knife",
@@ -2294,7 +2232,7 @@
    "CRE_Steel_Throwing_Knife.png",
    "T_Bestiary_Steel_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Steel Knife that can be thrown. Unlike the Steel Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Steel Knife in the Tier 2 Tech Tree. }}",
+  "intro": "The Steel Throwing Knife is a variant of the Steel Knife that can be thrown. Unlike the Steel Knife, the Steel Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Steel Knife in the Tier 2 Tech Tree.",
   "itemable_name": "Steel_Throwing_Knife",
   "flavor": "Finely balanced knives like this can be thrown accurately with a little practice.",
   "description": "A tempered needlepoint hunting blade.",
@@ -2312,8 +2250,7 @@
    "techlvl": "Tier 2",
    "bench": "Anvil Bench Forge Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/steel-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Stone Throwing Knife",
@@ -2328,7 +2265,7 @@
    "CRE_Stone_Throwing_Knife.png",
    "T_Bestiary_Stone_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Stone Knife that can be thrown. Unlike the Stone Knife, the cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Stone Knife in the Tier 1 Tech Tree. }}",
+  "intro": "The Stone Throwing Knife is a variant of the Stone Knife that can be thrown. Unlike the Stone Knife, the Stone Throwing Knife cannot be used to skin fauna. Crafted in batches of 5 and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Stone Knife in the Tier 1 Tech Tree.",
   "itemable_name": "Stone_Throwing_Knife",
   "flavor": "Icarus's unusually active tectonics provide a ready source of sedimentary rocks, making for easily knapped, sharp, but weak blades.",
   "description": "A basic, balanced blade for taking down foes at medium distances.",
@@ -2346,8 +2283,7 @@
    "techlvl": "Tier 1",
    "bench": ""
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/stone-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Titanium Axe",
@@ -2361,7 +2297,7 @@
    "CRE_Titanium_Axe.png",
    "T_Bestiary_Titanium_Axe.png"
   ],
-  "intro": "The is the highest tiered Axe that can be crafted while on the surface of Icarus. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
+  "intro": "The Titanium Axe is the highest tiered Axe that can be crafted while on the surface of Icarus. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Titanium_Axe",
   "flavor": "",
   "description": "A savagely sharp, extremely durable hand axe.",
@@ -2381,8 +2317,7 @@
    "repair": "1 Titanium Ingot",
    "bench": "Foundry"
   },
-  "weapon_type": "Axes",
-  "icon": "/icons/titanium-axe.png"
+  "weapon_type": "Axes"
  },
  {
   "title": "Titanium Crossbow",
@@ -2396,7 +2331,7 @@
    "CRE_Titanium_Crossbow.png",
    "T_Bestiary_Titanium_Crossbow.png"
   ],
-  "intro": "The is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows. The shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
+  "intro": "The Titanium Crossbow is an upgrade to the Platinum Crossbow that offers a boost to projectile damage and a slightly larger ammo count; has a chance to slow targets and can fully penetrate hardened points, but has a slower fire rate than Bows. The Titanium Crossbow shoots the following Ammo: An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Titanium_Crossbow",
   "flavor": "Classier than a gun, more exciting than a bow.",
   "description": "A powerful weapon to help you tackle whatever Icarus throws at you.",
@@ -2418,8 +2353,7 @@
    "durability": "20,000",
    "bench": "Foundry"
   },
-  "weapon_type": "Crossbows",
-  "icon": "/icons/titanium-crossbow.png"
+  "weapon_type": "Crossbows"
  },
  {
   "title": "Titanium Javelin",
@@ -2438,7 +2372,7 @@
    "CRE_Titanium_Javelin.png",
    "T_Bestiary_Titanium_Javelin.png"
   ],
-  "intro": "The is a variant of the Titanium Spear that can only be thrown and is a costly upgrade to Tier 3 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Titanium Javelin is a variant of the Titanium Spear that can only be thrown and is a costly upgrade to Tier 3 Javelins. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Titanium_Throwing_Spear",
   "flavor": "Extremely strong and lightweight, the titanium spear is a devastating hunting and protective tool in well-trained hands.",
   "description": "A powerful, precise projectile weapon.",
@@ -2456,8 +2390,7 @@
    "techlvl": "Tier 4",
    "bench": "Foundry"
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/titanium-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Titanium Knife",
@@ -2471,7 +2404,7 @@
    "CRE_Titanium_Knife.png",
    "T_Bestiary_Titanium_Knife.png"
   ],
-  "intro": "The is an upgrade in damage and durability from the Platinum Knife, the can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife, the cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Titanium Knife is an upgrade in damage and durability from the Platinum Knife, the Titanium Knife can be used as either a melee weapon or tool. Unlike the Titanium Throwing Knife, the Titanium Knife cannot be thrown. A Tool Attachment Pack can be applied at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Titanium_Knife",
   "flavor": "Named for the Greek Titans, titanium is harder than steel, corrosion resistant and extremely light. Its only flaw is brittleness, meaning it falls short of its indestructible reputation.",
   "description": "A blade as hard and lightweight as life itself.",
@@ -2492,8 +2425,7 @@
    "repair": "Titanium Ingot",
    "bench": "Foundry"
   },
-  "weapon_type": "Knives",
-  "icon": "/icons/titanium-knife.png"
+  "weapon_type": "Knives"
  },
  {
   "title": "Titanium Spear",
@@ -2508,7 +2440,7 @@
    "CRE_Titanium_Spear.png",
    "T_Bestiary_Titanium_Spear.png"
   ],
-  "intro": "The is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin, the cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench. }}",
+  "intro": "The Titanium Spear is the first Spear available to prospectors once they reach Tier 4 and serves as an, albeit expensive, upgrade to its Tier 3 counterparts. Unlike the Titanium Javelin, the Titanium Spear cannot be thrown. An attachment slot is available, allowing for the application of Tool Attachment Packs at an Alteration Bench/Advanced Alteration Bench.",
   "itemable_name": "Titanium_Spear",
   "flavor": "Extremely strong and lightweight, the titanium spear is a devastating hunting and protective tool in well-trained hands.",
   "description": "A powerful, precise combat weapon.",
@@ -2527,8 +2459,7 @@
    "durability": "30,000",
    "bench": "Foundry"
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/titanium-spear.png"
+  "weapon_type": "Spears"
  },
  {
   "title": "Titanium Throwing Knife",
@@ -2543,7 +2474,7 @@
    "CRE_Titanium_Throwing_Knife.png",
    "T_Bestiary_Titanium_Throwing_Knife.png"
   ],
-  "intro": "The is a variant of the Titanium Knife that can be thrown. Unlike the Titanium Knife, the cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Titanium Knife in the Tier 4 Tech Tree. }}",
+  "intro": "The Titanium Throwing Knife is a variant of the Titanium Knife that can be thrown. Unlike the Titanium Knife, the Titanium Throwing Knife cannot be used to skin fauna. Crafted in batches of five and stacks up to fifty. The Throwing Knife variant is unlocked immediately after researching the Titanium Knife in the Tier 4 Tech Tree.",
   "itemable_name": "Titanium_Throwing_Knife",
   "flavor": "Named for the Greek Titans, titanium is harder than steel, corrosion resistant and extremely light. Its only flaw is brittleness, meaning it falls short of its indestructible reputation.",
   "description": "A blade as hard and lightweight as life itself.",
@@ -2561,8 +2492,7 @@
    "techlvl": "Tier 4",
    "bench": "Foundry"
   },
-  "weapon_type": "Throwing Knives",
-  "icon": "/icons/titanium-throwing-knife.png"
+  "weapon_type": "Throwing Knives"
  },
  {
   "title": "Trench Shotgun",
@@ -2579,7 +2509,7 @@
    "CRE_Trench_Shotgun.png",
    "T_Bestiary_Trench_Shotgun.png"
   ],
-  "intro": "The is a Tier 4 variant of the Shotgun that packs a punch and currently is the highest damage dealing close-range weapon available; uses 00 Buckshot Shell for ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the is a go-to for the Shotgun enthusiast in the group. The can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Fabricator for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Alteration Bench/Advanced Alteration Bench. Devasta",
+  "intro": "The Trench Shotgun is a Tier 4 variant of the Shotgun that packs a punch and currently is the highest damage dealing close-range weapon available; uses 00 Buckshot Shell for ammunition. With the highest ammo capacity and projectile damage amongst all three Shotguns, the Trench Shotgun is a go-to for the Shotgun enthusiast in the group. The Trench Shotgun can fire 100 rounds before breaking, and the talent can increase this to up to a maximum of 125 rounds, so bring a Fabricator for long trips. An attachment slot is available, allowing for the application of Ranged Attachment Packs at an Altera",
   "itemable_name": "Shotgun_T4",
   "flavor": "Get off my lawn.",
   "description": "An advanced weapon that packs a real punch.",
@@ -2599,8 +2529,7 @@
    "aimaccuracyx": "0.10000000149011612",
    "aimaccuracyy": "0.10000000149011612"
   },
-  "weapon_type": "Shotguns",
-  "icon": "/icons/trench-shotgun.png"
+  "weapon_type": "Shotguns"
  },
  {
   "title": "Wood Javelin",
@@ -2619,7 +2548,7 @@
    "CRE_Wood_Javelin.png",
    "T_Bestiary_Wood_Javelin.png"
   ],
-  "intro": "The is a variant of the Wood Spear that can only be thrown. The has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty. }}",
+  "intro": "The Wood Javelin is a variant of the Wood Spear that can only be thrown. The Wood Javelin has the slowest projectile travel time and highest projectile fall-off, but that can be overlooked by it's cheap producibility. Although Javelins have a moderate charge time and projectile travel time, they are one of the highest damage-dealing weapons in Icarus and are devastating when mastered. Crafted in batches of five and stacks up to twenty.",
   "itemable_name": "Wood_Throwing_Spear",
   "flavor": "An effective defensive weapon, and erratic low range projectile, rapidly surpassed by improved versions.",
   "description": "Simple to make, easy to break.",
@@ -2637,8 +2566,7 @@
    "techlvl": "Tier 1",
    "bench": ""
   },
-  "weapon_type": "Javelins",
-  "icon": "/icons/wood-javelin.png"
+  "weapon_type": "Javelins"
  },
  {
   "title": "Wood Spear",
@@ -2652,7 +2580,7 @@
    "CRE_Wood_Spear.png",
    "T_Bestiary_Wood_Spear.png"
   ],
-  "intro": "The is the first Spear available to prospectors and serves as an alternative to the Stone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the increase the range to which prospectors can attack fauna, providing a unique advantage when up high. Unlike the Wood Javelin, the cannot be thrown. Repaired in inventory by right-clicking the item - requires one Stick to repair. }}",
+  "intro": "The Wood Spear is the first Spear available to prospectors and serves as an alternative to the Stone Knife, dealing increased critical damage but with a slower attack speed. Like other spears, the Wood Spear increase the range to which prospectors can attack fauna, providing a unique advantage when up high. Unlike the Wood Javelin, the Wood Spear cannot be thrown. Repaired in inventory by right-clicking the item - requires one Stick to repair.",
   "itemable_name": "Wood_Spear",
   "flavor": "An effective defensive weapon, and erratic low range projectile, rapidly surpassed by improved versions.",
   "description": "Simple to make, easy to break.",
@@ -2672,7 +2600,6 @@
    "repair": "1 Stick",
    "bench": ""
   },
-  "weapon_type": "Spears",
-  "icon": "/icons/wood-spear.png"
+  "weapon_type": "Spears"
  }
 ]

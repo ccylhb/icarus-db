@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://icarus-db.pages.dev/sitemap.xml
+Sitemap: https://icarus.lootseer.com/sitemap.xml
