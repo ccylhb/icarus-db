@@ -19,12 +19,58 @@
   },
   "favicon": "🪐",
   "nav": [
-    { "label": "Home", "href": "/" },
-    { "label": "Weapons", "href": "/weapons/" },
-    { "label": "Food", "href": "/food/" },
-    { "label": "Creatures", "href": "/creatures/" },
-    { "label": "Rankings", "href": "/rankings/", "tool": true },
-    { "label": "Food Planner", "href": "/food-planner/", "tool": true }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Weapons",
+      "href": "/weapons/"
+    },
+    {
+      "label": "Food",
+      "href": "/food/"
+    },
+    {
+      "label": "Creatures",
+      "href": "/creatures/"
+    },
+    {
+      "label": "Rankings",
+      "href": "/rankings/",
+      "tool": true
+    },
+    {
+      "label": "Food Planner",
+      "href": "/food-planner/",
+      "tool": true
+    }
   ],
-  "footerNote": "Fan-made database. ICARUS is a trademark of RocketWerkz. Not affiliated with the game developer or ICARUS Wiki."
+  "footerNote": "Fan-made database. ICARUS is a trademark of RocketWerkz. Not affiliated with the game developer or ICARUS Wiki.",
+  "sisterSites": [
+    {
+      "name": "RimWorldDB",
+      "url": "https://rimworld.lootseer.com",
+      "blurb": "Weapon DPS, apparel armour, nutrition and animal combat power."
+    },
+    {
+      "name": "PalHub",
+      "url": "https://palhub.lootseer.com",
+      "blurb": "Breeding calculator, work suitability tables and base-building guides."
+    },
+    {
+      "name": "PalworldDB",
+      "url": "https://palworld.lootseer.com",
+      "blurb": "Pal stats, drops, breeding combos and work suitability."
+    },
+    {
+      "name": "SatisfactoryDB",
+      "url": "https://satisfactory.lootseer.com",
+      "blurb": "Crafting recipes with exact per-minute input and output rates."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
