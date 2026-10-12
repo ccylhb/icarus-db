@@ -28,7 +28,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/antelope.png"
  },
  {
   "title": "Arctic Moa",
@@ -70,7 +71,8 @@
   "speed_run": 704.0,
   "speed_sprint": 1247.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/arctic-moa.png"
  },
  {
   "title": "Arctic Scorpion",
@@ -111,7 +113,8 @@
   "speed_run": 396.0,
   "speed_sprint": 500.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/arctic-scorpion.png"
  },
  {
   "title": "Arctic Vesper",
@@ -148,7 +151,8 @@
   "speed_run": 100.0,
   "speed_sprint": 250.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/arctic-vesper.png"
  },
  {
   "title": "Arid Striker",
@@ -189,7 +193,8 @@
   "speed_run": 555.0,
   "speed_sprint": 832.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/arid-striker.png"
  },
  {
   "title": "Ashen Drake",
@@ -230,7 +235,8 @@
   "speed_run": 350.0,
   "speed_sprint": 350.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/ashen-drake.png"
  },
  {
   "title": "Baby Deer",
@@ -266,7 +272,8 @@
   "speed_run": 600.0,
   "speed_sprint": 1090.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/baby-deer.png"
  },
  {
   "title": "Bear",
@@ -308,7 +315,8 @@
   "speed_run": 649.0,
   "speed_sprint": 1999.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/bear.png"
  },
  {
   "title": "Bear Cub",
@@ -352,7 +360,8 @@
   "speed_run": 400.0,
   "speed_sprint": 400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/bear-cub.png"
  },
  {
   "title": "Bee",
@@ -385,7 +394,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/bee.png"
  },
  {
   "title": "Black Jaguar",
@@ -412,7 +422,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 2-4 Bone 10-16 Leather 1-3 Fur 2-2 Raw Meat 30% Drop Chance 3-5 Raw Stringy Meat",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/black-jaguar.png"
  },
  {
   "title": "Black Wolf",
@@ -439,7 +450,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 6-10 Bone 10-16 Leather 4-6 Fur 10-20 Raw Stringy Meat 8-15 Black Wolf Tooth",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": ""
  },
  {
   "title": "Blueback",
@@ -480,7 +492,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/blueback.png"
  },
  {
   "title": "Boar",
@@ -522,7 +535,8 @@
   "speed_run": 800.0,
   "speed_sprint": 999.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/boar.png"
  },
  {
   "title": "Buffalo",
@@ -563,7 +577,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/buffalo.png"
  },
  {
   "title": "Cat",
@@ -589,7 +604,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/cat.png"
  },
  {
   "title": "Cattle (Cow)",
@@ -615,7 +631,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": ""
  },
  {
   "title": "Cave Worm",
@@ -648,7 +665,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/cave-worm.png"
  },
  {
   "title": "Chala",
@@ -678,7 +696,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/chala.png"
  },
  {
   "title": "Chamois",
@@ -709,7 +728,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/chamois.png"
  },
  {
   "title": "Chicken",
@@ -735,7 +755,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 1-2 Raw White Meat 1 Raw Chicken 50% Drop Chance 1 Egg",
-  "origin": "Orbital Tech"
+  "origin": "Orbital Tech",
+  "icon": ""
  },
  {
   "title": "Clicker",
@@ -772,7 +793,8 @@
   "speed_run": 1650.0,
   "speed_sprint": 2200.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/clicker.png"
  },
  {
   "title": "Columbian Mammoth",
@@ -814,7 +836,8 @@
   "speed_run": 700.0,
   "speed_sprint": 831.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/columbian-mammoth.png"
  },
  {
   "title": "Cougar",
@@ -855,7 +878,8 @@
   "speed_run": 770.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/cougar.png"
  },
  {
   "title": "Crocodile",
@@ -896,7 +920,8 @@
   "speed_run": 200.0,
   "speed_sprint": 375.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/crocodile.png"
  },
  {
   "title": "Deer",
@@ -928,7 +953,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/deer.png"
  },
  {
   "title": "Dog",
@@ -954,7 +980,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": ""
  },
  {
   "title": "Drac",
@@ -995,7 +1022,8 @@
   "speed_run": 300.0,
   "speed_sprint": 750.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/drac.png"
  },
  {
   "title": "Draven",
@@ -1037,7 +1065,8 @@
   "speed_run": 1712.0,
   "speed_sprint": 1712.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/draven.png"
  },
  {
   "title": "Dreadwing",
@@ -1075,7 +1104,8 @@
   "speed_run": 100.0,
   "speed_sprint": 250.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/dreadwing.png"
  },
  {
   "title": "Dribbo",
@@ -1117,7 +1147,8 @@
   "speed_run": 758.0,
   "speed_sprint": 947.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/dribbo.png"
  },
  {
   "title": "Drifter",
@@ -1155,7 +1186,8 @@
   "speed_run": 0.0,
   "speed_sprint": 0.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/drifter.png"
  },
  {
   "title": "Drone",
@@ -1191,7 +1223,8 @@
   "speed_run": 2000.0,
   "speed_sprint": 5000.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/drone.png"
  },
  {
   "title": "Drosik",
@@ -1228,7 +1261,8 @@
   "speed_run": 600.0,
   "speed_sprint": 1090.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/drosik.png"
  },
  {
   "title": "Dune Raptor",
@@ -1270,7 +1304,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1500.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/dune-raptor.png"
  },
  {
   "title": "Elephant",
@@ -1311,7 +1346,8 @@
   "speed_run": 700.0,
   "speed_sprint": 831.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/elephant.png"
  },
  {
   "title": "Excortis the Wooly",
@@ -1338,7 +1374,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "Leather Fur Bone Raw Meat Raw Prime Meat Mammoth Tusk",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": ""
  },
  {
   "title": "Fish 01",
@@ -1365,7 +1402,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/fish-01.png"
  },
  {
   "title": "Fish 02",
@@ -1392,7 +1430,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/fish-02.png"
  },
  {
   "title": "Fish 03",
@@ -1419,7 +1458,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/fish-03.png"
  },
  {
   "title": "Frostfoot",
@@ -1461,7 +1501,8 @@
   "speed_run": 700.0,
   "speed_sprint": 1500.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/frostfoot.png"
  },
  {
   "title": "Garganutan",
@@ -1503,7 +1544,8 @@
   "speed_run": 420.0,
   "speed_sprint": 900.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/garganutan.png"
  },
  {
   "title": "Gaseous Floater",
@@ -1548,7 +1590,8 @@
   "speed_run": 0.0,
   "speed_sprint": 0.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/gaseous-floater.png"
  },
  {
   "title": "Glaci",
@@ -1590,7 +1633,8 @@
   "speed_run": 600.0,
   "speed_sprint": 799.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/glaci.png"
  },
  {
   "title": "Gribbler",
@@ -1632,7 +1676,8 @@
   "speed_run": 300.0,
   "speed_sprint": 500.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/gribbler.png"
  },
  {
   "title": "Hopper",
@@ -1674,7 +1719,8 @@
   "speed_run": 420.0,
   "speed_sprint": 560.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/hopper.png"
  },
  {
   "title": "Hyena",
@@ -1715,7 +1761,8 @@
   "speed_run": 300.0,
   "speed_sprint": 750.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/hyena.png"
  },
  {
   "title": "Ignari",
@@ -1756,7 +1803,8 @@
   "speed_run": 600.0,
   "speed_sprint": 799.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/ignari.png"
  },
  {
   "title": "Jaguar",
@@ -1797,7 +1845,8 @@
   "speed_run": 770.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/jaguar.png"
  },
  {
   "title": "Kea",
@@ -1827,7 +1876,8 @@
   "speed_run": 100.0,
   "speed_sprint": 250.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/kea.png"
  },
  {
   "title": "Kiwi",
@@ -1868,7 +1918,8 @@
   "speed_run": 377.0,
   "speed_sprint": 528.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/kiwi.png"
  },
  {
   "title": "Komodo",
@@ -1909,7 +1960,8 @@
   "speed_run": 350.0,
   "speed_sprint": 350.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/komodo.png"
  },
  {
   "title": "Korrin",
@@ -1946,7 +1998,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/korrin.png"
  },
  {
   "title": "Large Antelope",
@@ -1973,7 +2026,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 10-16 Leather 2-4 Bone 2-2 Raw Meat 50% Chance 1-4 Fur 10% Drop Chance 3-5 Raw Game Meat",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": ""
  },
  {
   "title": "Lava Broodling",
@@ -2014,7 +2068,8 @@
   "speed_run": 752.0,
   "speed_sprint": 1201.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/lava-broodling.png"
  },
  {
   "title": "Mammoth",
@@ -2046,7 +2101,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/mammoth.png"
  },
  {
   "title": "Moa",
@@ -2087,7 +2143,8 @@
   "speed_run": 704.0,
   "speed_sprint": 1247.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/moa.png"
  },
  {
   "title": "Needler",
@@ -2128,7 +2185,8 @@
   "speed_run": 200.0,
   "speed_sprint": 375.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/needler.png"
  },
  {
   "title": "Plains Equix",
@@ -2164,7 +2222,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/plains-equix.png"
  },
  {
   "title": "Polar Bear",
@@ -2208,7 +2267,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1332.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/polar-bear.png"
  },
  {
   "title": "Polar Bear Cub",
@@ -2252,7 +2312,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1332.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/polar-bear-cub.png"
  },
  {
   "title": "Pronghorn",
@@ -2282,7 +2343,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/pronghorn.png"
  },
  {
   "title": "Pygmy Lop",
@@ -2313,7 +2375,8 @@
   "speed_run": 440.0,
   "speed_sprint": 440.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/pygmy-lop.png"
  },
  {
   "title": "Quarrite",
@@ -2355,7 +2418,8 @@
   "speed_run": 550.0,
   "speed_sprint": 1080.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/quarrite.png"
  },
  {
   "title": "Queen Bee",
@@ -2382,7 +2446,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/queen-bee.png"
  },
  {
   "title": "Rabbit",
@@ -2412,7 +2477,8 @@
   "speed_run": 440.0,
   "speed_sprint": 440.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/rabbit.png"
  },
  {
   "title": "Raptor",
@@ -2454,7 +2520,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1500.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/raptor.png"
  },
  {
   "title": "Ravager",
@@ -2496,7 +2563,8 @@
   "speed_run": 492.0,
   "speed_sprint": 844.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/ravager.png"
  },
  {
   "title": "Reaver",
@@ -2537,7 +2605,8 @@
   "speed_run": 899.0,
   "speed_sprint": 1247.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/reaver.png"
  },
  {
   "title": "Redback",
@@ -2578,7 +2647,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/redback.png"
  },
  {
   "title": "Revanent",
@@ -2620,7 +2690,8 @@
   "speed_run": 600.0,
   "speed_sprint": 900.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/revanent.png"
  },
  {
   "title": "Rimetusk",
@@ -2662,7 +2733,8 @@
   "speed_run": 800.0,
   "speed_sprint": 950.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/rimetusk.png"
  },
  {
   "title": "Roat",
@@ -2692,7 +2764,8 @@
   "speed_run": 440.0,
   "speed_sprint": 440.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/roat.png"
  },
  {
   "title": "Sandhorn",
@@ -2734,7 +2807,8 @@
   "speed_run": 525.0,
   "speed_sprint": 900.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/sandhorn.png"
  },
  {
   "title": "Scorpion",
@@ -2775,7 +2849,8 @@
   "speed_run": 475.0,
   "speed_sprint": 600.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/scorpion.png"
  },
  {
   "title": "Scuttler",
@@ -2817,7 +2892,8 @@
   "speed_run": 380.0,
   "speed_sprint": 480.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/scuttler.png"
  },
  {
   "title": "Shaggy Zebra",
@@ -2858,7 +2934,8 @@
   "speed_run": 1400.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/shaggy-zebra.png"
  },
  {
   "title": "Sheep",
@@ -2885,7 +2962,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Cryogenically Frozen"
+  "origin": "Cryogenically Frozen",
+  "icon": "/icons/sheep.png"
  },
  {
   "title": "Skulk",
@@ -2927,7 +3005,8 @@
   "speed_run": 600.0,
   "speed_sprint": 975.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/skulk.png"
  },
  {
   "title": "Skulmutt",
@@ -2969,7 +3048,8 @@
   "speed_run": 374.0,
   "speed_sprint": 935.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/skulmutt.png"
  },
  {
   "title": "Slinker",
@@ -3010,7 +3090,8 @@
   "speed_run": 1102.0,
   "speed_sprint": 1415.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/slinker.png"
  },
  {
   "title": "Snow Leopard",
@@ -3051,7 +3132,8 @@
   "speed_run": 770.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/snow-leopard.png"
  },
  {
   "title": "Snow Rabbit",
@@ -3078,7 +3160,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 1-3 Bone 1-1 Raw Meat 50% Drop Chance 1-2 Fur 10% Drop Chance 3-5 Raw Soft Meat",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/snow-rabbit.png"
  },
  {
   "title": "Snow Stalker",
@@ -3120,7 +3203,8 @@
   "speed_run": 555.0,
   "speed_sprint": 832.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/snow-stalker.png"
  },
  {
   "title": "Snow Wolf",
@@ -3161,7 +3245,8 @@
   "speed_run": 300.0,
   "speed_sprint": 750.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/snow-wolf.png"
  },
  {
   "title": "Spectre",
@@ -3203,7 +3288,8 @@
   "speed_run": 525.0,
   "speed_sprint": 525.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/spectre.png"
  },
  {
   "title": "Spider",
@@ -3244,7 +3330,8 @@
   "speed_run": 280.0,
   "speed_sprint": 800.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/spider.png"
  },
  {
   "title": "Stomper",
@@ -3285,7 +3372,8 @@
   "speed_run": 1466.0,
   "speed_sprint": 2599.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/stomper.png"
  },
  {
   "title": "Stonejaw",
@@ -3326,7 +3414,8 @@
   "speed_run": 649.0,
   "speed_sprint": 1999.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/stonejaw.png"
  },
  {
   "title": "Storca",
@@ -3367,7 +3456,8 @@
   "speed_run": 550.0,
   "speed_sprint": 750.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/storca.png"
  },
  {
   "title": "Stryder",
@@ -3403,7 +3493,8 @@
   "speed_run": 660.0,
   "speed_sprint": 1199.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/stryder.png"
  },
  {
   "title": "Sulfur Vesper",
@@ -3440,7 +3531,8 @@
   "speed_run": 100.0,
   "speed_sprint": 250.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/sulfur-vesper.png"
  },
  {
   "title": "Sulfur Worm",
@@ -3477,7 +3569,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/sulfur-worm.png"
  },
  {
   "title": "Sulfuric Spider",
@@ -3519,7 +3612,8 @@
   "speed_run": 280.0,
   "speed_sprint": 800.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/sulfuric-spider.png"
  },
  {
   "title": "Swamp Hopper",
@@ -3561,7 +3655,8 @@
   "speed_run": 420.0,
   "speed_sprint": 560.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/swamp-hopper.png"
  },
  {
   "title": "Swamp Roat",
@@ -3588,7 +3683,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "100% Drop Chance 5-8 Leather 3-6 Fur 1-2 Bone 1-2 Raw Meat 50% Drop Chance 3-5Potato 3-5Tomato 20% Drop Chance 1-3 Acidic Glands",
-  "origin": "Category:Indiginous"
+  "origin": "Category:Indiginous",
+  "icon": "/icons/swamp-roat.png"
  },
  {
   "title": "Teenage Caveworm",
@@ -3620,7 +3716,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/teenage-caveworm.png"
  },
  {
   "title": "Terrenus",
@@ -3661,7 +3758,8 @@
   "speed_run": 1718.0,
   "speed_sprint": 2250.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/terrenus.png"
  },
  {
   "title": "Tusker",
@@ -3702,7 +3800,8 @@
   "speed_run": 1000.0,
   "speed_sprint": 1400.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/tusker.png"
  },
  {
   "title": "Ubis",
@@ -3743,7 +3842,8 @@
   "speed_run": 704.0,
   "speed_sprint": 1247.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/ubis.png"
  },
  {
   "title": "Venomfly",
@@ -3780,7 +3880,8 @@
   "speed_run": 2444.0,
   "speed_sprint": 3332.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/venomfly.png"
  },
  {
   "title": "Viscid",
@@ -3821,7 +3922,8 @@
   "speed_run": 600.0,
   "speed_sprint": 799.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/viscid.png"
  },
  {
   "title": "Wolf",
@@ -3863,7 +3965,8 @@
   "speed_run": 300.0,
   "speed_sprint": 750.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/wolf.png"
  },
  {
   "title": "Woolly Mammoth",
@@ -3905,7 +4008,8 @@
   "speed_run": 700.0,
   "speed_sprint": 831.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/woolly-mammoth.png"
  },
  {
   "title": "Worker Bee",
@@ -3931,7 +4035,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Transplanted"
+  "origin": "Transplanted",
+  "icon": "/icons/worker-bee.png"
  },
  {
   "title": "Wraith",
@@ -3973,7 +4078,8 @@
   "speed_run": 2100.0,
   "speed_sprint": 2100.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/wraith.png"
  },
  {
   "title": "Wulv",
@@ -3999,7 +4105,8 @@
   "speed_run": null,
   "speed_sprint": null,
   "resource": "",
-  "origin": "Indigenous"
+  "origin": "Indigenous",
+  "icon": ""
  },
  {
   "title": "Zebra",
@@ -4036,6 +4143,7 @@
   "speed_run": 800.0,
   "speed_sprint": 1201.0,
   "resource": "",
-  "origin": ""
+  "origin": "",
+  "icon": "/icons/zebra.png"
  }
 ]

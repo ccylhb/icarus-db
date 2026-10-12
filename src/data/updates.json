@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-12",
+    "text": "ICARUS: refreshed weapons, food & creature data (new envirosuits, defense systems, Copernicus update).",
+    "href": "https://icarusdb.lootseer.com/"
+  },
+  {
     "date": "2026-09-21",
     "text": "Wiki rework: Alpha Wolf replaced by Black Wolf",
     "href": "/creatures/"

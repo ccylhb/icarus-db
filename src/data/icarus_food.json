@@ -33,7 +33,8 @@
    "Consumes 1 Space in Stomach",
    "15% Movement Speed in Arctic",
    "-30% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/arctic-animal-feed.png"
  },
  {
   "title": "Avocado",
@@ -65,7 +66,8 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/avocado.png"
  },
  {
   "title": "Banana",
@@ -98,7 +100,8 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "-10% Food consumption"
-  ]
+  ],
+  "icon": "/icons/banana.png"
  },
  {
   "title": "Banana Bread",
@@ -141,7 +144,8 @@
    "-50% Stamina Regeneration Delay",
    "-10% Food Consumption",
    "+10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/banana-bread.png"
  },
  {
   "title": "Barbeque Carrot",
@@ -178,7 +182,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Projectile Damage"
-  ]
+  ],
+  "icon": "/icons/barbeque-carrot.png"
  },
  {
   "title": "Basic Dried Meat",
@@ -216,7 +221,8 @@
    "+75 Maximum Health",
    "+20% Health Regeneration",
    "-25% Food consumption"
-  ]
+  ],
+  "icon": "/icons/basic-dried-meat.png"
  },
  {
   "title": "Berry & Seed Bar",
@@ -253,7 +259,8 @@
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Tool Actions",
    "+15% Water Effects Duration"
-  ]
+  ],
+  "icon": "/icons/berry-seed-bar.png"
  },
  {
   "title": "Berry Jam",
@@ -292,7 +299,8 @@
    "+125 Maximum Stamina",
    "-20 Water Consumption",
    "+10% Shared Experience"
-  ]
+  ],
+  "icon": "/icons/berry-jam.png"
  },
  {
   "title": "Berry Smoked Saltwater Fillet",
@@ -332,7 +340,8 @@
    "+5% Exposure Resistance",
    "-25% Water Consumption",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/berry-smoked-saltwater-fillet.png"
  },
  {
   "title": "Big Breakfast",
@@ -358,7 +367,8 @@
   "stack": "10",
   "weight": "500",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/big-breakfast.png"
  },
  {
   "title": "Bread",
@@ -392,7 +402,8 @@
    "+80 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "Provides the 'Bread' modifier * +125 Maximum Stamina * +10% Experience"
-  ]
+  ],
+  "icon": "/icons/bread.png"
  },
  {
   "title": "Broiled Kumara",
@@ -429,7 +440,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Melee Attack Speed"
-  ]
+  ],
+  "icon": "/icons/broiled-kumara.png"
  },
  {
   "title": "Carrot",
@@ -460,7 +472,8 @@
    "+20 food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/carrot.png"
  },
  {
   "title": "Charred Corn",
@@ -497,7 +510,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Actions"
-  ]
+  ],
+  "icon": "/icons/charred-corn.png"
  },
  {
   "title": "Cocoa Smoked Soft Meat",
@@ -535,7 +549,8 @@
    "+25% Stamina Regeneration",
    "-40% Food Consumption",
    "+20% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/cocoa-smoked-soft-meat.png"
  },
  {
   "title": "Coffee Smoked Fatty T-bone",
@@ -574,7 +589,8 @@
    "+50% Yield from Butchering Animals",
    "-25% Food Consumption",
    "+20% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/coffee-smoked-fatty-t-bone.png"
  },
  {
   "title": "Cooked Bacon",
@@ -607,7 +623,8 @@
    "+15 Experience Gained",
    "+75 Maximum Health",
    "+75 Maximum Stamina"
-  ]
+  ],
+  "icon": "/icons/cooked-bacon.png"
  },
  {
   "title": "Cooked Fatty T-Bone",
@@ -646,7 +663,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-fatty-t-bone.png"
  },
  {
   "title": "Cooked Gamey Meat",
@@ -685,7 +703,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-gamey-meat.png"
  },
  {
   "title": "Cooked Giant Steak",
@@ -724,7 +743,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-giant-steak.png"
  },
  {
   "title": "Cooked Meat",
@@ -756,7 +776,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "20% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/cooked-meat.png"
  },
  {
   "title": "Cooked Soft Meat",
@@ -795,7 +816,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-soft-meat.png"
  },
  {
   "title": "Cooked Stringy Meat",
@@ -834,7 +856,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-stringy-meat.png"
  },
  {
   "title": "Cooked White Meat",
@@ -873,7 +896,8 @@
    "+150 Maximum Health",
    "+20 Health Regeneration per minute",
    "+5% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/cooked-white-meat.png"
  },
  {
   "title": "Corn",
@@ -901,7 +925,8 @@
   "bench": "",
   "buffs": [
    "+20 food when consumed"
-  ]
+  ],
+  "icon": "/icons/corn.png"
  },
  {
   "title": "Creamed Corn",
@@ -939,7 +964,8 @@
    "+75 Maximum Stamina",
    "+150 Maximum Health",
    "-10% Stamina Consumed by Actions"
-  ]
+  ],
+  "icon": "/icons/creamed-corn.png"
  },
  {
   "title": "Crispy Bacon",
@@ -973,7 +999,8 @@
    "+90 Maximum Health",
    "+90 Maximum Stamina",
    "+10% Critical Damage"
-  ]
+  ],
+  "icon": "/icons/crispy-bacon.png"
  },
  {
   "title": "Crispy Potato",
@@ -1011,7 +1038,8 @@
    "+75 Maximum Stamina",
    "-10% Food Consumption",
    "10% Melee Attack Speed"
-  ]
+  ],
+  "icon": "/icons/crispy-potato.png"
  },
  {
   "title": "Crumbed Saltwater Fillet",
@@ -1044,7 +1072,8 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Cumbed Fish modifier",
    "* +150 Maximum Health * +75 Maximum Stamina * +15% Stamina Regeneration * +10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/crumbed-saltwater-fillet.png"
  },
  {
   "title": "Desert Animal Feed",
@@ -1080,7 +1109,8 @@
    "Consumes 1 Space in Stomach",
    "+15% Movement Speed in the Desert",
    "-30% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/desert-animal-feed.png"
  },
  {
   "title": "Dried Fatty T-Bone",
@@ -1118,7 +1148,8 @@
    "+75 Maximum Health",
    "+25% Yield from Butchering Meat",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-fatty-t-bone.png"
  },
  {
   "title": "Dried Game Meat",
@@ -1156,7 +1187,8 @@
    "+75 Maximum Health",
    "+15% Melee Damage",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-game-meat.png"
  },
  {
   "title": "Dried Giant Steak",
@@ -1194,7 +1226,8 @@
    "+100 Maximum Health",
    "+25% Health Regeneration",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-giant-steak.png"
  },
  {
   "title": "Dried Saltwater Fillet",
@@ -1230,7 +1263,8 @@
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-saltwater-fillet.png"
  },
  {
   "title": "Dried Soft Meat",
@@ -1268,7 +1302,8 @@
    "+100 Maximum Stamina",
    "+15% Stamina Regeneration",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-soft-meat.png"
  },
  {
   "title": "Dried Stringy Meat",
@@ -1306,7 +1341,8 @@
    "+75 Maximum Stamina",
    "+15% Melee Attack Speed",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-stringy-meat.png"
  },
  {
   "title": "Dried White Meat",
@@ -1344,7 +1380,8 @@
    "+75 Maximum Stamina",
    "+10% Exposure Resistance",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/dried-white-meat.png"
  },
  {
   "title": "Endurance Animal Feed",
@@ -1380,7 +1417,8 @@
    "Consumes 1 Space in Stomach",
    "-75% Stamina Consumed",
    "-25% Sprint Speed"
-  ]
+  ],
+  "icon": "/icons/endurance-animal-feed.png"
  },
  {
   "title": "Fish Chunk Stew",
@@ -1417,7 +1455,8 @@
    "+10% Stamina Regeneration",
    "-10% Stamina Consumed",
    "+5% Melee Damage"
-  ]
+  ],
+  "icon": "/icons/fish-chunk-stew.png"
  },
  {
   "title": "Fish Chunks",
@@ -1446,7 +1485,8 @@
   "bench": "",
   "buffs": [
    "+15 Food when Consumed"
-  ]
+  ],
+  "icon": "/icons/fish-chunks.png"
  },
  {
   "title": "Fish Pie",
@@ -1486,7 +1526,8 @@
    "+30% Stamina Regeneration",
    "5% Exposure Resistance",
    "+10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/fish-pie.png"
  },
  {
   "title": "Flatbread",
@@ -1522,7 +1563,8 @@
    "+100% Stamina Regeneration",
    "+10% Water Consumption",
    "+5% Experienced Gained"
-  ]
+  ],
+  "icon": "/icons/flatbread.png"
  },
  {
   "title": "Flour",
@@ -1548,7 +1590,8 @@
   "stack": "100 Max",
   "weight": "25g",
   "bench": "Mortar and Pestle",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/flour.png"
  },
  {
   "title": "Freshwater Fillet Curry",
@@ -1583,7 +1626,8 @@
    "+150 Maximum Stamina",
    "+10% Experience Gained",
    "-10% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/freshwater-fillet-curry.png"
  },
  {
   "title": "Freshwater Fish Fillet",
@@ -1612,7 +1656,8 @@
   "bench": "Fishing Bench",
   "buffs": [
    "+15 Food when Consumed"
-  ]
+  ],
+  "icon": "/icons/freshwater-fish-fillet.png"
  },
  {
   "title": "Fried Chunky Vegetables",
@@ -1647,7 +1692,8 @@
    "+150 Maximum Stamina",
    "+10% Exposure Resistance",
    "10% Melee Attack Speed"
-  ]
+  ],
+  "icon": "/icons/fried-chunky-vegetables.png"
  },
  {
   "title": "Fried Eggs",
@@ -1684,7 +1730,8 @@
    "Provides the 'Fried Egg' modifier",
    "+75 Maximum Health",
    "10% Chance to find additional Stone while MIning"
-  ]
+  ],
+  "icon": "/icons/fried-eggs.png"
  },
  {
   "title": "Fried Fish Chunks",
@@ -1717,7 +1764,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+10% Stamina Regeneration"
-  ]
+  ],
+  "icon": "/icons/fried-fish-chunks.png"
  },
  {
   "title": "Fruit Muffin",
@@ -1752,7 +1800,8 @@
    "+225 Maximum Stamina",
    "-20% Water Consumption",
    "+35% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/fruit-muffin.png"
  },
  {
   "title": "Fruit Pie",
@@ -1789,7 +1838,8 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Fruit Pie' modifier",
    "* +75 Maximum Health * +150 Maximum Stamina * -15% Oxygen Consumption * -15% Water Consumption * +10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/fruit-pie.png"
  },
  {
   "title": "Fruit Salad",
@@ -1828,7 +1878,8 @@
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption",
    "-10% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/fruit-salad.png"
  },
  {
   "title": "Grilled Freshwater Fillet",
@@ -1865,7 +1916,8 @@
    "+75 Maximum Health",
    "+15% Stamina Regeneration",
    "+5% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/grilled-freshwater-fillet.png"
  },
  {
   "title": "Grilled Pumpkin",
@@ -1902,7 +1954,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "+5% Exposure Resistance"
-  ]
+  ],
+  "icon": "/icons/grilled-pumpkin.png"
  },
  {
   "title": "Grilled Saltwater Fillet",
@@ -1939,7 +1992,8 @@
    "+75 Maximum Health",
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance"
-  ]
+  ],
+  "icon": "/icons/grilled-saltwater-fillet.png"
  },
  {
   "title": "Honey",
@@ -1968,7 +2022,8 @@
   "bench": "Mortar and Pestle Beehive Extractor",
   "buffs": [
    "+20 when consumed"
-  ]
+  ],
+  "icon": "/icons/honey.png"
  },
  {
   "title": "Honey Glazed Pastry",
@@ -2004,7 +2059,8 @@
    "+150 Maximum Stamina",
    "+35% Food Effects Duration",
    "+15% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/honey-glazed-pastry.png"
  },
  {
   "title": "Honey Smoked Bacon",
@@ -2045,7 +2101,8 @@
    "-25% Food Consumption",
    "+15% Experience Gained",
    "+25% Food Effects Generation"
-  ]
+  ],
+  "icon": "/icons/honey-smoked-bacon.png"
  },
  {
   "title": "Honeycomb Bar",
@@ -2082,7 +2139,8 @@
    "+75 Maximum Stamina",
    "-10% Stamina Consumed by Tool Actions",
    "+15% Food Effects Duration"
-  ]
+  ],
+  "icon": "/icons/honeycomb-bar.png"
  },
  {
   "title": "Jarred Honey",
@@ -2119,7 +2177,8 @@
    "+125% Maximum Stamina",
    "+20% Food Effects Duration",
    "+20% Shared Experience Gained"
-  ]
+  ],
+  "icon": "/icons/jarred-honey.png"
  },
  {
   "title": "Kumara",
@@ -2151,7 +2210,8 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/kumara.png"
  },
  {
   "title": "Mature Coconut",
@@ -2188,7 +2248,8 @@
    "+2 Water when Consumed",
    "+50 Maximum Health",
    "-10% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/mature-coconut.png"
  },
  {
   "title": "Meat Pie",
@@ -2226,7 +2287,8 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Meat Pie' modifier",
    "* +225 Maximum Health * +15% Exposure Resistance * +15% Stamina Regeneration * +15% Health Regeneration * +10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/meat-pie.png"
  },
  {
   "title": "Mixed Berries",
@@ -2261,7 +2323,8 @@
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption",
    "-10% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/mixed-berries.png"
  },
  {
   "title": "Mountaineering Animal Feed",
@@ -2297,7 +2360,8 @@
    "Consumes 1 Space in Stomach",
    "+50% Falling Resistance",
    "-50% Stamina Consumed while Jumping"
-  ]
+  ],
+  "icon": "/icons/mountaineering-animal-feed.png"
  },
  {
   "title": "Mushroom",
@@ -2328,7 +2392,8 @@
    "+20 Food when Consumed",
    "Consumes 1 space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/mushroom.png"
  },
  {
   "title": "Mushroom Omlette",
@@ -2361,7 +2426,8 @@
    "+150 Maximum Health",
    "15% Chance to find additional Stone while Mining",
    "15% Stamina Regeneration"
-  ]
+  ],
+  "icon": "/icons/mushroom-omlette.png"
  },
  {
   "title": "Mushroom Soup",
@@ -2399,7 +2465,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+10% Stamina Regeneration"
-  ]
+  ],
+  "icon": "/icons/mushroom-soup.png"
  },
  {
   "title": "Pickled Avocado",
@@ -2433,7 +2500,8 @@
    "+20% Projectile Damage",
    "+20% Shared Experience Gained",
    "-20% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/pickled-avocado.png"
  },
  {
   "title": "Pickled Carrot",
@@ -2469,7 +2537,8 @@
    "+150 Maximum Stamina",
    "+20% Projectile Damage",
    "+20% Shared Experience Gained"
-  ]
+  ],
+  "icon": "/icons/pickled-carrot.png"
  },
  {
   "title": "Pickled Freshwater Fillet",
@@ -2504,7 +2573,8 @@
    "+30% Stamina Regeneration",
    "+10% Health Regeneration",
    "+20% Shared Experience"
-  ]
+  ],
+  "icon": "/icons/pickled-freshwater-fillet.png"
  },
  {
   "title": "Plain Jerky",
@@ -2541,7 +2611,8 @@
    "+150 Maximum Health",
    "+60% Health Regeneration",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/plain-jerky.png"
  },
  {
   "title": "Potato and Carrot Fries",
@@ -2581,7 +2652,8 @@
    "+10% Health Regeneration",
    "-10% Food Consumption",
    "+10% Projectile Damage"
-  ]
+  ],
+  "icon": "/icons/potato-and-carrot-fries.png"
  },
  {
   "title": "Potato Bread",
@@ -2620,7 +2692,8 @@
    "+150 Maximum Stamina",
    "-20% Food Consumption",
    "+15% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/potato-bread.png"
  },
  {
   "title": "Pumpkin",
@@ -2652,7 +2725,8 @@
    "+20 Food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/pumpkin.png"
  },
  {
   "title": "Pumpkin Bread",
@@ -2689,7 +2763,8 @@
    "+150 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "Provides the 'Pumpkin Bread' modifier * +150 Maximum Stamina * +15% Exposure Resistance * +15% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/pumpkin-bread.png"
  },
  {
   "title": "Raw Bacon",
@@ -2716,7 +2791,8 @@
   "stack": "50",
   "weight": "100",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-bacon.png"
  },
  {
   "title": "Raw Fatty T-Bone",
@@ -2750,7 +2826,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-fatty-t-bone.png"
  },
  {
   "title": "Raw Gamey Meat",
@@ -2784,7 +2861,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-gamey-meat.png"
  },
  {
   "title": "Raw Giant Steak",
@@ -2818,7 +2896,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-giant-steak.png"
  },
  {
   "title": "Raw Meat",
@@ -2846,7 +2925,8 @@
   "stack": "20",
   "weight": "50",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-meat.png"
  },
  {
   "title": "Raw Soft Meat",
@@ -2880,7 +2960,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-soft-meat.png"
  },
  {
   "title": "Raw Stringy Meat",
@@ -2914,7 +2995,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-stringy-meat.png"
  },
  {
   "title": "Raw White Meat",
@@ -2948,7 +3030,8 @@
   "stack": "20",
   "weight": "50g",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/raw-white-meat.png"
  },
  {
   "title": "Rhubarb",
@@ -2980,7 +3063,8 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/rhubarb.png"
  },
  {
   "title": "Rhubarb Stew",
@@ -3015,7 +3099,8 @@
    "-10% Oxygen Consumption",
    "-10% Water Consumption",
    "-10% Stamina Consumed"
-  ]
+  ],
+  "icon": "/icons/rhubarb-stew.png"
  },
  {
   "title": "Ripe Coconut",
@@ -3053,7 +3138,8 @@
    "Consumes 1 Space in Stomach",
    "+75% Maximum Health",
    "-10% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/ripe-coconut.png"
  },
  {
   "title": "Roast Squash",
@@ -3090,7 +3176,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+5% Melee Damage"
-  ]
+  ],
+  "icon": "/icons/roast-squash.png"
  },
  {
   "title": "Roast Vegetables",
@@ -3128,7 +3215,8 @@
    "+225 Maximum Stamina",
    "+10% Exposure Resistance",
    "+10% Melee Damage"
-  ]
+  ],
+  "icon": "/icons/roast-vegetables.png"
  },
  {
   "title": "Saltwater Fillet Sashimi",
@@ -3165,7 +3253,8 @@
    "+15% Stamina Regeneration",
    "+5% Exposure Resistance",
    "+5% Projectile Damage"
-  ]
+  ],
+  "icon": "/icons/saltwater-fillet-sashimi.png"
  },
  {
   "title": "Saltwater Fish Fillet",
@@ -3194,7 +3283,8 @@
   "bench": "Fishing Bench",
   "buffs": [
    "+15 Food when Consumed"
-  ]
+  ],
+  "icon": "/icons/saltwater-fish-fillet.png"
  },
  {
   "title": "Sauteed Rhubarb",
@@ -3231,7 +3321,8 @@
    ",br.Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-10% Oxygen Consumption"
-  ]
+  ],
+  "icon": "/icons/sauteed-rhubarb.png"
  },
  {
   "title": "Savory Roll",
@@ -3269,7 +3360,8 @@
    "15% Stamina Regeneration",
    "+30% Health Regeneration",
    "+10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/savory-roll.png"
  },
  {
   "title": "Seared Mushroom",
@@ -3306,7 +3398,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Health",
    "+5% Stamina Regeneration"
-  ]
+  ],
+  "icon": "/icons/seared-mushroom.png"
  },
  {
   "title": "Seed Animal Feed",
@@ -3342,7 +3435,8 @@
    "Consumes 1 Space in Stomach",
    "+125 Maximum Stamina",
    "50% Stamina Regeneration"
-  ]
+  ],
+  "icon": "/icons/seed-animal-feed.png"
  },
  {
   "title": "Seed Cracker",
@@ -3379,7 +3473,8 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "-15% Stamina Consumed by Tool Actions"
-  ]
+  ],
+  "icon": "/icons/seed-cracker.png"
  },
  {
   "title": "Shepherd's Pie",
@@ -3415,7 +3510,8 @@
    "+150 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "* +150 Maximum Health * +75 Maximum Stamina * +225 Maximum Health * +40% Health Regeneration * +10% Experience Gained * -20% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/shepherd-s-pie.png"
  },
  {
   "title": "Shepherd's Roll",
@@ -3456,7 +3552,8 @@
    "15% Melee Attack Speed",
    "15% Projectile Damage",
    "+10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/shepherd-s-roll.png"
  },
  {
   "title": "Soy Bean",
@@ -3492,7 +3589,8 @@
    "+20 Food when Consumed",
    "Consumes 1 space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/soy-bean.png"
  },
  {
   "title": "Soy Bean Stir-Fry",
@@ -3532,7 +3630,8 @@
    "+10% Projectile Damage",
    "+10% Stamina Regeneration",
    "+10% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/soy-bean-stir-fry.png"
  },
  {
   "title": "Sprinters Animal Feed",
@@ -3568,7 +3667,8 @@
    "Consumes 1 Space in Stomach",
    "+75% Movement Stamina Consumed",
    "+20% Sprint Speed"
-  ]
+  ],
+  "icon": "/icons/sprinters-animal-feed.png"
  },
  {
   "title": "Squash",
@@ -3600,7 +3700,8 @@
    "+20 food when consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/squash.png"
  },
  {
   "title": "Stew",
@@ -3640,7 +3741,8 @@
    "+10% Health Regeneration",
    "+10% Stamina Regeneration",
    "+10% Projectile Damage"
-  ]
+  ],
+  "icon": "/icons/stew.png"
  },
  {
   "title": "Strawberry",
@@ -3672,7 +3774,8 @@
    "+20 Food when Consumed",
    "Consumes 1 Space in Stomach",
    "+30 Maximum Health"
-  ]
+  ],
+  "icon": "/icons/strawberry.png"
  },
  {
   "title": "Strawberry Jam",
@@ -3707,7 +3810,8 @@
    "+125 Maximum Stamina",
    "+20 Experience Gained",
    "+10% Shared Experience"
-  ]
+  ],
+  "icon": "/icons/strawberry-jam.png"
  },
  {
   "title": "Stuffed Avocado",
@@ -3743,7 +3847,8 @@
    "+75% Maximum Stamina",
    "+10% Health Regeneration",
    "-10% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/stuffed-avocado.png"
  },
  {
   "title": "Sugar Cane",
@@ -3771,7 +3876,8 @@
   "stack": "100",
   "weight": "0.25 kg",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/sugar-cane.png"
  },
  {
   "title": "Sugar Cubes",
@@ -3802,7 +3908,8 @@
   "stack": "500",
   "weight": "0.1 kg",
   "bench": "",
-  "buffs": []
+  "buffs": [],
+  "icon": "/icons/sugar-cubes.png"
  },
  {
   "title": "Sweetcorn Soup",
@@ -3840,7 +3947,8 @@
    "Consumes 1 Space in Stomach",
    "+75 Maximum Stamina",
    "-20% Stamina Consumed by Actions"
-  ]
+  ],
+  "icon": "/icons/sweetcorn-soup.png"
  },
  {
   "title": "Tea Smoked Freshwater Fillet",
@@ -3879,7 +3987,8 @@
    "+25% Stamina Regeneration",
    "+50% Health Regeneration",
    "-25% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/tea-smoked-freshwater-fillet.png"
  },
  {
   "title": "Tomato & Egg Bowl",
@@ -3917,7 +4026,8 @@
    "+75 Maximum Stamina",
    "15% Chance to find additional Stone while Mining",
    "10% Projectile Damage"
-  ]
+  ],
+  "icon": "/icons/tomato-egg-bowl.png"
  },
  {
   "title": "Tomato Soup",
@@ -3952,7 +4062,8 @@
    "Consumes 1 Space in Stomach",
    "+100 Maximum Stamina",
    "+20% Health Regeneration"
-  ]
+  ],
+  "icon": "/icons/tomato-soup.png"
  },
  {
   "title": "Vegetable Pie",
@@ -3989,7 +4100,8 @@
    "Consumes 1 Space in Stomach",
    "Provides the 'Vegetable Pie' modifier",
    "* +150 Maximum Health * +150 Maximum Stamina * -15% Stamina Consumed by Actions * +15% Melee Damage * +10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/vegetable-pie.png"
  },
  {
   "title": "Vegetable Roll",
@@ -4026,7 +4138,8 @@
    "+15% Exposure Resistance",
    "+30% Health Regeneration",
    "+10% Experience Gained"
-  ]
+  ],
+  "icon": "/icons/vegetable-roll.png"
  },
  {
   "title": "Volcanic Animal Feed",
@@ -4062,7 +4175,8 @@
    "Consumes 1 Space in Stomach",
    "+50 Fire Resistance",
    "+50% Fire Resistance while in Lava"
-  ]
+  ],
+  "icon": "/icons/volcanic-animal-feed.png"
  },
  {
   "title": "Watermelon",
@@ -4096,7 +4210,8 @@
    "Consumes 1 Space in Stomach",
    "+50 Maximum Stamina",
    "-10% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/watermelon.png"
  },
  {
   "title": "Wild Berry",
@@ -4134,7 +4249,8 @@
    "Consumes 1 Space in Stomach",
    "+50 Maximum Stamina",
    "-10% Water Consumption"
-  ]
+  ],
+  "icon": "/icons/wild-berry.png"
  },
  {
   "title": "Wild Salad",
@@ -4173,7 +4289,8 @@
    "+150 Maximum Stamina",
    "+10% Exposure Resistance",
    "+10% Melee Damage"
-  ]
+  ],
+  "icon": "/icons/wild-salad.png"
  },
  {
   "title": "Young Coconut",
@@ -4211,6 +4328,7 @@
    "Consumes One Space in Stomach",
    "+25 Maximum Health",
    "-10% Food Consumption"
-  ]
+  ],
+  "icon": "/icons/young-coconut.png"
  }
 ]
