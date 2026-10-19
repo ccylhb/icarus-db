@@ -334,7 +334,7 @@
    "CRE_Caveworm_Knife.png",
    "T_Bestiary_Caveworm_Knife.png"
   ],
-  "intro": "The Caveworm Knife is made with resources obtained from Caveworms. Though the Caveworm Knife can be used as a melee weapon or tool to skin fauna, the Caveworm Knife has very little durability, which can prove problematic while on the go as it can only be repaired at a Crafting Bench. The Caveworm Knife recipe is unlocked upon completing Unearthed: Research. Note: Similar to other blueprint unlocks, this recipe is character-specific. Characters that do not have access to this recipes will need to re-do Unearthed: Research.",
+  "intro": "",
   "itemable_name": "Caveworm_Knife",
   "flavor": "Evolved to resist prolonged sand abrasion, the worm's chitin-analogue scales holds an excellent edge.",
   "description": "A rare, highly durable blade.",
@@ -342,18 +342,18 @@
    "Item.Tool.Knife.T1",
    "Item.Tool.Knife.T2"
   ],
-  "durability": 2.0,
+  "durability": 7.0,
   "weight": "0.5 kg",
-  "bench": "Crafting Bench",
+  "bench": "Anvil Bench",
   "repair": "1 Worm Scale",
   "stats": {
    "melee_dmg": "49 - 55",
    "attributes": "+100% chance to Poison on Hit with Attacks Inflicts the 'Poisoned' modifier for 60 seconds: -5% Movement Speed",
    "category": "Knives",
    "tech": "Tier 2",
-   "durability": "2,500",
+   "durability": "7,500",
    "repair": "1 Worm Scale",
-   "bench": "Crafting Bench"
+   "bench": "Anvil Bench"
   },
   "weapon_type": "Knives",
   "icon": "/icons/caveworm-knife.png"

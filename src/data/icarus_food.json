@@ -1421,6 +1421,34 @@
   "icon": "/icons/endurance-animal-feed.png"
  },
  {
+  "title": "Fish and Chips",
+  "slug": "fish-and-chips",
+  "category": "Food",
+  "infobox": "",
+  "images": [
+   "ITEM_Item_Fish_and_Chips.png",
+   "T_ITEM_Item_Fish_and_Chips.png",
+   "CRE_Item_Fish_and_Chips.png",
+   "T_Bestiary_Item_Fish_and_Chips.png",
+   "ITEM_Fish_and_Chips.png",
+   "T_ITEM_Fish_and_Chips.png",
+   "CRE_Fish_and_Chips.png",
+   "T_Bestiary_Fish_and_Chips.png"
+  ],
+  "intro": "",
+  "itemable_name": "Item_Fish_and_Chips",
+  "flavor": "One of Sol's favourites.",
+  "description": "Crispy Batter fish servred alongside deep-ried root slices.",
+  "tags": [],
+  "duration": "",
+  "decay": "",
+  "stack": "10",
+  "weight": "150",
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/fish-and-chips.png"
+ },
+ {
   "title": "Fish Chunk Stew",
   "slug": "fish-chunk-stew",
   "category": "Food",
@@ -1470,7 +1498,7 @@
    "CRE_Fish_Chunks.png",
    "T_Bestiary_Fish_Chunks.png"
   ],
-  "intro": "Fish Chunks are added to the Prospector's inventory after looting the carcass of a fish. Fish caught using a Fishing Trap or Fishing Rod can be converted into Fish Chunks as well. Fish Chunks can be cooked in a Campfire, or used in other dishes such as Freshwater Fillet Curry or Crumbed Saltwater Fillet. Right-click a Freshwater/Saltwater fish to convert it into Fish Chunks.",
+  "intro": "There are a few types of fish that can be seen swimming about on Icarus. Fish Chunks can be obtained from these species:",
   "itemable_name": "Fish_Chunks",
   "flavor": "Not the most appetizing...",
   "description": "A pile of roughly diced fish.",

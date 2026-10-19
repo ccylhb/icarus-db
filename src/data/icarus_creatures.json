@@ -29,7 +29,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": "/icons/antelope.png"
+  "icon": ""
  },
  {
   "title": "Arctic Moa",
@@ -114,7 +114,7 @@
   "speed_sprint": 500.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/arctic-scorpion.png"
+  "icon": ""
  },
  {
   "title": "Arctic Vesper",
@@ -236,7 +236,7 @@
   "speed_sprint": 350.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/ashen-drake.png"
+  "icon": ""
  },
  {
   "title": "Baby Deer",
@@ -273,7 +273,7 @@
   "speed_sprint": 1090.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/baby-deer.png"
+  "icon": ""
  },
  {
   "title": "Bear",
@@ -437,7 +437,7 @@
    "CRE_Black_Wolf.png",
    "T_Bestiary_Black_Wolf.png"
   ],
-  "intro": "Wolves are one of the most common, and most easily underestimated, dangers on Icarus. Whenever you see one wolf, you should expect two more have already circled behind you. Alpha Wolves do not spawn naturally outside of certain Prospects/Operations, SMPL3 missions, and horde events spawned by using a Vapor Condenser.",
+  "intro": "Wolves are one of the most common, and most easily underestimated, dangers on Icarus. Whenever you see one wolf, you should expect two more have already circled behind you. Alpha Wolves do not spawn naturally outside of certain Prospects/Operations, SMPL3 Missions, and horde events spawned by using a Vapor Condenser.",
   "tameable": "",
   "behavior": "Hostile",
   "diet": "",
@@ -536,7 +536,7 @@
   "speed_sprint": 999.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/boar.png"
+  "icon": ""
  },
  {
   "title": "Buffalo",
@@ -666,7 +666,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": "/icons/cave-worm.png"
+  "icon": ""
  },
  {
   "title": "Chala",
@@ -697,7 +697,7 @@
   "speed_sprint": 1199.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/chala.png"
+  "icon": ""
  },
  {
   "title": "Chamois",
@@ -1023,7 +1023,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/drac.png"
+  "icon": ""
  },
  {
   "title": "Draven",
@@ -1105,7 +1105,7 @@
   "speed_sprint": 250.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/dreadwing.png"
+  "icon": ""
  },
  {
   "title": "Dribbo",
@@ -1376,90 +1376,6 @@
   "resource": "Leather Fur Bone Raw Meat Raw Prime Meat Mammoth Tusk",
   "origin": "Transplanted",
   "icon": ""
- },
- {
-  "title": "Fish 01",
-  "slug": "fish-01",
-  "category": "Creatures",
-  "infobox": "Lifeform",
-  "images": [
-   "CRE_Fish 01.png",
-   "ITEM_Fish_01.png",
-   "T_ITEM_Fish_01.png",
-   "CRE_Fish_01.png",
-   "T_Bestiary_Fish_01.png"
-  ],
-  "intro": "Found in the waters of the terraformed zones on Icarus.",
-  "tameable": "",
-  "behavior": "Peaceful",
-  "diet": "",
-  "map": "",
-  "atmosphere": "",
-  "biome": "Desert Forest",
-  "levels": null,
-  "health": [],
-  "damage": [],
-  "speed_run": null,
-  "speed_sprint": null,
-  "resource": "",
-  "origin": "Transplanted",
-  "icon": "/icons/fish-01.png"
- },
- {
-  "title": "Fish 02",
-  "slug": "fish-02",
-  "category": "Creatures",
-  "infobox": "Lifeform",
-  "images": [
-   "CRE_Fish 02.png",
-   "ITEM_Fish_02.png",
-   "T_ITEM_Fish_02.png",
-   "CRE_Fish_02.png",
-   "T_Bestiary_Fish_02.png"
-  ],
-  "intro": "Found in the waters of the terraformed zones on Icarus.",
-  "tameable": "",
-  "behavior": "Peaceful",
-  "diet": "",
-  "map": "",
-  "atmosphere": "",
-  "biome": "Desert Forest",
-  "levels": null,
-  "health": [],
-  "damage": [],
-  "speed_run": null,
-  "speed_sprint": null,
-  "resource": "",
-  "origin": "Transplanted",
-  "icon": "/icons/fish-02.png"
- },
- {
-  "title": "Fish 03",
-  "slug": "fish-03",
-  "category": "Creatures",
-  "infobox": "Lifeform",
-  "images": [
-   "CRE_Fish 03.png",
-   "ITEM_Fish_03.png",
-   "T_ITEM_Fish_03.png",
-   "CRE_Fish_03.png",
-   "T_Bestiary_Fish_03.png"
-  ],
-  "intro": "Various type of fish were populated in the waters of Icarus. Due to what is assume exotic interference, some of the fish have become hostile and poisonous. Typically fish do not mind prospectors but these mutant fish will actively seek out and attack when entering their waters.",
-  "tameable": "",
-  "behavior": "Hostile",
-  "diet": "",
-  "map": "",
-  "atmosphere": "",
-  "biome": "Desert Forest",
-  "levels": null,
-  "health": [],
-  "damage": [],
-  "speed_run": null,
-  "speed_sprint": null,
-  "resource": "",
-  "origin": "Transplanted",
-  "icon": "/icons/fish-03.png"
  },
  {
   "title": "Frostfoot",
@@ -1762,7 +1678,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/hyena.png"
+  "icon": ""
  },
  {
   "title": "Ignari",
@@ -1804,7 +1720,34 @@
   "speed_sprint": 799.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/ignari.png"
+  "icon": ""
+ },
+ {
+  "title": "Jack",
+  "slug": "jack",
+  "category": "Creatures",
+  "infobox": "Lifeform",
+  "images": [
+   "CRE_Jack.png",
+   "ITEM_Jack.png",
+   "T_ITEM_Jack.png",
+   "T_Bestiary_Jack.png"
+  ],
+  "intro": "Found in the waters of the terraformed zones on Icarus.",
+  "tameable": "",
+  "behavior": "Peaceful",
+  "diet": "",
+  "map": "",
+  "atmosphere": "",
+  "biome": "Desert Forest",
+  "levels": null,
+  "health": [],
+  "damage": [],
+  "speed_run": null,
+  "speed_sprint": null,
+  "resource": "",
+  "origin": "Transplanted",
+  "icon": "/icons/jack.png"
  },
  {
   "title": "Jaguar",
@@ -2187,6 +2130,33 @@
   "resource": "",
   "origin": "",
   "icon": "/icons/needler.png"
+ },
+ {
+  "title": "Piranha",
+  "slug": "piranha",
+  "category": "Creatures",
+  "infobox": "Lifeform",
+  "images": [
+   "CRE_Piranha.png",
+   "ITEM_Piranha.png",
+   "T_ITEM_Piranha.png",
+   "T_Bestiary_Piranha.png"
+  ],
+  "intro": "Various type of fish were populated in the waters of Icarus. Due to what is assume exotic interference, some of the fish have become hostile and poisonous. Typically fish do not mind prospectors but these mutant fish will actively seek out and attack when entering their waters.",
+  "tameable": "",
+  "behavior": "Hostile",
+  "diet": "",
+  "map": "",
+  "atmosphere": "",
+  "biome": "Desert Forest",
+  "levels": null,
+  "health": [],
+  "damage": [],
+  "speed_run": null,
+  "speed_sprint": null,
+  "resource": "",
+  "origin": "Transplanted",
+  "icon": "/icons/piranha.png"
  },
  {
   "title": "Plains Equix",
@@ -3094,6 +3064,33 @@
   "icon": "/icons/slinker.png"
  },
  {
+  "title": "Snapper",
+  "slug": "snapper",
+  "category": "Creatures",
+  "infobox": "Lifeform",
+  "images": [
+   "CRE_Snapper.png",
+   "ITEM_Snapper.png",
+   "T_ITEM_Snapper.png",
+   "T_Bestiary_Snapper.png"
+  ],
+  "intro": "Found in the waters of the terraformed zones on Icarus.",
+  "tameable": "",
+  "behavior": "Peaceful",
+  "diet": "",
+  "map": "",
+  "atmosphere": "",
+  "biome": "Desert Forest",
+  "levels": null,
+  "health": [],
+  "damage": [],
+  "speed_run": null,
+  "speed_sprint": null,
+  "resource": "",
+  "origin": "Transplanted",
+  "icon": "/icons/snapper.png"
+ },
+ {
   "title": "Snow Leopard",
   "slug": "snow-leopard",
   "category": "Creatures",
@@ -3966,7 +3963,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/wolf.png"
+  "icon": ""
  },
  {
   "title": "Woolly Mammoth",
@@ -4009,7 +4006,7 @@
   "speed_sprint": 831.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/woolly-mammoth.png"
+  "icon": ""
  },
  {
   "title": "Worker Bee",
