@@ -148,23 +148,23 @@
   "icon": "/icons/banana-bread.png"
  },
  {
-  "title": "Barbeque Carrot",
-  "slug": "barbeque-carrot",
+  "title": "Barbecue Carrot",
+  "slug": "barbecue-carrot",
   "category": "Food",
   "infobox": "Consumables",
   "images": [
-   "ITEM_Barbeque Carrot.png",
+   "ITEM_Barbecue Carrot.png",
    "ITEM_BarbequeCarrot.png",
    "ITEM_Cooked_Carrot.png",
    "T_ITEM_Cooked_Carrot.png",
    "CRE_Cooked_Carrot.png",
    "T_Bestiary_Cooked_Carrot.png",
-   "ITEM_Barbeque_Carrot.png",
-   "T_ITEM_Barbeque_Carrot.png",
-   "CRE_Barbeque_Carrot.png",
-   "T_Bestiary_Barbeque_Carrot.png"
+   "ITEM_Barbecue_Carrot.png",
+   "T_ITEM_Barbecue_Carrot.png",
+   "CRE_Barbecue_Carrot.png",
+   "T_Bestiary_Barbecue_Carrot.png"
   ],
-  "intro": "Barbeque Carrot is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "Barbecue Carrot is made in a Campfire/Firepit/or Fireplace. Barbecue Carrot decays, and eventually spoils. This decay can be slowed down by storing Barbecue Carrot inside a Ice Box or Refrigerator.",
   "itemable_name": "Cooked_Carrot",
   "flavor": "Boosts stamina slightly, may prompt angst.",
   "description": "New plant, new rules.",
@@ -183,7 +183,7 @@
    "+75 Maximum Stamina",
    "+5% Projectile Damage"
   ],
-  "icon": "/icons/barbeque-carrot.png"
+  "icon": "/icons/barbecue-carrot.png"
  },
  {
   "title": "Basic Dried Meat",
@@ -1152,43 +1152,35 @@
   "icon": "/icons/dried-fatty-t-bone.png"
  },
  {
-  "title": "Dried Game Meat",
-  "slug": "dried-game-meat",
+  "title": "Dried Gamey Meat",
+  "slug": "dried-gamey-meat",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Dried Game Meat.png",
    "ITEM_Meat_GameyDried.png",
    "ITEM_Gamey_Meat_Dried.png",
    "T_ITEM_Gamey_Meat_Dried.png",
    "CRE_Gamey_Meat_Dried.png",
    "T_Bestiary_Gamey_Meat_Dried.png",
-   "ITEM_Dried_Game_Meat.png",
-   "T_ITEM_Dried_Game_Meat.png",
-   "CRE_Dried_Game_Meat.png",
-   "T_Bestiary_Dried_Game_Meat.png"
+   "ITEM_Dried_Gamey_Meat.png",
+   "T_ITEM_Dried_Gamey_Meat.png",
+   "CRE_Dried_Gamey_Meat.png",
+   "T_Bestiary_Dried_Gamey_Meat.png"
   ],
-  "intro": "Dried Game Meat is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "Dried Gamey Meat is made by placing Raw Game Meat inside the Drying Rack and the Smoker. Dried Gamey Meat spoils after 5000 seconds, and will then turn into Spoiled Meat. This decay can be slowed down by storing it inside a Ice Box or Refrigerator. Eating Dried Gamey Meat will replenish Health.",
   "itemable_name": "Gamey_Meat_Dried",
   "flavor": "A tough, chewy snack",
   "description": "A plain piece of dried meat",
   "tags": [
    "Item.Consumable.Food.Cooked.Meat"
   ],
-  "duration": "1,200",
+  "duration": "",
   "decay": "",
   "stack": "20",
   "weight": "250",
-  "bench": "Drying Rack Smoker",
-  "buffs": [
-   "+30 Heath when Consumed",
-   "+150 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "+75 Maximum Health",
-   "+15% Melee Damage",
-   "-25% Food Consumption"
-  ],
-  "icon": "/icons/dried-game-meat.png"
+  "bench": "",
+  "buffs": [],
+  "icon": "/icons/dried-gamey-meat.png"
  },
  {
   "title": "Dried Giant Steak",
@@ -1727,9 +1719,8 @@
   "title": "Fried Eggs",
   "slug": "fried-eggs",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Fried Eggs.png",
    "T_ITEM_Fried_Egg.png",
    "ITEM_Cooked_Eggs.png",
    "T_ITEM_Cooked_Eggs.png",
@@ -1740,25 +1731,19 @@
    "CRE_Fried_Eggs.png",
    "T_Bestiary_Fried_Eggs.png"
   ],
-  "intro": "Fried Eggs is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "",
   "itemable_name": "Cooked_Eggs",
   "flavor": "Locally grown.",
-  "description": "A fresh egg, fried just right",
+  "description": "A fresh egg fried just right.",
   "tags": [
    "Item.Consumable.Food.Cooked.Egg"
   ],
-  "duration": "10 Minutes",
-  "decay": "15 Minutes",
-  "stack": "1",
-  "weight": "0.5 Kg",
-  "bench": "Biofuel Stove",
-  "buffs": [
-   "+50 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "Provides the 'Fried Egg' modifier",
-   "+75 Maximum Health",
-   "10% Chance to find additional Stone while MIning"
-  ],
+  "duration": "",
+  "decay": "",
+  "stack": "10",
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/fried-eggs.png"
  },
  {
@@ -2027,39 +2012,36 @@
   "title": "Honey",
   "slug": "honey",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Honey.png",
    "T_ITEM_Honey.png",
+   "ITEM_Honey.png",
    "CRE_Honey.png",
    "T_Bestiary_Honey.png"
   ],
-  "intro": "Honey produced from Honeycomb with the Mortar and Pestle or the Beehive Extractor. The Mortar and Pestle produces 1x Honey per 2x Honeycomb and the Beehive Extractor produces 1x Honey for 1x Honeycomb.",
+  "intro": "",
   "itemable_name": "Honey",
   "flavor": "The Bees of Icarus are known for their long, needle-like stingers which are capable of piercing even the toughest of envirosuits. Proceed with caution.",
-  "description": "Freshly processed Honey, ready to eat or add to your food",
+  "description": "Freshly processed Honey, ready to eat or add to your food.",
   "tags": [
    "Item.Consumable.Food.Honey",
    "Item.Consumable.Food.Cooked.Honey",
    "Proxy.Liquid.Orange"
   ],
-  "duration": "60sec",
-  "decay": "Does not decay",
-  "stack": "25",
-  "weight": "0.5kg",
-  "bench": "Mortar and Pestle Beehive Extractor",
-  "buffs": [
-   "+20 when consumed"
-  ],
+  "duration": "",
+  "decay": "",
+  "stack": "50",
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/honey.png"
  },
  {
   "title": "Honey Glazed Pastry",
   "slug": "honey-glazed-pastry",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Honey Glazed Pastry.png",
    "T_ITEM_Honey_Glazed_Pastry.png",
    "ITEM_Honey_Pastry.png",
    "T_ITEM_Honey_Pastry.png",
@@ -2069,25 +2051,19 @@
    "CRE_Honey_Glazed_Pastry.png",
    "T_Bestiary_Honey_Glazed_Pastry.png"
   ],
-  "intro": "Fruit Muffin is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "",
   "itemable_name": "Honey_Pastry",
   "flavor": "Just like 'ma used to make.",
   "description": "A baked good generously drizzled with honey.",
   "tags": [
    "Item.Consumable.Food.Cooked.Honey"
   ],
-  "duration": "1,200 seconds",
+  "duration": "",
   "decay": "",
-  "stack": "10",
-  "weight": "<.1kg",
-  "bench": "Biofuel Stove",
-  "buffs": [
-   "+150 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "+150 Maximum Stamina",
-   "+35% Food Effects Duration",
-   "+15% Experience Gained"
-  ],
+  "stack": "20",
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/honey-glazed-pastry.png"
  },
  {
@@ -2136,47 +2112,39 @@
   "title": "Honeycomb Bar",
   "slug": "honeycomb-bar",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Honeycomb_Bar.png",
    "T_ITEM_Honey_Bar.png",
    "ITEM_Food_Honey_Bar.png",
    "T_ITEM_Food_Honey_Bar.png",
    "CRE_Food_Honey_Bar.png",
    "T_Bestiary_Food_Honey_Bar.png",
+   "ITEM_Honeycomb_Bar.png",
    "T_ITEM_Honeycomb_Bar.png",
    "CRE_Honeycomb_Bar.png",
    "T_Bestiary_Honeycomb_Bar.png"
   ],
-  "intro": "A sweet and tasty snack for your travels, long lasting effects and easily crafted.",
+  "intro": "",
   "itemable_name": "Food_Honey_Bar",
   "flavor": "Just like 'ma used to make.",
-  "description": "A sweet and tasty snack for your travels",
+  "description": "A sweet and tasty snack for your travels.",
   "tags": [
    "Item.Consumable.Food.Cooked.Honey"
   ],
-  "duration": "600 sec",
-  "decay": "3,600 sec",
+  "duration": "",
+  "decay": "",
   "stack": "25",
-  "weight": "0.2kg",
-  "bench": "Character Crafting",
-  "buffs": [
-   "+50 food when consumed",
-   "+20 water when consumed",
-   "Consumes 1 Space in Stomach",
-   "+75 Maximum Stamina",
-   "-10% Stamina Consumed by Tool Actions",
-   "+15% Food Effects Duration"
-  ],
+  "weight": "200",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/honeycomb-bar.png"
  },
  {
   "title": "Jarred Honey",
   "slug": "jarred-honey",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Jarred Honey.png",
    "T_ITEM_Honey_Jar.png",
    "ITEM_Glass_Jar_Honey.png",
    "T_ITEM_Glass_Jar_Honey.png",
@@ -2187,25 +2155,19 @@
    "CRE_Jarred_Honey.png",
    "T_Bestiary_Jarred_Honey.png"
   ],
-  "intro": "Jarred Honey is a long-lasting Food with a unique Status Effect, which can be stacked with other food buffs.",
+  "intro": "",
   "itemable_name": "Glass_Jar_Honey",
   "flavor": "Just like 'ma used to make.",
-  "description": "A handy way to store your honey",
+  "description": "A handy way to store your honey.",
   "tags": [
    "Item.Consumable.Food.Cooked.Honey"
   ],
-  "duration": "900 sec",
-  "decay": "Does not decay",
+  "duration": "",
+  "decay": "",
   "stack": "20",
-  "weight": "0.5kg",
-  "bench": "Kitchen Bench Marble Kitchen Bench",
-  "buffs": [
-   "+40 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "+125% Maximum Stamina",
-   "+20% Food Effects Duration",
-   "+20% Shared Experience Gained"
-  ],
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/jarred-honey.png"
  },
  {
@@ -2427,34 +2389,26 @@
   "title": "Mushroom Omlette",
   "slug": "mushroom-omlette",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
-   "ITEM_Mushroom Omlette.png",
    "T_ITEM_Mushroom_Omlette.png",
    "ITEM_Mushroom_Omlette.png",
    "CRE_Mushroom_Omlette.png",
    "T_Bestiary_Mushroom_Omlette.png"
   ],
-  "intro": "Mushroom Omlette is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "",
   "itemable_name": "Mushroom_Omlette",
   "flavor": "Flip it!",
-  "description": "Fried egg with a generous helping of mushrooms",
+  "description": "Fried egg with a generous helping of mushrooms.",
   "tags": [
    "Item.Consumable.Food.Cooked.Fungi"
   ],
-  "duration": "990s",
-  "decay": "15 Minutes",
+  "duration": "",
+  "decay": "",
   "stack": "10",
-  "weight": "0.5 Kg",
-  "bench": "Biofuel Stove",
-  "buffs": [
-   "+100 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "Provides the 'Mushroom Omelette' modifier",
-   "+150 Maximum Health",
-   "15% Chance to find additional Stone while Mining",
-   "15% Stamina Regeneration"
-  ],
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/mushroom-omlette.png"
  },
  {
@@ -3621,23 +3575,23 @@
   "icon": "/icons/soy-bean.png"
  },
  {
-  "title": "Soy Bean Stir-Fry",
+  "title": "Soy Bean Stir-fry",
   "slug": "soy-bean-stir-fry",
   "category": "Food",
   "infobox": "Consumables",
   "images": [
-   "ITEM_Soy Bean Stir-Fry.png",
+   "ITEM_Soy Bean Stir-fry.png",
    "ITEM_FriedSoyBeans.png",
    "ITEM_Food_Fried_Soy_Beans.png",
    "T_ITEM_Food_Fried_Soy_Beans.png",
    "CRE_Food_Fried_Soy_Beans.png",
    "T_Bestiary_Food_Fried_Soy_Beans.png",
-   "ITEM_Soy_Bean_Stir-Fry.png",
-   "T_ITEM_Soy_Bean_Stir-Fry.png",
-   "CRE_Soy_Bean_Stir-Fry.png",
-   "T_Bestiary_Soy_Bean_Stir-Fry.png"
+   "ITEM_Soy_Bean_Stir-fry.png",
+   "T_ITEM_Soy_Bean_Stir-fry.png",
+   "CRE_Soy_Bean_Stir-fry.png",
+   "T_Bestiary_Soy_Bean_Stir-fry.png"
   ],
-  "intro": "Soy Bean Stir-Fry is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "",
   "itemable_name": "Food_Fried_Soy_Beans",
   "flavor": "One of the original crops intended to sustain humanity on its first new extra-solar world.",
   "description": "Boosts health, lifts stamina, enhances self-satisfaction.",
@@ -4022,7 +3976,7 @@
   "title": "Tomato & Egg Bowl",
   "slug": "tomato-egg-bowl",
   "category": "Food",
-  "infobox": "Consumables",
+  "infobox": "",
   "images": [
    "T_ITEM_Tomato_Eggs.png",
    "ITEM_Egg_Salad.png",
@@ -4034,27 +3988,19 @@
    "CRE_Tomato_&_Egg_Bowl.png",
    "T_Bestiary_Tomato_&_Egg_Bowl.png"
   ],
-  "intro": "Tomato & Egg Bowl is a Food with a unique Status Effect, which can be stacked with other food buffs. Can be eaten to satisfy Hunger.",
+  "intro": "",
   "itemable_name": "Egg_Salad",
   "flavor": "An interesting mix of protein and fruit.",
-  "description": "Considered a delicacy back on Earth",
+  "description": "Considered a delicacy back on earth.",
   "tags": [
    "Item.Consumable.Food.Cooked.Egg"
   ],
-  "duration": "900s",
-  "decay": "13 Minutes",
+  "duration": "",
+  "decay": "",
   "stack": "10",
-  "weight": "0.5 Kg",
-  "bench": "Biofuel Stove",
-  "buffs": [
-   "+100 Food when Consumed",
-   "Consumes 1 Space in Stomach",
-   "Provides the 'Tomato & Egg Bowl' modifier",
-   "+75 Maximum Health",
-   "+75 Maximum Stamina",
-   "15% Chance to find additional Stone while Mining",
-   "10% Projectile Damage"
-  ],
+  "weight": "500",
+  "bench": "",
+  "buffs": [],
   "icon": "/icons/tomato-egg-bowl.png"
  },
  {

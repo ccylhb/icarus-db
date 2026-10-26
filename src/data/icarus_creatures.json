@@ -29,7 +29,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/antelope.png"
  },
  {
   "title": "Arctic Moa",
@@ -114,7 +114,7 @@
   "speed_sprint": 500.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/arctic-scorpion.png"
  },
  {
   "title": "Arctic Vesper",
@@ -236,7 +236,7 @@
   "speed_sprint": 350.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/ashen-drake.png"
  },
  {
   "title": "Baby Deer",
@@ -273,7 +273,7 @@
   "speed_sprint": 1090.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/baby-deer.png"
  },
  {
   "title": "Bear",
@@ -451,7 +451,7 @@
   "speed_sprint": null,
   "resource": "100% Drop Chance 6-10 Bone 10-16 Leather 4-6 Fur 10-20 Raw Stringy Meat 8-15 Black Wolf Tooth",
   "origin": "Transplanted",
-  "icon": ""
+  "icon": "/icons/black-wolf.png"
  },
  {
   "title": "Blueback",
@@ -536,7 +536,7 @@
   "speed_sprint": 999.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/boar.png"
  },
  {
   "title": "Buffalo",
@@ -608,15 +608,15 @@
   "icon": "/icons/cat.png"
  },
  {
-  "title": "Cattle (Cow)",
-  "slug": "cattle-cow",
+  "title": "Cattle",
+  "slug": "cattle",
   "category": "Creatures",
   "infobox": "Creature_infobox",
   "images": [
-   "ITEM_Cattle_(Cow).png",
-   "T_ITEM_Cattle_(Cow).png",
-   "CRE_Cattle_(Cow).png",
-   "T_Bestiary_Cattle_(Cow).png"
+   "ITEM_Cattle.png",
+   "T_ITEM_Cattle.png",
+   "CRE_Cattle.png",
+   "T_Bestiary_Cattle.png"
   ],
   "intro": "Cattle are hardy, domesticated herbivores renowned for their strength and adaptability, that thrive in grassy areas. Valued for their milk, meat, and labor, they are a cornersone of agricultural life, providing sustenance and support to humans. Cattle are social animals and form strong bonds with other members of the their herd. They even have best friends and can become sterssed when separated from them. They also have excellent memories and can remember faces, locations, and even the people who treat them well or poorly. \"\"",
   "tameable": "True",
@@ -632,7 +632,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/cattle.png"
  },
  {
   "title": "Cave Worm",
@@ -666,7 +666,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/cave-worm.png"
  },
  {
   "title": "Chala",
@@ -697,7 +697,7 @@
   "speed_sprint": 1199.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/chala.png"
  },
  {
   "title": "Chamois",
@@ -756,7 +756,7 @@
   "speed_sprint": null,
   "resource": "100% Drop Chance 1-2 Raw White Meat 1 Raw Chicken 50% Drop Chance 1 Egg",
   "origin": "Orbital Tech",
-  "icon": ""
+  "icon": "/icons/chicken.png"
  },
  {
   "title": "Clicker",
@@ -981,7 +981,7 @@
   "speed_sprint": null,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/dog.png"
  },
  {
   "title": "Drac",
@@ -1023,7 +1023,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/drac.png"
  },
  {
   "title": "Draven",
@@ -1105,7 +1105,7 @@
   "speed_sprint": 250.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/dreadwing.png"
  },
  {
   "title": "Dribbo",
@@ -1678,7 +1678,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/hyena.png"
  },
  {
   "title": "Ignari",
@@ -1720,7 +1720,7 @@
   "speed_sprint": 799.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/ignari.png"
  },
  {
   "title": "Jack",
@@ -2012,7 +2012,7 @@
   "speed_sprint": 1201.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/lava-broodling.png"
+  "icon": ""
  },
  {
   "title": "Mammoth",
@@ -2621,16 +2621,16 @@
   "icon": "/icons/redback.png"
  },
  {
-  "title": "Revanent",
-  "slug": "revanent",
+  "title": "Revenant",
+  "slug": "revenant",
   "category": "Creatures",
   "infobox": "Creature_infobox",
   "images": [
    "T_Bestiary_RAD_Abomination.png",
-   "ITEM_Revanent.png",
-   "T_ITEM_Revanent.png",
-   "CRE_Revanent.png",
-   "T_Bestiary_Revanent.png"
+   "ITEM_Revenant.png",
+   "T_ITEM_Revenant.png",
+   "CRE_Revenant.png",
+   "T_Bestiary_Revenant.png"
   ],
   "intro": "Revenants represent the final stage of human-afflicted radiation-exotic toxicity-an escalation far beyond Spectres and Wraiths. Barely recognizable as once-human, these creatures have grown massive under prolonged exposure to radioactive exotic concentrations. Their elongated limbs, hardened growths, and erratic movement patterns make them unpredictable and extremely dangerous. Revenants exhibit heightened aggression and resilience, capable of withstanding significant damage while delivering devastating melee attacks with irradiated claws. Like Spectres and Wraiths, Revenants originate from hu",
   "tameable": "False",
@@ -2661,7 +2661,7 @@
   "speed_sprint": 900.0,
   "resource": "",
   "origin": "",
-  "icon": "/icons/revanent.png"
+  "icon": "/icons/revenant.png"
  },
  {
   "title": "Rimetusk",
@@ -3062,33 +3062,6 @@
   "resource": "",
   "origin": "",
   "icon": "/icons/slinker.png"
- },
- {
-  "title": "Snapper",
-  "slug": "snapper",
-  "category": "Creatures",
-  "infobox": "Lifeform",
-  "images": [
-   "CRE_Snapper.png",
-   "ITEM_Snapper.png",
-   "T_ITEM_Snapper.png",
-   "T_Bestiary_Snapper.png"
-  ],
-  "intro": "Found in the waters of the terraformed zones on Icarus.",
-  "tameable": "",
-  "behavior": "Peaceful",
-  "diet": "",
-  "map": "",
-  "atmosphere": "",
-  "biome": "Desert Forest",
-  "levels": null,
-  "health": [],
-  "damage": [],
-  "speed_run": null,
-  "speed_sprint": null,
-  "resource": "",
-  "origin": "Transplanted",
-  "icon": "/icons/snapper.png"
  },
  {
   "title": "Snow Leopard",
@@ -3681,7 +3654,7 @@
   "speed_sprint": null,
   "resource": "100% Drop Chance 5-8 Leather 3-6 Fur 1-2 Bone 1-2 Raw Meat 50% Drop Chance 3-5Potato 3-5Tomato 20% Drop Chance 1-3 Acidic Glands",
   "origin": "Category:Indiginous",
-  "icon": "/icons/swamp-roat.png"
+  "icon": ""
  },
  {
   "title": "Teenage Caveworm",
@@ -3963,7 +3936,7 @@
   "speed_sprint": 750.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/wolf.png"
  },
  {
   "title": "Woolly Mammoth",
@@ -4006,7 +3979,7 @@
   "speed_sprint": 831.0,
   "resource": "",
   "origin": "",
-  "icon": ""
+  "icon": "/icons/woolly-mammoth.png"
  },
  {
   "title": "Worker Bee",

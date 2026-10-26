@@ -59,6 +59,9 @@ def cat_members(cat):
     while True:
         r = api({"action": "query", "list": "categorymembers", "cmtitle": cat,
                  "cmtype": "page", "cmnamespace": "0", "cmlimit": "500", **cont})
+        if r.get("_err"):
+            # 静默返空会整库清空，必须硬失败
+            raise RuntimeError(f"categorymembers failed for {cat}: {r['_err']}")
         out += [m["title"] for m in r.get("query", {}).get("categorymembers", [])]
         cont = r.get("continue") or {}
         if not cont:
@@ -438,6 +441,8 @@ def main():
     all_titles = set()
     for board, cat in BOARDS.items():
         titles = cat_members(cat)
+        if not titles:
+            raise RuntimeError(f"empty category {cat} — 疑似限流/抓取失败，中止以免清空数据")
         board_titles[board] = titles
         all_titles.update(titles)
         print(f"[board] {board}: {len(titles)} titles")
